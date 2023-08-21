@@ -1,0 +1,850 @@
+comp,perseus_n,perseus_text,pc_n,pc_text,pc_bounds,elision,speaker
+0.926829268292683,1,Prima deum magnis canimus freta pervia natis,1,Prima deum magnis canimus freta peruia natis,"['CF', 'CM', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,2,"fatidicamque ratem, Scythici quae Phasidis oras",2,"Fatidicamque ratem, Scythici quae Phasidis oras","['CF', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,3,ausa sequi mediosque inter iuga concita cursus,3,Ausa sequi mediosque inter iuga concita cursus,"['CF', 'CM', 'SY', 'CM', 'DI', 'DI', None]",1,
+1.0,4,rumpere flammifero tandem consedit Olympo.,4,Rumpere flammifero tandem consedit Olympo.,"['DI', 'CM', 'CM', 'CF', None]",0,
+0.8421052631578947,5,"Phoebe, mone, si Cymaeae mihi conscia vatis",5,"Phoebe, mone, si Cumaeae mihi conscia uatis","['CF', 'CM', 'DI', 'CM', 'DI', 'DI', None]",0,
+1.0,6,"stat casta cortina domo, si laurea digna",6,"Stat casta cortina domo, si laurea digna","['CM', 'CM', 'CF', 'CM', 'DI', 'DI', None]",0,
+0.926829268292683,7,"fronte viret; tuque o, pelagi cui maior aperti",7,Fronte uiret. tuque o pelagi cui maior aperti,"['CF', 'CM', 'SY', 'CM', 'CM', 'DI', 'CF', None]",1,
+0.9230769230769231,8,"fama, Caledonius postquam tua carbasa vexit",8,"Fama, Caledonius postquam tua carbasa uexit","['CF', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,9,"Oceanus Phrygios prius indignatus Iulos,",9,"Oceanus, Phrygios prius indignatus Iulos,","['CM', 'CM', 'DI', 'CF', None]",0,
+1.0,10,"eripe me populis et habenti nubila terrae,",10,"Eripe me populis et habenti nubila terrae,","['DI', 'CM', 'CM', 'CF', 'DI', 'DI', None]",0,
+0.7906976744186046,11,"sancte pater, veterumque fave veneranda canenti",11,"Sancte pater, ueterumque faue ueneranda canenti","['CF', 'CM', 'CF', 'CM', 'CF', None]",0,
+0.775,12,facta virum. versam proles tua pandet Idumen,12,Facta uirum: uersam proles tua pandit Idumen,"['CF', 'CM', 'CM', 'CM', 'DI', 'CF', None]",0,
+0.9302325581395349,13,(namque potest ): Solymo nigrantem pulvere fratrem,13,"Namque potest, Solymo nigrantem puluere fratrem","['CF', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,14,spargentemque faces et in omni turre furentem.,14,Spargentemque faces et in omni turre furentem.,"['CF', 'CM', 'CF', 'DI', 'DI', 'CF', None]",0,
+0.8974358974358975,15,ille tibi cultusque deum delubraque gentis,15,Ille tibi cultusque deum delubraque centum,"['CF', 'CM', 'CF', 'CM', 'DI', None]",0,
+1.0,16,"instituet, cum tu, genitor, lucebis ab omni",16,"Instituet cum tu, genitor, lucebis ab omni","['CM', 'DI', 'CM', 'CM', 'CF', 'DI', None]",0,
+0.7619047619047619,17,"parte poli, neque iam Tyriis Cynosura carinis",17,Parte poli; neque enim Tyriae Cynosura carinae,"['CF', 'CM', 'SY', 'CM', 'CM', 'CF', None]",1,
+0.925,18,"certior aut Grais Helice servanda magistris,",18,Certior aut Grais Helice seruanda magistris,"['DI', 'CM', 'CM', 'CM', 'CF', None]",0,
+0.9512195121951219,19,"sed tu signa dabis, sed te duce Graecia mittet",19,"Tu <si> signa dabis, sed te duce Graecia mittet","['CM', 'DI', 'CF', 'CM', 'DI', 'CM', 'DI', 'DI', None]",0,
+1.0,20,et Sidon Nilusque rates. nunc nostra serenus,20,Et Sidon Nilusque rates. nunc nostra serenus,"['CM', 'CM', 'CF', 'CM', 'DI', 'CF', None]",0,
+0.85,21,"orsa iuves, haec ut Latias vox impleat urbes.",21,"Orsa iuues, haec ut Latias uox impleat urbes.","['CF', 'CM', 'DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,22,"Haemoniam primis Pelias frenabat ab annis,",22,"Haemoniam primis Pelias frenabat ab annis,","['CM', 'CM', 'CM', 'CF', 'DI', None]",0,
+0.9318181818181818,23,iam gravis et longus populis metus: illius amnes,23,Iam grauis et longus populis metus; illius amnes,"['CM', 'DI', 'CM', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,24,"Ionium quicumque petunt, ille Othryn et Haemum",24,"Ionium quicumque petunt, ille Othryn et Haemum","['CM', 'CF', 'CM', 'SY', 'CF', 'DI', None]",1,
+0.8378378378378378,25,atque imum felix versabat vomere Olympum.,25,Atque imum felix uersabat uomere Olympum.,"['SY', 'CM', 'CM', 'DI', 'SY', None]",2,
+0.925,26,sed non ulla quies animo fratrisque paventi,26,Sed non ulla quies animo fratrisque pauenti,"['CM', 'DI', 'CF', 'CM', 'CM', 'CF', None]",0,
+0.925,27,progeniem divumque minas; hunc nam fore regi,27,Progeniem diuumque minas; hunc nam fore regi,"['CM', 'CF', 'CM', 'DI', 'CM', 'DI', None]",0,
+0.9230769230769231,28,exitio vatesque canunt pecudumque per aras,28,Exitio uatesque canunt pecudumque per aras,"['CM', 'CF', 'CM', 'CF', 'DI', None]",0,
+1.0,29,terrifici monitus iterant: super ipsius ingens,29,Terrifici monitus iterant: super ipsius ingens,"['CM', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.7857142857142857,30,instat fama viri virtusque haut laeta tyranno.,30,Instat fama uiri uirtusque haud laeta tyranno.,"['DI', 'CF', 'CM', 'SY', 'DI', 'CF', None]",1,
+0.9333333333333333,31,ergo anteire metus iuvenemque exstinguere pergit,31,Ergo anteire metus iuuenemque exstinguere pergit,"['SY', 'CF', 'CM', 'SY', 'DI', None]",2,
+0.8333333333333334,32,Aesonium letique vias ac tempora versat.,32,Aesonium letique uias ac tempora uersat.,"['CM', 'CF', 'CM', 'DI', 'DI', None]",0,
+0.9387755102040817,33,sed neque bella videt Graias neque monstra per urbes,33,Sed neque bella uidet Graias neque monstra per urbes,"['CM', 'DI', 'CF', 'CM', 'CM', 'DI', 'CF', 'DI', None]",0,
+0.8888888888888888,34,ulla: Cleonaeo iam tempora clusus hiatu,34,Vlla: Cleonaeo iam tempora clausus hiatu,"['CF', 'CM', 'DI', 'DI', 'CF', None]",0,
+1.0,35,Alcides; olim Lernae defensus ab angue,35,"Alcides, olim Lernae defensus ab angue","['CM', 'CM', 'CM', 'CF', 'DI', None]",0,
+0.85,36,"Areas, et ambobus iam cornua fracta iuvencis.",36,"Arcas, et ambobus iam cornua fracta iuuencis.","['CF', 'DI', 'CM', 'DI', 'DI', 'CF', None]",0,
+0.925,37,ira maris vastique placent discrimina ponti.,37,Ira maris uastique placent discrimina ponti.,"['CF', 'CM', 'CF', 'CM', 'DI', None]",0,
+0.9333333333333333,38,tum iuvenem tranquilla tuens nec fronte timendus,38,Tum iuuenem tranquilla tuens nec fronte timendus,"['CM', 'CM', 'CF', 'CM', 'DI', 'CF', None]",0,
+0.9302325581395349,39,occupat et fictis dat vultum et pondera dictis.,39,Occupat et fictis dat uultum et pondera dictis.,"['DI', 'CM', 'CM', 'DI', 'SY', 'DI', 'DI', None]",1,
+0.9318181818181818,40,"'hanc mihi militiam, veterum quae pulchrior actis,",40,"""Hanc mihi militiam, ueterum quae pulchrior actis,","['CM', 'DI', 'CM', 'CM', 'DI', 'DI', None]",0,['Pelias']
+1.0,41,adnue daque animum. nostri de sanguine Phrixus,41,Adnue daque animum. nostri de sanguine Phrixus,"['DI', 'SY', 'CM', 'CM', 'DI', 'DI', None]",1,['Pelias']
+1.0,42,Cretheos ut patrias audis effugerit aras.,42,Cretheos ut patrias audis effugerit aras.,"['DI', 'CM', 'CM', 'CM', 'DI', None]",0,['Pelias']
+0.9285714285714286,43,"hunc ferus Aeetes, Scythiam Phasimque rigentem",43,"Hunc ferus Aeetes, Scythiam Phasinque rigentem","['CM', 'DI', 'CM', 'CM', 'CF', None]",0,['Pelias']
+0.926829268292683,44,"qui colit (heu magni Solis pudor), hospita vina",44,"Qui colit (heu magni Solis pudor), hospita uina","['CM', 'DI', 'CM', 'CM', 'CM', 'DI', 'DI', None]",0,['Pelias']
+0.925,46,nil nostri divumque memor. non nuntia tantum,46,Nil nostri diuumque memor. non nuntia tantum,"['CM', 'CM', 'CF', 'CM', 'DI', 'DI', None]",0,['Pelias']
+0.8536585365853658,47,"fama refert: ipsum iuvenem tam saeva gementem,",47,"Fama refert: ipsum iuuenem tam saeua gementem,","['CF', 'CM', 'CM', 'CM', 'DI', 'CF', None]",0,['Pelias']
+1.0,48,"ipsum ego, cum serus fessos sopor alligat artus,",48,"Ipsum ego, cum serus fessos sopor alligat artus,","['SY', 'DI', 'CM', 'CM', 'CM', 'DI', 'DI', None]",1,['Pelias']
+1.0,49,aspicio; lacera adsiduis namque illius umbra,49,"Aspicio, lacera adsiduis namque illius umbra","['CM', 'SY', 'CM', 'SY', 'DI', None]",2,['Pelias']
+1.0,50,questibus et magni numen maris excitat Helle.,50,Questibus et magni numen maris excitat Helle.,"['DI', 'CM', 'CM', 'CM', 'DI', 'DI', None]",0,['Pelias']
+0.8095238095238095,51,"si mihi quae quondam vires, vel pendere poenas",51,"Si mihi quae quondam uires, tum pendere poenas","['CM', 'DI', 'CM', 'CM', 'CM', 'DI', 'DI', None]",0,['Pelias']
+0.9361702127659575,52,Colchida iam et regis caput hic atque arma videres.,52,Colchida iam et regis caput hic atque arma uideres.,"['DI', 'SY', 'CM', 'CM', 'DI', 'CM', 'SY', 'CF', None]",2,['Pelias']
+1.0,53,"olim annis ille ardor hebet, necdum mea proles",53,"Olim annis ille ardor hebet, necdum mea proles","['SY', 'CM', 'SY', 'CF', 'CM', 'CM', 'DI', None]",2,['Pelias']
+1.0,54,imperio et belli rebus matura marique.,54,Imperio et belli rebus matura marique.,"['SY', 'CM', 'CM', 'CM', 'CF', None]",1,['Pelias']
+0.85,55,"tu, cui iam curaeque vigent animique viriles,",55,"Tu, cui iam curaeque uigent animique uiriles,","['CM', 'DI', 'CM', 'CF', 'CM', 'CF', None]",0,['Pelias']
+0.9230769230769231,56,"i, decus, et pecoris Nephelaei vellera Graio",56,"I, decus, et pecoris Nephelaei uellera Graio","['CM', 'DI', 'CM', 'CM', 'DI', 'DI', None]",0,['Pelias']
+1.0,57,redde tholo ac tantis temet dignare periclis.',57,"Redde tholo ac tantis temet dignare periclis.""","['CF', 'SY', 'CM', 'CM', 'CM', 'CF', None]",1,['Pelias']
+0.85,58,"talibus hortatur iuvenem, propiorque iubenti",58,Talibus hortatus iuuenem propiorque iubenti,"['DI', 'CM', 'CM', 'CF', None]",0,
+0.8461538461538461,59,"conticuit, certus Scythico concurrere ponto",59,Conticuit: cautes Scythico concurrere ponto,"['CM', 'CM', 'CM', 'DI', None]",0,
+1.0,60,"Cyaneas, tantoque silet possessa dracone",60,Cyaneas tantoque silet possessa dracone,"['CM', 'CF', 'CM', 'CF', None]",0,
+1.0,61,"vellera, multifidas regis quem filia linguas",61,"Vellera, multifidas regis quem filia linguas","['DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.926829268292683,62,vibrantem ex adytis cantu dapibusque vocabat,62,Vibrantem ex adytis cantu dapibusque uocabat,"['SY', 'CM', 'CM', 'CM', 'CF', None]",1,
+0.75,63,et dabat ex terno liventia mella veneno.,63,Et dabat externo liuentia mella ueneno.,"['CM', 'DI', 'CM', 'DI', 'CF', None]",0,
+0.9210526315789473,64,Mox taciti patuere doli nec vellera curae,64,"Mox taciti patuere doli, nec uellera curae","['CM', 'CM', 'CF', 'CM', 'DI', 'DI', None]",0,
+0.9117647058823529,65,"esse viro, sed sese odiis immania cogi",65,"Esse uiro, sed sese odiis immania cogi","['CF', 'CM', 'DI', 'SY', 'CM', 'DI', None]",1,
+1.0,66,in freta. qua iussos sed tandem quaerere Colchos,66,In freta; qua iussos sed tandem quaerere Colchos,"['CM', 'DI', 'CM', 'CM', 'DI', 'DI', 'DI', None]",0,
+0.9142857142857143,67,arte queat? nunc aerii plantaria vellet,67,Arte queat? nunc aerii plantaria uellet,"['CF', 'CM', 'DI', 'CM', 'DI', None]",0,
+0.7804878048780488,68,Perseos aut curru saevos frenasse dracones,68,Perseos aut currus et quos frenasse dracones,"['DI', 'CM', 'CM', 'DI', 'CM', 'CF', None]",0,
+0.717948717948718,69,"ardet, ut ignaras Cereris qui vomere terras",69,Creditus ignaras Cereris qui uomere terras,"['DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.8333333333333334,70,imbuit et flava quercum damnavit arista.,70,Imbuit et flaua quercum damnauit arista.,"['DI', 'CM', 'CM', 'CM', 'CF', None]",0,
+0.8636363636363636,71,heu quid agat? populumne levem veterique tyranno,71,Heu quid agat? populumne leuem ueterique tyranno,"['CM', 'CF', 'CM', 'CF', 'CM', 'CF', None]",0,
+1.0,72,infensum atque olim miserantes Aesona patres,72,Infensum atque olim miserantes Aesona patres,"['SY', 'SY', 'CM', 'DI', 'DI', None]",2,
+0.9210526315789473,73,advocet? an socia Iunone et Pallade fretus,73,"Aduocet, an socia Iunone et Pallade fretus","['DI', 'CM', 'CM', 'SY', 'DI', 'DI', None]",1,
+0.9302325581395349,74,"armisona superet magis et freta iussa capessat,",74,"Armisona speret magis et freta iussa capessat,","['CM', 'CM', 'DI', 'CM', 'DI', 'CF', None]",0,
+1.0,75,siqua operis tanti domito consurgere ponto,75,Siqua operis tanti domito consurgere ponto,"['SY', 'CM', 'CM', 'CM', 'DI', None]",1,
+0.925,76,"fama queat? tu sola animos mentesque peruris,",76,"Fama queat? tu sola animos mentemque peruris,","['CF', 'CM', 'DI', 'SY', 'CM', 'CF', None]",1,
+0.85,77,Gloria; te viridem videt immunemque senectae,77,Gloria; te uiridem uidet immunemque senectae,"['DI', 'CM', 'CM', 'DI', 'CF', None]",0,
+0.8536585365853658,78,Phasidis in ripa stantem iuvenesque vocantem.,78,Phasidis in ripa stantem iuuenesque uocantem.,"['DI', 'CM', 'CM', 'CM', 'CF', None]",0,
+0.9333333333333333,79,tandem animi incertum confusaque pectora firmat,79,Tandem animum incertum confusaque pectora firmat,"['SY', 'SY', 'CM', 'DI', 'DI', None]",2,
+0.9473684210526315,80,"relligio, tendensque pias ad sidera palmas",80,"Religio, tendensque pias ad sidera palmas","['CM', 'CF', 'CM', 'DI', 'DI', None]",0,
+1.0,81,"'omnipotens regina', inquit 'quam, turbidus atro",81,"""Omnipotens regina,"" inquit ""quam, turbidus atro","['CM', 'SY', 'CM', 'DI', 'DI', None]",1,['Jason']
+1.0,82,"aethere caeruleum quateret cum Iuppiter imbrem,",82,"Aethere caeruleum quateret cum Iuppiter imbrem,","['DI', 'CM', 'CM', 'DI', 'DI', None]",0,['Jason']
+1.0,83,ipse ego praecipiti tumidum per Enipea nimbo,83,Ipse ego praecipiti tumidum per Enipea nimbo,"['SY', 'DI', 'CM', 'CM', 'CF', 'DI', None]",1,['Jason']
+0.972972972972973,84,in campos et tuta tuli nec credere quivi,84,In campos et tuta tuli nec credere quiui,"['CM', 'CM', 'DI', 'CF', 'CM', 'DI', 'DI', None]",0,['Jason']
+1.0,85,"ante deam, quam te tonitru nutuque reposci",85,Ante deam quam te tonitru nutuque reposci,"['CF', 'CM', 'DI', 'CM', 'CM', 'CF', None]",0,['Jason']
+0.918918918918919,86,"coniugis et subita raptam formidine vidi,",86,"Coniugis et subita raptam formidine uidi,","['DI', 'CM', 'CM', 'CM', 'DI', None]",0,['Jason']
+0.9302325581395349,87,"da Scythiam Phasimque mihi; tuque, innuba Pallas,",87,"Da Scythiam Phasinque mihi; tuque, innuba Pallas,","['CM', 'CM', 'CF', 'CM', 'SY', 'DI', None]",1,['Jason']
+0.8048780487804879,88,eripe me. vestris egomet tune vellera templis,88,Eripe me. uestris egomet tunc uellera templis,"['DI', 'CM', 'CM', 'CM', 'DI', 'DI', None]",0,['Jason']
+1.0,89,"illa dabo, dabit auratis et cornibus igni",89,"Illa dabo, dabit auratis et cornibus igni","['CF', 'CM', 'DI', 'CM', 'DI', 'DI', None]",0,['Jason']
+0.925,90,"colla pater, niveique greges altaria cingent.'",90,"Colla pater niueique greges altaria cingent.""","['CF', 'CM', 'CF', 'CM', 'DI', None]",0,['Jason']
+1.0,91,Accepere deae celerique per aethera lapsu,91,Accepere deae celerique per aethera lapsu,"['CF', 'CM', 'CF', 'DI', 'DI', None]",0,
+0.8285714285714286,92,diversas petiere vias. in moenia pernix,92,Diuersas petiere uias. in moenia pernix,"['CM', 'CF', 'CM', 'DI', 'DI', None]",0,
+0.8461538461538461,93,Thespia et ad carum Tritonia devolat Argum.,93,Thespiaca ad carum Tritonia deuolat Argum.,"['SY', 'CM', 'CM', 'DI', 'DI', None]",1,
+1.0,94,moliri hunc puppem iubet et demittere ferro,94,Moliri hunc puppem iubet et demittere ferro,"['SY', 'CM', 'CM', 'DI', 'CM', 'DI', None]",1,
+1.0,95,"robora, Peliacas et iam comes exit in umbras.",95,"Robora, Peliacas et iam comes exit in umbras.","['DI', 'CM', 'DI', 'CM', 'DI', 'CF', 'DI', None]",0,
+1.0,96,at Iuno Argolicas pariter Macetumque per urbes,96,At Iuno Argolicas pariter Macetumque per urbes,"['CM', 'SY', 'CM', 'CM', 'CF', 'DI', None]",1,
+1.0,97,spargit inexpertos temptare parentibus austros,97,Spargit inexpertos temptare parentibus Austros,"['CF', 'CM', 'CF', 'DI', None]",0,
+1.0,98,Aesoniden; iam stare ratem remisque superbam,98,Aesoniden: iam stare ratem remisque superbam,"['CM', 'DI', 'CF', 'CM', 'CF', None]",0,
+0.9318181818181818,99,poscere quos revehat rebusque in saecula tollat.,99,Poscere quos reuehat rebusque in saecula tollat.,"['DI', 'CM', 'CM', 'SY', 'DI', 'DI', None]",1,
+0.8780487804878049,100,Omnis avet quae iam bellis spectataque fama,100,Omnis adest quae iam bellis spectataque fama,"['CF', 'CM', 'DI', 'CM', 'CM', 'DI', None]",0,
+0.9285714285714286,101,"turba ducum, primae seu quos in flore iuventae",101,"Turba ducum, primae seu quos in flore iuuentae","['CF', 'CM', 'CM', 'DI', 'CM', 'DI', 'CF', None]",0,
+1.0,102,temptamenta tenent necdum data copia rerum:,102,Temptamenta tenent necdum data copia rerum.,"['CF', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.926829268292683,103,"at quibus arvorum studiumque insontis aratri,",103,"At quibus aruorum studiumque insontis aratri,","['CM', 'DI', 'CM', 'SY', 'CF', None]",1,
+0.9318181818181818,104,hos stimulant magnaque ratem per lustra viasque,104,Hos stimulant magnaque ratem per lustra uiasque,"['CM', 'CM', 'CF', 'CM', 'DI', 'CF', None]",0,
+1.0,105,visi laude canunt manifesto in lumine Fauni,105,Visi laude canunt manifesto in lumine Fauni,"['DI', 'CF', 'CM', 'SY', 'DI', 'DI', None]",1,
+0.926829268292683,106,silvarumque deae atque elatis cornibus Amnes.,106,Siluarumque deae atque elatis cornibus Amnes.,"['CF', 'SY', 'SY', 'DI', 'DI', None]",2,
+1.0,107,Protinus Inachiis ultro Tirynthius Argis,107,Protinus Inachiis ultro Tirynthius Argis,"['DI', 'CM', 'CM', 'DI', None]",0,
+0.8235294117647058,108,"advolat, Arcadio cuius flammata veneno",108,"Aduolat, Arcadio cuius flammata ueneno","['DI', 'CM', 'CM', 'CF', None]",0,
+1.0,109,tela puer facilesque umeris gaudentibus arcus,109,Tela puer facilesque umeris gaudentibus arcus,"['CF', 'CM', 'SY', 'CM', 'DI', None]",1,
+0.9347826086956522,110,"gestat Hylas: velit ille quidem, sed dextera nondum",110,"Gestat Hylas; uelit ille quidem, sed dextera nondum","['CF', 'CM', 'DI', 'CF', 'CM', 'DI', 'DI', None]",0,
+0.926829268292683,111,par oneri clavaeque capax. quos talibus amens,111,Par oneri clauaeque capax. quos talibus amens,"['CM', 'CM', 'CF', 'CM', 'DI', 'DI', None]",0,
+0.926829268292683,112,insequitur solitosque novat Saturnia questus:,112,Insequitur solitosque nouat Saturnia questus:,"['CM', 'CF', 'CM', 'DI', None]",0,
+0.918918918918919,113,'o utinam Graiae rueret non omne iuventae,113,"""O utinam Graiae rueret non omne iuuentae","['CM', 'CM', 'CM', 'CM', 'DI', 'CF', None]",0,['Juno']
+0.9347826086956522,114,"in nova fata decus, nostrique Eurystheos haec nunc",114,"In noua fata decus, nostrique Eurystheos haec nunc","['CM', 'DI', 'CF', 'CM', 'SY', 'DI', 'CM', None]",1,['Juno']
+0.9375,115,iussa forent. imbrem et tenebras saevumque tridentem,115,Iussa forent. imbrem et tenebras saeuumque tridentem,"['CF', 'CM', 'SY', 'CM', 'CM', 'CF', None]",1,['Juno']
+0.8837209302325582,116,iam iam ego et inviti torsissem coniugis ignem.,116,Iamiam ego et inuiti torsissem coniugis ignem.,"['SY', 'SY', 'DI', 'CM', 'DI', 'DI', None]",2,['Juno']
+0.8666666666666667,117,nune quoque nec socium nostrae columenve carinae,117,Nunc quoque nec socium nostrae columenue carinae,"['CM', 'DI', 'CM', 'CM', 'CM', 'CF', None]",0,['Juno']
+0.9347826086956522,118,"esse velim, Herculeis nec me umquam fidere fas sit",118,"Esse uelim, Herculeis nec me umquam fidere fas sit","['CF', 'SY', 'CM', 'DI', 'SY', 'DI', 'DI', 'CM', None]",2,['Juno']
+1.0,119,auxiliis comiti et tantum debere superbo.',119,"Auxiliis comiti et tantum debere superbo.""","['CM', 'SY', 'CM', 'CM', 'CF', None]",1,['Juno']
+1.0,120,Dixit et Haemonias oculos detorquet ad undas.,120,Dixit et Haemonias oculos detorquet ad undas.,"['CF', 'DI', 'CM', 'CM', 'CF', 'DI', None]",0,
+0.8636363636363636,121,"fervere cuncta virum coetu, simul undique cernit",121,"Feruere cuncta uirum coetu, simul undique cernit","['DI', 'CF', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,122,delatum nemus et docta resonare bipenni,122,Delatum nemus et docta resonare bipenni,"['CM', 'DI', 'CM', 'CM', 'CF', None]",0,
+0.9210526315789473,123,litora; iam pinus gracili dissolvere lamna,123,Litora; iam pinus gracili dissoluere lamna,"['DI', 'CM', 'CM', 'CM', 'DI', None]",0,
+1.0,124,Thespiaden iungique latus lentoque sequaces,124,Thespiaden iungique latus lentoque sequaces,"['CM', 'CF', 'CM', 'CF', None]",0,
+0.9230769230769231,125,"molliri videt igne trabes, remisque paratis",125,Molliri uidet igne trabes remisque paratis,"['CM', 'DI', 'CF', 'CM', 'CF', None]",0,
+0.9210526315789473,126,Pallada velifero quaerentem bracchia malo.,126,Pallada uelifero quaerentem bracchia malo.,"['DI', 'CM', 'DI', 'DI', None]",0,
+0.9210526315789473,127,constitit ut longo moles non pervia ponto,127,"Constitit ut, longo moles non peruia ponto,","['DI', 'CM', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,128,"puppis, et ut tenues subiere latentia cerae",128,"Puppis, et ut tenues subiere latentia cerae","['CF', 'DI', 'CM', 'CM', 'CF', 'DI', None]",0,
+0.8461538461538461,129,"lumina, picturae varios superaddit honores.",129,"Lumina, picturae uarios super addit honores.","['DI', 'CM', 'CM', 'DI', 'CF', None]",0,
+1.0,130,hic sperata ... Tyrrheni tergore piscis,130,Hic sperata ** Tyrrheni tergore piscis,"['CM', 'CF', None, 'CM', 'DI', 'DI']",0,
+0.9347826086956522,131,Peleos in thalamos vehitur Thetis; aequora delphin,131,Peleos in thalamos uehitur Thetis; aequora delphin,"['DI', 'CM', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,132,"corripit, illa sedet deiecta in lumina palla",132,"Corripit, <illa> sedet deiecta in lumina palla","['DI', 'CF', 'CM', 'SY', 'DI', 'DI', None]",1,
+0.8648648648648649,133,nec love maiorem nasci suspirat Achillen.,133,Nec Ioue maiorem nasci suspirat Achillem.,"['CM', 'DI', 'CM', 'CM', 'CF', None]",0,
+1.0,134,hanc Panope Dotoque soror laetataque fluctu,134,Hanc Panope Dotoque soror laetataque fluctu,"['CM', 'CM', 'CF', 'CM', 'DI', None]",0,
+0.8780487804878049,135,prosequitur nitidis pariter Galatea lacertis,135,Prosequitur nudis pariter Galatea lacertis,"['CM', 'CM', 'CM', 'CF', None]",0,
+0.8333333333333334,136,alta petens: Siculo revocat de litore Cyclops.,136,Antra petens; Siculo reuocat de litore Cyclops.,"['CF', 'CM', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.9318181818181818,137,contra ignis viridique torus de fronde dapesque,137,Contra ignis uiridique torus de fronde dapesque,"['SY', 'CM', 'CF', 'CM', 'DI', 'CF', None]",1,
+0.9512195121951219,138,vinaque et aequoreos inter cum coniuge divos,138,Vinaque et aequoreos inter cum coniuge diuos,"['SY', 'DI', 'CM', 'CM', 'DI', 'DI', None]",1,
+1.0,139,"Aeacides, pulsatque chelyn post pocula Chiron.",139,"Aeacides, pulsatque chelyn post pocula Chiron.","['CM', 'CF', 'CM', 'DI', 'DI', None]",0,
+1.0,140,parte alia Pholoe multoque insanus Iaccho,140,Parte alia Pholoe multoque insanus Iaccho,"['SY', 'CM', 'CM', 'SY', 'CF', None]",2,
+0.8536585365853658,141,Rhoetus et Atracia subitae de virgine pugnae.,141,Rhoecus et Atracia subitae de uirgine pugnae.,"['CF', 'DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.918918918918919,142,crateres mensaeque volant araeque deorum,142,Crateres mensaeque uolant araeque deorum,"['CM', 'CF', 'CM', 'CF', None]",0,
+0.9302325581395349,143,"poculaque, insignis veterum labor. optimus hasta",143,"Poculaque, insignis ueterum labor. optimus hasta","['SY', 'CM', 'CM', 'DI', 'DI', None]",1,
+1.0,144,"hic Peleus, hic ense furens agnoscitur Aeson;",144,"Hic Peleus, hic ense furens agnoscitur Aeson;","['CM', 'CM', 'DI', 'CF', 'CM', 'DI', None]",0,
+0.7631578947368421,145,fert gravis invito victorem Nestora tergo,145,Fert grauis inuito uictorem Nestora tergo,"['CM', 'DI', 'CM', 'DI', 'DI', None]",0,
+1.0,146,"Monychus, ardenti peragit Clanis Actora quercu;",146,"Monychus, ardenti peragit Clanis Actora quercu;","['DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.925,147,"nigro Nessus equo fugit, adclinisque tapetis",147,Nigro Nessus equo fugit acclinisque tapetis,"['DI', 'CF', 'CM', 'DI', 'CF', None]",0,
+0.9230769230769231,148,in mediis vacuo condit caput Hippasus auro.,148,In mediis uacuo condit caput Hippasus auro.,"['CM', 'CM', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.8636363636363636,149,Haec quamquam miranda viris stupet Aesone natus,149,Haec quamquam miranda minus stupet Aesone natus,"['CM', 'CM', 'CF', 'CM', 'DI', 'DI', None]",0,
+1.0,150,et secum: 'heu miseros nostrum natosque patresque.,150,"Et secum ""heu miseros nostrum natosque patresque.","['CM', 'SY', 'CM', 'CM', 'CM', 'CF', None]",1,['Jason']
+0.9523809523809523,151,haccine nos animae faciles rate nubila contra,151,Hacine nos animae faciles rate nubila contra,"['DI', 'CM', 'CM', 'CM', 'DI', 'DI', None]",0,['Jason']
+0.926829268292683,152,mittimur? in solum nunc saeviet Aesona pontus?,152,Mittimur? in solum nunc saeuiet Aesona pontus?,"['DI', 'CM', 'CM', 'DI', 'DI', 'DI', None]",0,['Jason']
+0.8636363636363636,153,non iuvenem in casus eademnque pericula Acastum,153,Non iuuenem in casus eademque pericula Acastum,"['CM', 'SY', 'CM', 'CM', 'CF', 'SY', None]",2,['Jason']
+0.9230769230769231,154,abripiam? invisae Pelias freta tuta carinae,154,Abripiam? inuisae Pelias freta tuta carinae,"['SY', 'CM', 'CM', 'DI', 'CF', None]",1,['Jason']
+1.0,155,optet et exoret nostris cum matribus undas.',155,"Optet et exoret nostris cum matribus undas.""","['CF', 'DI', 'CM', 'CM', 'DI', 'DI', None]",0,['Jason']
+0.725,156,Talia cunctanti laevum Iovis armiger aethra,156,Talia iactanti laeuum Iouis armiger aethra,"['DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.8604651162790697,157,advenit et validis fixam erigit unguibus agnam.,157,Aduenit et ualidis fixam erigit unguibus agnam.,"['DI', 'CM', 'CM', 'SY', 'DI', 'DI', None]",1,
+1.0,158,at procul e stabulis trepidi clamore sequuntur,158,At procul e stabulis trepidi clamore sequuntur,"['CM', 'DI', 'CM', 'CM', 'CM', 'CF', None]",0,
+1.0,159,pastores fremitusque canum; citus occupat auras,159,Pastores fremitusque canum; citus occupat auras,"['CM', 'CF', 'CM', 'DI', 'DI', None]",0,
+1.0,160,raptor et Aegaei super effugit alta profundi.,160,Raptor et Aegaei super effugit alta profundi.,"['CF', 'DI', 'CM', 'DI', 'DI', 'CF', None]",0,
+1.0,161,accipit augurium Aesonides laetusque superbi,161,Accipit augurium Aesonides laetusque superbi,"['DI', 'SY', 'CM', 'CF', None]",1,
+0.9302325581395349,162,tecta petit Peliae. Drior huic tum regia proles,162,Tecta petit Peliae. prior huic tum regia proles,"['CF', 'CM', 'CM', 'DI', 'CM', 'DI', 'DI', None]",0,
+0.926829268292683,163,advolat amplexus fraternaque pectora iungens.,163,Aduolat amplexus fraternaque pectora iungens.,"['DI', 'CM', 'DI', 'DI', None]",0,
+1.0,164,"ductor ait: 'non degeneres, ut reris, Acaste,",164,"Ductor ait ""non degeneres, ut reris, Acaste,","['CF', 'CM', 'DI', 'CM', 'DI', 'CF', None]",0,['Jason']
+1.0,165,venimus ad questus: socium te iungere coeptis,165,Venimus ad questus: socium te iungere coeptis,"['DI', 'CM', 'CM', 'CM', 'DI', 'DI', None]",0,['Jason']
+1.0,166,est animus; neque enim Telamon aut Canthus et Idas,166,Est animus; neque enim Telamon aut Canthus et Idas,"['CM', 'CM', 'SY', 'CM', 'CM', 'DI', 'CF', 'DI', None]",1,['Jason']
+0.9285714285714286,167,Tyndareusque puer mihi vellere dignior Helles.,167,Tyndareusque puer mihi uellere dignior Helles.,"['CF', 'CM', 'DI', 'DI', 'DI', None]",0,['Jason']
+1.0,168,"o quantum terrae, quantum cognoscere caeli",168,"O quantum terrae, quantum cognoscere caeli","['CM', 'CM', 'CM', 'CM', 'DI', None]",0,['Jason']
+1.0,169,"permissum est, pelagus quantos aperimus in usus.",169,Permissum est! pelagus quantos aperimus in usus!,"['CM', 'PE', 'CM', 'CM', 'CF', 'DI', None]",0,['Jason']
+0.9318181818181818,170,nunc forsan grave reris opus; sed laeta recurret,170,"Nunc forsan graue reris opus, sed laeta recurret","['CM', 'CM', 'DI', 'CF', 'CM', 'DI', 'CF', None]",0,['Jason']
+1.0,171,"cum ratis et caram cum iam mihi reddet Iolcon,",171,Cum ratis et caram cum iam mihi reddet Iolcon,"['CM', 'DI', 'CM', 'CM', 'DI', 'CM', 'DI', 'CF', None]",0,['Jason']
+0.9318181818181818,172,"quis pudor heu nostros tibi tune audire labores,",172,"Quis pudor heu nostros tibi tunc audire labores,","['CM', 'DI', 'CM', 'CM', 'DI', 'CM', 'CF', None]",0,['Jason']
+0.9230769230769231,173,quam referam visas tua per suspiria gentes.',173,"Quam referam uisas tua per suspiria gentes!""","['CM', 'CM', 'CM', 'DI', 'CM', 'DI', None]",0,['Jason']
+0.925,174,Nec passus rex plura virum: 'sat multa parato,174,"Nec passus rex plura uirum ""sat multa parato","['CM', 'CM', 'DI', 'CF', 'CM', 'DI', 'CF', None]",0,['Acastus']
+0.8571428571428571,175,"in quaecumque vocas; nec nos' ait 'optume, segnes",175,"In quaecumque uocas; nec nos"" ait, ""optime, segnes","['CM', 'CF', 'CM', 'DI', 'CM', 'DI', 'DI', None]",0,['Acastus']
+0.925,176,credideris patriisve magis confidere regnis,176,Credideris patriisue magis confidere regnis,"['CM', 'CF', 'CM', 'DI', None]",0,['Acastus']
+0.9024390243902439,177,"quam tibi, si primos duce te virtutis honoris",177,"Quam tibi, si primos duce te uirtutis honores","['CM', 'DI', 'CM', 'CM', 'DI', 'CM', 'CF', None]",0,['Acastus']
+0.6829268292682927,178,carpere fraternae sedeatque adcrescere famae.,178,"Carpere, fraternae si des accrescere famae.","['DI', 'CM', 'DI', 'CM', 'DI', None]",0,['Acastus']
+1.0,179,"quin ego, nequa metu nimio me cura parentis",179,"Quin ego, nequa metu nimio me cura parentis","['CM', 'DI', 'CF', 'CM', 'CM', 'DI', 'CF', None]",0,['Acastus']
+1.0,180,"impediat, fallam ignarum subitusque paratis",180,"Impediat, fallam ignarum subitusque paratis","['CM', 'SY', 'CM', 'CF', None]",1,['Acastus']
+1.0,181,"tunc adero, primas linquet cum puppis harenas.'",181,"Tunc adero, primas linquet cum puppis harenas.""","['CM', 'CM', 'CM', 'CM', 'DI', 'CF', None]",0,['Acastus']
+1.0,182,dixerat. ille animos promissaque talia laetus,182,Dixerat. ille animos promissaque talia laetus,"['DI', 'SY', 'CM', 'DI', 'DI', None]",1,
+0.8461538461538461,183,accipit et gressus avidos ad litora vertit.,183,Accipit et gressus auidos ad litora uertit.,"['DI', 'CM', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,184,At ducis imperiis Minyae monituque frequentes,184,At ducis imperiis Minyae monituque frequentes,"['CM', 'DI', 'CM', 'CM', 'CF', None]",0,
+1.0,185,puppem umeris subeunt et tento poplite proni,185,Puppem umeris subeunt et tento poplite proni,"['SY', 'CM', 'CM', 'DI', 'DI', 'DI', None]",1,
+1.0,186,decurrunt intrantque fretum. non clamor anhelis,186,Decurrunt intrantque fretum; non clamor anhelis,"['CM', 'CF', 'CM', 'DI', 'CF', None]",0,
+1.0,187,nauticus aut blandus testudine defuit Orpheus.,187,Nauticus aut blandus testudine defuit Orpheus.,"['DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,188,"tum laeti statuunt aras. tibi, rector aquarum,",188,"Tum laeti statuunt aras. tibi, rector aquarum,","['CM', 'CM', 'CM', 'CM', 'DI', 'CF', None]",0,
+0.926829268292683,189,"summus honor, tibi caeruleis in litore vittis",189,"Summus honor, tibi caeruleis in litore uittis","['CF', 'CM', 'DI', 'CM', 'DI', 'DI', None]",0,
+0.8636363636363636,190,et Zephyris Glaucoque bovem Thetidique iuvencam,190,Et Zephyris Glaucoque bouem Thetidique iuuencam,"['CM', 'CM', 'CF', 'CM', 'CF', None]",0,
+1.0,191,deicit Ancaeus. non illo certior alter,191,Deicit Ancaeus: non illo certior alter,"['DI', 'CM', 'DI', 'DI', 'DI', None]",0,
+1.0,192,pinguia letifera perfringere colla bipenni.,192,Pinguia letifera perfringere colla bipenni.,"['DI', 'CM', 'DI', 'CF', None]",0,
+1.0,193,ipse ter aequoreo libans carchesia patri,193,Ipse ter aequoreo libans carchesia patri,"['CF', 'DI', 'CM', 'CM', 'DI', None]",0,
+1.0,194,sic ait Aesonides: 'o qui spumantia nutu,194,"Sic ait Aesonides: ""o qui spumantia nutu","['CM', 'DI', 'CM', 'DI', 'CM', 'DI', None]",0,['Jason']
+1.0,195,"regna quatis terrasque salo complecteris omnes,",195,"Regna quatis terrasque salo complecteris omnes,","['CF', 'CM', 'CF', 'CM', 'DI', None]",0,['Jason']
+0.9210526315789473,196,da veniam. scio me cunctis e gentibus unum,196,Da ueniam. scio me cunctis e gentibus unum,"['CM', 'CM', 'DI', 'CM', 'CM', 'DI', 'DI', None]",0,['Jason']
+0.8648648648648649,197,inlicitas temptare vias hiememque mereri:,197,Illicitas temptare uias hiememque mereri:,"['CM', 'CF', 'CM', 'CF', None]",0,['Jason']
+1.0,198,"sed non sponte feror, nec nunc mihi iungere montes",198,"Sed non sponte feror, nec nunc mihi iungere montes","['CM', 'DI', 'CF', 'CM', 'DI', 'CM', 'DI', 'DI', None]",0,['Jason']
+1.0,199,mens tamen aut summo deposcere fulmen Olympo.,199,Mens tamen aut summo deposcere fulmen Olympo.,"['CM', 'DI', 'CM', 'CM', 'DI', 'CF', None]",0,['Jason']
+0.925,200,ne Peliae te vota trahant: ille aspera iussa,200,Ne Peliae te uota trahant; ille aspera iussa,"['CM', 'CM', 'DI', 'CF', 'CM', 'SY', 'DI', None]",1,['Jason']
+1.0,201,repperit et Colchos in me luctumque meorum:,201,Repperit et Colchos in me luctumque meorum.,"['DI', 'CM', 'CM', 'DI', 'CM', 'CF', None]",0,['Jason']
+1.0,202,†illumetu tantum ... non indignantibus undis,202,*illumetu* tantum non indignantibus undis,"['CM', 'CM', 'DI', 'DI', None]",0,['Jason']
+1.0,203,hoc caput accipias et pressam regibus alnum.',203,"Hoc caput accipias et pressam regibus alnum.""","['CM', 'DI', 'CM', 'DI', 'DI', 'DI', None]",0,['Jason']
+1.0,204,sic fatus pingui cumulat libamine flammam.,204,Sic fatus pingui cumulat libamine flammam.,"['CM', 'CM', 'CM', 'CM', 'DI', None]",0,
+1.0,205,Protulit ut crinem densis luctatus in extis,205,Protulit ut crinem densis luctatus in extis,"['DI', 'CM', 'CM', 'CM', 'CF', 'DI', None]",0,
+0.9210526315789473,206,"ignis et escendit salientia viscera tauri,",206,"Ignis et escendit salientia uiscera tauri,","['CF', 'DI', 'CM', 'DI', 'DI', None]",0,
+1.0,207,ecce sacer totusque dei per litora Mopsus,207,Ecce sacer totusque dei per litora Mopsus,"['CF', 'CM', 'CF', 'CM', 'DI', 'DI', None]",0,
+0.8421052631578947,208,immanis visu vittamque comamque per auras,208,Immanis uisu uittamque comamque per auras,"['CM', 'CM', 'CF', 'CF', 'DI', None]",0,
+0.926829268292683,209,"surgentem laurusque rotat. vox reddita tandem,",209,"Surgentem laurusque rotat. uox reddita tandem,","['CM', 'CF', 'CM', 'DI', 'DI', None]",0,
+0.8461538461538461,210,vox horrenda viris; tum facta silentia vati:,210,Vox horrenda uiris; tum facta silentia uati.,"['CM', 'CF', 'CM', 'DI', 'CF', 'DI', None]",0,
+1.0,211,'heu quaenam aspicio. nostris modo concitus ausis,211,"""Heu quaenam aspicio? nostris modo concitus ausis","['CM', 'SY', 'CM', 'CM', 'DI', 'DI', None]",1,['Mopsus (son of Ampyx)']
+0.926829268292683,212,aequoreos vocat ecce deos Neptunus et ingens,212,Aequoreos uocat ecce deos Neptunus et ingens,"['CM', 'DI', 'CF', 'CM', 'CF', 'DI', None]",0,['Mopsus (son of Ampyx)']
+1.0,213,concilium. fremere et legem defendere cuncti,213,Concilium. fremere et legem defendere cuncti,"['CM', 'SY', 'CM', 'CM', 'DI', None]",1,['Mopsus (son of Ampyx)']
+1.0,214,"hortantur. sic amplexu, sic pectora fratris,",214,"Hortantur. sic amplexu, sic, pectora fratris,","['CM', 'DI', 'CM', 'DI', 'DI', None]",0,['Mopsus (son of Ampyx)']
+1.0,215,"Iuno, tene; tuque o puppem ne desere, Pallas:",215,"Iuno, tene, tuque o puppem ne desere, Pallas;","['CF', 'CM', 'SY', 'CM', 'CM', 'DI', 'DI', None]",1,['Mopsus (son of Ampyx)']
+1.0,216,nunc patrui nunc flecte minas. cessere ratemque,216,"Nunc patrui, nunc, flecte minas. cessere ratemque","['CM', 'CM', 'DI', 'CF', 'CM', 'CF', None]",0,['Mopsus (son of Ampyx)']
+1.0,217,accepere mari. per quot discrimina rerum,217,Accepere mari. per quot discrimina rerum,"['CF', 'CM', 'DI', 'CM', 'DI', None]",0,['Mopsus (son of Ampyx)']
+1.0,218,expedior. subita cur pulcher harundine crines,218,Expedior! subita cur pulcher harundine crines,"['CM', 'CM', 'DI', 'CF', 'DI', None]",0,['Mopsus (son of Ampyx)']
+0.9333333333333333,219,velat Hylas? unde urna umeris niveosque per artus,219,Velat Hylas? unde urna umeris niueosque per artus,"['CF', 'CM', 'SY', 'SY', 'CM', 'CF', 'DI', None]",2,['Mopsus (son of Ampyx)']
+0.8604651162790697,220,"caeruleae vestes? unde haec tibi vulnera, Pollux?",220,"Caeruleae uestes? unde haec tibi uulnera, Pollux?","['CM', 'CM', 'SY', 'CM', 'DI', 'DI', None]",1,['Mopsus (son of Ampyx)']
+1.0,221,quantus 10 tumidis taurorum e naribus ignis?,221,Quantus io tumidis taurorum e naribus ignis!,"['CF', 'CM', 'CM', 'SY', 'DI', 'DI', None]",1,['Mopsus (son of Ampyx)']
+1.0,222,tollunt se galeae sulcisque ex omnibus hastae,222,Tollunt se galeae sulcisque ex omnibus hastae,"['DI', 'CM', 'CM', 'SY', 'DI', 'DI', None]",1,['Mopsus (son of Ampyx)']
+0.9302325581395349,223,et iam iamque umeri. quem circum vellera Martem,223,Et iam iamque umeri. quem circum uellera Martem,"['CM', 'DI', 'SY', 'CM', 'DI', 'DI', 'DI', None]",1,['Mopsus (son of Ampyx)']
+1.0,224,aspicio? quaenam aligeris secat anguibus auras,224,Aspicio? quaenam aligeris secat anguibus auras,"['CM', 'SY', 'CM', 'DI', 'DI', None]",1,['Mopsus (son of Ampyx)']
+0.9545454545454546,225,"caede madens? quos ense ferit? miser eripe parvos,",225,"Caede madens? quos ense ferit? miser, eripe paruos,","['CF', 'CM', 'DI', 'CF', 'CM', 'DI', 'DI', None]",0,['Mopsus (son of Ampyx)']
+1.0,226,Aesonide. cerno et thalamos ardere iugales.',226,"Aesonide. cerno et thalamos ardere iugales.""","['CM', 'SY', 'CM', 'CM', 'CF', None]",1,['Mopsus (son of Ampyx)']
+1.0,227,Iamdudum... Minyas ambage ducemque,227,Iamdudum ** Minyas ambage ducemque,"['CM', None, 'CM', 'CM', 'CF']",0,
+1.0,228,"terrificat; sed enim contra Phoebeius Idmon,",228,Terrificat; sed enim contra Phoebeius Idmon,"['CM', 'CF', 'CM', 'CM', 'DI', None]",0,
+0.9230769230769231,229,"non pallore viris, non ullo horrore comarum",229,"Non pallore uiris, non ullo horrore comarum","['CM', 'CF', 'CM', 'DI', 'SY', 'CF', None]",1,
+1.0,230,"terribilis, plenus fatis Phoeboque quieto,",230,"Terribilis, plenus fatis Phoeboque quieto,","['CM', 'CM', 'CM', 'CF', None]",0,
+0.9512195121951219,231,cui genitor tribuit monitu praenoscere divum,231,Cui genitor tribuit monitu praenoscere diuum,"['CM', 'CM', 'CM', 'CM', 'DI', None]",0,
+1.0,232,"omina, seu flammas seu lubrica comminus exta",232,"Omina, seu flammas seu lubrica comminus exta","['DI', 'CM', 'CM', 'DI', 'DI', 'DI', None]",0,
+0.918918918918919,233,"seu plenum certis interroget aera pennis,",233,"Seu plenum certis interroget aera pinnis,","['CM', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,234,sic sociis Mopsoque canit: 'quantum augur Apollo,234,"Sic sociis Mopsoque canit: ""quantum augur Apollo","['CM', 'CM', 'CF', 'CM', 'SY', 'CF', None]",1,['Idmon']
+1.0,235,"flammaque prima docet, praeduri plena laboris",235,"Flammaque prima docet, praeduri plena laboris","['DI', 'CF', 'CM', 'DI', 'CF', None]",0,['Idmon']
+0.9347826086956522,236,"cerno equidem, patiens sed quae ratis omnia vincet.",236,"Cerno equidem, patiens sed quae ratis omnia uincet.","['SY', 'CM', 'CM', 'DI', 'CM', 'DI', 'DI', None]",1,['Idmon']
+1.0,237,ingentes durate animae dulcesque parentum,237,Ingentes durate animae dulcesque parentum,"['CM', 'SY', 'CM', 'CF', None]",1,['Idmon']
+1.0,238,"tendite ad amplexus.' lacrimae cecidere canenti,",238,"Tendite ad amplexus."" lacrimae cecidere canenti","['SY', 'DI', 'CM', 'CM', 'CF', None]",1,['Idmon']
+0.8604651162790697,239,quod sibi iam clusos invenit in ignibus Argos.,239,Quod sibi iam clausos inuenit in ignibus Argos.,"['CM', 'DI', 'CM', 'CM', 'CF', 'DI', 'DI', None]",0,
+1.0,240,"Vix ea fatus erat, iungit cum talia ductor",240,Vix ea fatus erat iungit cum talia ductor,"['CM', 'DI', 'CF', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.918918918918919,241,"Aesonius: 'superum quando consulta videtis,",241,"Aesonius: ""superum quando consulta uidetis,","['CM', 'CM', 'CM', 'CF', None]",0,['Jason']
+0.9024390243902439,242,o socii (quantisque datur spes maxima coeptis!),242,"O socii, tantisque datur spes maxima coeptis,","['CM', 'CM', 'CF', 'CM', 'DI', 'DI', None]",0,['Jason']
+0.8666666666666667,243,vos quoque nunc vires animosque adferte paternos.,243,Vos quoque nunc uires animosque afferte paternos.,"['CM', 'DI', 'CM', 'CM', 'SY', 'CF', None]",1,['Jason']
+1.0,244,non mihi Thessalici pietas culpanda tyranni,244,Non mihi Thessalici pietas culpanda tyranni,"['CM', 'DI', 'CM', 'CM', 'CF', None]",0,['Jason']
+0.925,245,"suspective doli: deus haec, deus omine dextro",245,"Suspectiue doli: deus haec, deus, omine dextro","['CF', 'CM', 'DI', 'CM', 'DI', 'DI', None]",0,['Jason']
+0.9166666666666666,246,imperat; ipse suo voluit commercia mundo,246,Imperat; ipse suo uoluit commercia mundo,"['DI', 'CF', 'CM', 'CM', 'DI', None]",0,['Jason']
+1.0,247,Iuppiter et tantos hominum miscere labores.,247,Iuppiter et tantos hominum miscere labores.,"['DI', 'CM', 'CM', 'CM', 'CF', None]",0,['Jason']
+0.8333333333333334,248,"ite, viri, mecum dubiisque evincite rebus,",248,"Ite, uiri, mecum dubiisque euincite rebus","['CF', 'CM', 'CM', 'SY', 'DI', None]",1,['Jason']
+0.9347826086956522,249,quae meminisse iuvet nostrisque nepotibus instent.,249,Quae meminisse iuuet nostrisque nepotibus instent.,"['CM', 'CF', 'CM', 'CF', 'DI', None]",0,['Jason']
+0.7368421052631579,250,"hanc vero, socii, venientem litore laeti",250,"Hanc uero, socii, uenientem <in> litore laeti","['CM', 'CM', 'CM', 'SY', 'DI', 'DI', None]",1,['Jason']
+0.9210526315789473,251,dulcibus adloquiis ludoque educite noctem.',251,"Dulcibus alloquiis ludoque educite noctem.""","['DI', 'CM', 'SY', 'DI', None]",1,['Jason']
+0.9166666666666666,252,"paretur. molli iuvenes funduntur in alga,",252,"Paretur. molli iuuenes funduntur in alga,","['CM', 'CM', 'CM', 'CF', 'DI', None]",0,
+1.0,253,conspicuusque toris Tirynthius. exta ministri,253,Conspicuusque toris Tirynthius. exta ministri,"['CF', 'CM', 'DI', 'CF', None]",0,
+0.9318181818181818,254,rapta simul veribus Cereremque dedere canistris.,254,Rapta simul ueribus Cereremque dedere canistris.,"['CF', 'CM', 'CM', 'CF', 'CF', None]",0,
+0.926829268292683,255,Iamque aderat summo decurrens vertice Chiron,255,Iamque aderat summo decurrens uertice Chiron,"['SY', 'CM', 'CM', 'DI', 'DI', None]",1,
+1.0,256,clamantemque patri procul ostendebat Achillen.,256,Clamantemque patri procul ostendebat Achillem.,"['CF', 'CM', 'DI', 'CF', None]",0,
+0.8787878787878788,257,ut puer ad notas erectum Pelea voces,257,Vt puer ad notas erectum Pelea uoces,"['CM', 'DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,258,"vidit et ingenti tendentem bracchia passu,",258,"Vidit et ingenti tendentem bracchia passu,","['CF', 'DI', 'CM', 'DI', 'DI', None]",0,
+0.9117647058823529,259,adsiluit caraque diu cervice pependit.,259,Adsiluit caraque diu ceruice pependit.,"['CM', 'CF', 'CM', 'CF', None]",0,
+0.8378378378378378,260,ilium nec valido spumantia pocula Baccho,260,Illum nec ualido spumantia pocula Baccho,"['DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.925,261,sollicitant veteri nec conspicienda metallo,261,Sollicitant ueteri nec conspicienda metallo,"['CM', 'CM', 'DI', 'CF', None]",0,
+1.0,262,signa tenent; stupet in ducibus magnumque sonantes,262,Signa tenent: stupet in ducibus magnumque sonantes,"['CF', 'CM', 'DI', 'CM', 'CM', 'CF', None]",0,
+1.0,263,haurit et Herculeo fert comminus ora leoni.,263,Haurit et Herculeo fert comminus ora leoni.,"['CF', 'DI', 'CM', 'DI', 'DI', 'CF', None]",0,
+1.0,264,laetus at impliciti Peleus rapit oscula nati,264,Laetus at impliciti Peleus rapit oscula nati,"['CF', 'DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,265,suspiciensque polum 'placido si currere fluctu,265,"Suspiciensque polum ""placido si currere fluctu","['CF', 'CM', 'CM', 'DI', 'DI', None]",0,['Peleus']
+0.8461538461538461,266,"Pelea vultis' ait 'ventosque optare ferentes,",266,"Pelea uultis"" ait ""uentosque optare ferentes,","['DI', 'CF', 'CM', 'SY', 'CF', None]",1,['Peleus']
+0.868421052631579,267,"hoc, superi, servate caput. tu cetera, Chiron,",267,"Hoc, superi, seruate caput. tu cetera, Chilon,","['CM', 'CM', 'CF', 'CM', 'DI', 'DI', None]",0,['Peleus']
+0.925,268,da mihi. te parvus lituos et bella loquentem,268,Da mihi. te paruus lituos et bella loquentem,"['CM', 'DI', 'CM', 'CM', 'CM', 'DI', 'CF', None]",0,['Peleus']
+1.0,269,miretur; sub te puerilia tela magistro,269,Miretur; sub te puerilia tela magistro,"['CM', 'DI', 'CM', 'DI', 'CF', None]",0,['Peleus']
+0.975,270,senator ferat et nostram festinet ad hastam.',270,"Venator ferat et nostram festinet ad hastam.""","['CM', 'DI', 'CM', 'CM', 'CF', 'DI', None]",0,['Peleus']
+0.8571428571428571,271,omnibus inde mero calor additus: ire per altum,271,Omnibus inde uiae calor additus; ire per altum,"['DI', 'CF', 'CM', 'DI', 'DI', 'CF', 'DI', None]",0,
+0.926829268292683,272,magna mente volunt. Phrixi promittitur absens,272,Magna mente uolunt. Phrixi promittitur absens,"['DI', 'CF', 'CM', 'CM', 'DI', None]",0,
+0.972972972972973,273,yellus et auratis Argo reditura corymbis.,273,Vellus et auratis Argo reditura corymbis.,"['CF', 'DI', 'CM', 'CM', 'CF', None]",0,
+1.0,274,Sol ruit et totum Minyis laetantibus undae,274,Sol ruit et totum Minyis laetantibus undae,"['CM', 'DI', 'CM', 'CM', 'CM', 'DI', None]",0,
+0.9705882352941176,275,deduxere diem. sparguntur litore curvo,275,Deduxere diem. sparguntur litore curuo,"['CF', 'CM', 'DI', 'DI', None]",0,
+1.0,276,lumina nondum ullis terras monstrantia nautis.,276,Lumina nondum ullis terras monstrantia nautis.,"['DI', 'SY', 'CM', 'CM', 'DI', None]",1,
+0.8421052631578947,277,Thracius hie noctem dulci testudine vates,277,Thracius hic noctem dulci testudine uates,"['DI', 'CM', 'CM', 'CM', 'DI', None]",0,
+0.9285714285714286,278,"extrahit, ut steterit redimitus tempora vittis",278,"Extrahit, ut steterit redimitus tempora uittis","['DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,279,Phrixus et iniustas contectus nubibus aras,279,Phrixus et iniustas contectus nubibus aras,"['CF', 'DI', 'CM', 'DI', 'DI', None]",0,
+1.0,280,fugerit Inoo linquens Athamanta Learcho;,280,Fugerit Inoo linquens Athamanta Learcho;,"['DI', 'CM', 'CM', 'CF', None]",0,
+0.926829268292683,281,aureus ut iuvenem miserantibus intulit undis,281,Aureus ut iuuenem miserantibus intulit undis,"['DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.926829268292683,282,vector et adstrictis ut sedit cornibus Helle.,282,Vector et astrictis ut sedit cornibus Helle.,"['CF', 'DI', 'CM', 'DI', 'DI', 'DI', None]",0,
+0.9302325581395349,283,septem Aurora vias totidemque peregerat umbras,283,Septem Aurora uias totidemque peregerat umbras,"['SY', 'CF', 'CM', 'CF', 'DI', None]",1,
+0.925,284,"Luna polo, dirimique procul non aequore visa",284,"Luna polo, dirimique procul non aequore uisa","['CF', 'CM', 'CF', 'CM', 'DI', 'DI', None]",0,
+1.0,285,coeperat a gemina discedere Sestos Abydo.,285,Coeperat a gemina discedere Sestos Abydo.,"['DI', 'CM', 'CM', 'DI', 'CF', None]",0,
+0.9210526315789473,286,hic soror Aeoliden aevum mansura per omne,286,Hic soror Aeoliden aeuum mansura per omne,"['CM', 'DI', 'CM', 'CM', 'CF', 'DI', None]",0,
+0.8536585365853658,287,"deserit, heu saevae nequiquam erepta novercae.",287,"Deserit, heu saeuae nequiquam erepta nouercae.","['DI', 'CM', 'CM', 'SY', 'CF', None]",1,
+1.0,288,illa quidem fessis longe petit umida palmis,288,Illa quidem fessis longe petit umida palmis,"['CF', 'CM', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.9230769230769231,289,"vellera, sed bibulas urgenti pondere vestes",289,"Vellera, sed bibulas urgenti pondere uestes","['DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.8974358974358975,290,unda trahit levique manus labuntur ab auro.,290,Vnda trahit leuique manus labuntur ab auro.,"['CF', 'CM', 'CF', 'CM', 'CF', 'DI', None]",0,
+1.0,291,"quis tibi, Phrixe, dolor, rapido cum concitus aestu",291,"Quis tibi, Phrixe, dolor, rapido cum concitus aestu","['CM', 'DI', 'CF', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.9210526315789473,292,respiceres miserae clamantia virginis ora,292,Respiceres miserae clamantia uirginis ora,"['CM', 'CM', 'DI', 'DI', None]",0,
+1.0,293,extremasque manus sparsosque per aequora crines.,293,Extremasque manus sparsosque per aequora crines!,"['CF', 'CM', 'CF', 'DI', 'DI', None]",0,
+1.0,294,"Iamque mero ludoque modus, positique quietis",294,Iamque mero ludoque modus positique quietis,"['CF', 'CM', 'CF', 'CM', 'CF', None]",0,
+1.0,295,conticuere toris; solus quibus ordine fusis,295,Conticuere toris; solus quibus ordine fusis,"['CF', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.9302325581395349,296,impatiens somni ductor manet. hunc gravis Aeson,296,Impatiens somni ductor manet. hunc grauis Aeson,"['CM', 'CM', 'CM', 'DI', 'CM', 'DI', None]",0,
+0.9318181818181818,297,et pariter vigil Alcimede spectantque tenentque,297,Et pariter uigil Alcimede spectantque tenentque,"['CM', 'CM', 'DI', 'CM', 'CF', None]",0,
+1.0,298,pleni oculos. illis placidi sermonis Iason,298,Pleni oculos. illis placidi sermonis Iason,"['SY', 'CM', 'CM', 'CM', 'CF', None]",1,
+0.9230769230769231,299,suggerit adfatus turbataque pectora mulcet.,299,Suggerit affatus turbataque pectora mulcet.,"['DI', 'CM', 'DI', 'DI', None]",0,
+0.85,300,"mox, ubi victa gravi ceciderunt lumina somno,",300,Mox ubi uicta graui ceciderunt lumina somno,"['CM', 'DI', 'CF', 'CM', 'DI', 'DI', None]",0,
+1.0,301,visa coronatae fulgens tutela carinae,301,Visa coronatae fulgens tutela carinae,"['CF', 'CM', 'CM', 'CF', None]",0,
+1.0,302,vocibus his instare duci: 'Dodonida quercum,302,"Vocibus his instare duci: ""Dodonida quercum","['DI', 'CM', 'CF', 'CM', 'DI', None]",0,['Argo']
+0.8837209302325582,309,"dixerat. ille pavens, laeto quamquam omine divum,",309,"Dixerat. ille pauens, laeto quamquam omine diuum,","['DI', 'CF', 'CM', 'CM', 'SY', 'DI', None]",1,
+0.9024390243902439,310,prosiluit stratis. Minyas simul optulit omnis,310,Prosiluit stratis. Minyas simul obtulit omnes,"['CM', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.9230769230769231,311,alma novo crispans pelagus Tithonia Phoebo.,311,Alma nouo crispans pelagus Tithonia Phoebo.,"['CF', 'CM', 'CM', 'CM', 'DI', None]",0,
+1.0,312,discurrunt transtris: hi celso cornua malo,312,Discurrunt transtris; hi celso cornua malo,"['CM', 'CM', 'DI', 'DI', 'DI', None]",0,
+1.0,313,"expediunt, alii tonsas in marmore summo",313,"Expediunt, alii tonsas in marmore summo","['CM', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,314,"praetemptant, prora funem legit Argus ab alta.",314,"Praetemptant, prora funem legit Argus ab alta.","['CM', 'CM', 'CM', 'DI', 'CF', 'DI', None]",0,
+1.0,315,Increscunt matrum gemitus et fortia languent,315,Increscunt matrum gemitus et fortia languent,"['CM', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,316,corda patrum; longis flentes amplexibus haerent.,316,Corda patrum; longis flentes amplexibus haerent.,"['CF', 'CM', 'CM', 'CM', 'DI', None]",0,
+0.9090909090909091,317,vox tamen Alcimedes planctus super eminet omnis.,317,Vox tamen Alcimedes planctus supereminet omnes.,"['CM', 'DI', 'CM', 'CM', 'DI', None]",0,
+0.9285714285714286,318,"femineis tantum illa furens ululatibus opstat,",318,Femineis tantum illa furens ululatibus obstat,"['CM', 'SY', 'CF', 'CM', 'DI', None]",1,
+1.0,319,"obruat Idaeam quantum tuba Martia buxum,",319,Obruat Idaeam quantum tuba Martia buxum,"['DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,320,"fatur et haec: 'nate indignos aditure labores,",320,"Fatur et haec: ""nate indignos aditure labores,","['CF', 'DI', 'CM', 'SY', 'CM', 'CF', None]",1,['Alcimede']
+0.925,321,dividimur; nec ad hos animum componere casus,321,Diuidimur; nec ad hos animum componere casus,"['CM', 'CF', 'DI', 'CM', 'CM', 'DI', None]",0,['Alcimede']
+1.0,322,"ante datum, sed bella tibi terrasque timebam.",322,"Ante datum, sed bella tibi terrasque timebam.","['CF', 'CM', 'DI', 'CF', 'CM', 'CF', None]",0,['Alcimede']
+1.0,323,vota aliis facienda deis. si fata reducunt,323,Vota aliis facienda deis. si fata reducunt,"['SY', 'CM', 'CF', 'CM', 'DI', 'CF', None]",1,['Alcimede']
+1.0,324,"te mihi, si trepidis placabile matribus aequor,",324,"Te mihi, si trepidis placabile matribus aequor,","['CM', 'DI', 'CM', 'CM', 'DI', 'DI', None]",0,['Alcimede']
+1.0,325,possum equidem lucemque pati longumque timorem.,325,Possum equidem lucemque pati longumque timorem.,"['SY', 'CM', 'CF', 'CM', 'CF', None]",1,['Alcimede']
+1.0,326,"sin aliud Fortuna parat, miserere parentum,",326,"Sin aliud fortuna parat, miserere parentum,","['CM', 'CM', 'CF', 'CM', 'CF', None]",0,['Alcimede']
+1.0,327,"Mors bona, dum metus est nec adhuc dolor. ei mihi, Colchos",327,"Mors bona, dum metus est nec adhuc dolor. ei mihi, Colchos","['CM', 'DI', 'CM', 'DI', 'CM', 'CF', 'CM', 'DI', 'CM', 'DI', None]",0,['Alcimede']
+0.825,328,unde ego et avecti timuissem vellera Phrixi?,328,Vnde ego et auecti timuissem uellera Phrixi?,"['SY', 'SY', 'DI', 'CM', 'DI', 'DI', None]",2,['Alcimede']
+0.9285714285714286,329,"quos iam mente dies, quam saeva insomnia curis",329,"Quos iam mente dies, quam saeua insomnia curis","['CM', 'DI', 'CF', 'CM', 'DI', 'SY', 'DI', None]",1,['Alcimede']
+1.0,330,prospicio. quotiens raucos ad litoris ictus,330,Prospicio! quotiens raucos ad litoris ictus,"['CM', 'CM', 'CM', 'DI', 'DI', None]",0,['Alcimede']
+1.0,331,deficiam Scythicum metuens pontumque polumque,331,Deficiam Scythicum metuens pontumque polumque,"['CM', 'CM', 'CM', 'CF', None]",0,['Alcimede']
+1.0,332,nec de te credam nostris ingrata serenis.,332,Nec de te credam nostris ingrata serenis!,"['CM', 'DI', 'CM', 'CM', 'CM', 'CF', None]",0,['Alcimede']
+0.926829268292683,333,"da, precor, amplexus haesuraque verba relinque",333,"Da, precor, amplexus haesuraque uerba relinque","['CM', 'DI', 'CM', 'DI', 'CF', None]",0,['Alcimede']
+1.0,334,auribus et dulci iam nunc preme lumina dextra.',334,"Auribus et dulci iam nunc preme lumina dextra.""","['DI', 'CM', 'CM', 'DI', 'CM', 'DI', 'DI', None]",0,['Alcimede']
+1.0,335,talibus Alcimede maeret; sed fortior Aeson,335,Talibus Alcimede maeret; sed fortior Aeson,"['DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,336,"attollens dictis animos: 'o si mihi sanguis,",336,"Attollens dictis animos ""o si mihi sanguis","['CM', 'CM', 'CM', 'DI', 'CM', 'DI', None]",0,['Aeson']
+1.0,337,"quantus erat, cum signiferum cratera minantem",337,Quantus erat cum signiferum cratera minantem,"['CF', 'CM', 'DI', 'CM', 'CF', None]",0,['Aeson']
+0.9285714285714286,338,"non leviore Pholum manus haec compescuit auro,",338,Non leuiore Pholum manus haec compescuit auro!,"['CM', 'CF', 'CM', 'DI', 'CM', 'DI', None]",0,['Aeson']
+1.0,339,primus in aeratis posuissem puppibus arma,339,Primus in aeratis posuissem puppibus arma,"['CF', 'DI', 'CM', 'DI', 'DI', None]",0,['Aeson']
+1.0,340,concussoque ratem gauderem tollere remo.,340,Concussoque ratem gauderem tollere remo.,"['CF', 'CM', 'DI', 'DI', None]",0,['Aeson']
+0.925,341,sed patriae valuere preces auditaque magnis,341,Sed patriae ualuere preces auditaque magnis,"['CM', 'CM', 'CF', 'CM', 'DI', None]",0,['Aeson']
+0.925,342,vota deis: video nostro tot in aequore reges,342,Vota deis: uideo nostro tot in aequore reges,"['CF', 'CM', 'CM', 'CM', 'CF', 'DI', 'DI', None]",0,['Aeson']
+1.0,343,"teque ducem. tales, tales ego ducere suetus",343,"Teque ducem. tales, tales ego ducere suetus","['CF', 'CM', 'CM', 'CM', 'DI', 'DI', None]",0,['Aeson']
+1.0,344,"atque sequi. nunc ille dies (det Iuppiter oro),",344,"Atque sequi. nunc ille dies (det Iuppiter oro),","['CF', 'CM', 'DI', 'CF', 'CM', 'DI', 'DI', None]",0,['Aeson']
+1.0,345,"ille super, quo te Scythici regisque marisque",345,Ille super quo te Scythici regisque marisque,"['CF', 'CM', 'DI', 'CM', 'CM', 'CF', None]",0,['Aeson']
+0.926829268292683,346,victorem atque umeros ardentem vellere rapto,346,Victorem atque umeros ardentem uellere rapto,"['SY', 'SY', 'CM', 'DI', 'DI', None]",2,['Aeson']
+0.8205128205128205,347,accipiam cedamque tuae mea facta iuventae.',347,"Accipiam cedantque tuae mea facta iuuentae.""","['CM', 'CF', 'CM', 'DI', 'CF', None]",0,['Aeson']
+0.9210526315789473,348,sic ait. ille suo conlapsam pectore matrem,348,Sic ait. ille suo collapsam pectore matrem,"['CM', 'DI', 'CF', 'CM', 'DI', 'DI', None]",0,
+0.918918918918919,349,sustinuit magnaque senem cervice recepit.,349,Sustinuit magnaque senem ceruice recepit.,"['CM', 'CF', 'CM', 'CF', None]",0,
+0.9772727272727273,350,Et iam finis erat. Zephyrumque ratemque morantis,350,Et iam finis erat. Zephyrumque ratemque morantes,"['CM', 'DI', 'CF', 'CM', 'CF', 'CF', None]",0,
+0.9230769230769231,351,solverat amplexus tristi tuba tertia signo.,351,Soluerat amplexus tristi tuba tertia signo.,"['DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.9333333333333333,352,"dant remo sua quisque viri, dant nomina transtris.",352,"Dant remo sua quisque uiri, dant nomina transtris.","['CM', 'CM', 'DI', 'CF', 'CM', 'DI', 'DI', None]",0,
+0.9047619047619048,353,"hinc laevom Telamon pelagus tenet, altior inde",353,"Hinc laeuum Telamon pelagus tenet, altior inde","['CM', 'CM', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,354,"occupat Alcides aliud mare, cetera pubes",354,"Occupat Alcides aliud mare, cetera pubes","['DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.926829268292683,355,"dividitur: celer Asterion, quem matre cadentem",355,"Diuiditur. celer Asterion, quem matre cadentem","['CM', 'DI', 'CM', 'DI', 'CF', None]",0,
+0.8648648648648649,356,"Piresius gemino fovit pater amne Cometes,",356,"Peresius gemino fouit pater amne Cometes,","['CM', 'CM', 'CM', 'DI', 'CF', None]",0,
+0.918918918918919,357,segnior Apidani vires ubi sentit Enipeus.,357,"Segnior Apidani uires ubi sentit Enipeus,","['DI', 'CM', 'CM', 'DI', 'CF', None]",0,
+1.0,358,nititur hinc Talaus fratrisque Leodocus urget,358,Nititur hinc Talaus fratrisque Leodocus urget,"['DI', 'CM', 'CM', 'CF', 'DI', None]",0,
+1.0,359,"remo terga sui, quos nobile contulit Argos.",359,"Remo terga sui, quos nobile contulit Argos.","['DI', 'CF', 'CM', 'DI', 'DI', 'DI', None]",0,
+0.9347826086956522,360,hinc quoque missus adest quamvis arcentibus Idmon,360,Hinc quoque missus adest quamuis arcentibus Idmon,"['CM', 'DI', 'CF', 'CM', 'CM', 'DI', None]",0,
+0.9166666666666666,361,alitibus; sed turpe viro timuisse futura.,361,Alitibus; sed turpe uiro timuisse futura.,"['CM', 'DI', 'CF', 'CM', 'CF', None]",0,
+1.0,362,hic et Naubolides tortas consurgit in undas,362,Hic et Naubolides tortas consurgit in undas,"['CM', 'DI', 'CM', 'CM', 'CF', 'DI', None]",0,
+1.0,363,"Iphitus, hic patrium frangit Neptunius aequor",363,"Iphitus, hic patrium frangit Neptunius aequor","['DI', 'CM', 'CM', 'CM', 'DI', None]",0,
+1.0,364,qui tenet undisonam Psamathen semperque patentem,364,Qui tenet undisonam Psamathen semperque patentem,"['CM', 'DI', 'CM', 'CM', 'CF', None]",0,
+1.0,365,"Taenaron Euphemus, mollique a litore Pellae",365,"Taenaron Euphemus, mollique a litore Pellae","['DI', 'CM', 'SY', 'DI', 'DI', None]",1,
+1.0,366,Deucalion certus iaculis et comminus ense,366,Deucalion certus iaculis et comminus ense,"['CM', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,367,"nobilis Amphion, pariter quos edidit Hypso",367,"Nobilis Amphion, pariter quos edidit Hypso","['DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.775,368,nec potuit similes voluitve ediscere vultus.,368,Nec potuit similes uoluitue ediscere uultus.,"['CM', 'CM', 'CM', 'SY', 'DI', None]",1,
+0.9230769230769231,369,tum valida Clymenus percusso pectore tonsa,369,Tum ualida Clymenus percusso pectore tonsa,"['CM', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.9767441860465116,370,"frater et Iphiclus puppem trahit, et face saeva",370,"Frater et Iphiclus puppem trahit, et face saeua","['CF', 'DI', 'CM', 'CM', 'DI', 'CM', 'DI', None]",0,
+1.0,371,"in tua mox Danaos acturus saxa, Caphereu,",371,"In tua mox Danaos acturus saxa, Caphereu,","['CM', 'DI', 'CM', 'CM', 'DI', 'CF', None]",0,
+0.875,372,"Nauplius, et tortum non a love fulmen Oileus",372,"Nauplius, et tortum non a Ioue fulmen Oileus","['DI', 'CM', 'CM', 'DI', 'CM', 'DI', 'CF', None]",0,
+1.0,373,"qui gemet, Euboicas nato stridente per undas,",373,"Qui gemet Euboicas nato stridente per undas,","['CM', 'DI', 'CM', 'CM', 'CF', 'DI', None]",0,
+1.0,374,quique Erymanthei sudantem pondere monstri,374,Quique Erymanthei sudantem pondere monstri,"['SY', 'CM', 'DI', 'DI', None]",1,
+1.0,375,Amphitryoniaden Tegeaeo limine Cepheus,375,Amphitryoniaden Tegeaeo limine Cepheus,"['CM', 'DI', 'DI', None]",0,
+0.925,376,"iuvit, et Amphidamas (at frater plenior actis",376,"Iuuit, et Amphidamas (at frater plenior actis","['CF', 'DI', 'CM', 'DI', 'DI', 'DI', None]",0,
+0.9142857142857143,377,maluit Ancaeo vellus contingere Phrixi),377,"Maluit Ancaeo uellus contingere Phrixi),","['DI', 'CM', 'CM', 'DI', None]",0,
+0.918918918918919,378,"tectus et Eurytion servato colla capillo,",378,Tectus et Eurytion seruato colla capillo,"['CF', 'DI', 'CM', 'DI', 'CF', None]",0,
+1.0,379,quem pater Aonias reducem tondebit ad aras.,379,Quem pater Aonias reducem tondebit ad aras.,"['CM', 'DI', 'CM', 'CM', 'CF', 'DI', None]",0,
+1.0,380,"te quoque Thessalicae, Nestor, rapit in freta puppis",380,"Te quoque Thessalicae, Nestor, rapit in freta puppis","['CM', 'DI', 'CM', 'CM', 'DI', 'CM', 'DI', None]",0,
+0.9117647058823529,381,"fama, Mycenaeis olim qui candida velis",381,"Fama, Mycenaeis olim qui candida uelis","['CF', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.7857142857142857,382,aequora et instantes mirabere mille magistros.,382,Aequora nec nantes mirabere mille magistros.,"['DI', 'CM', 'CM', 'DI', 'CF', None]",0,
+0.85,383,hic vates Phoebique fides non vana parentis,383,Hic uates Phoebique fides non uana parentis,"['CM', 'CM', 'CF', 'CM', 'DI', 'CF', None]",0,
+1.0,384,"Mopsus, puniceo cui circumfusa cothurno",384,"Mopsus, puniceo cui circumfusa cothurno","['DI', 'CM', 'DI', 'CF', None]",0,
+0.9285714285714286,385,palla imos ferit alba pedes vittataque fronte,385,Palla imos ferit alba pedes uittataque fronte,"['SY', 'CM', 'DI', 'CF', 'CM', 'DI', None]",1,
+1.0,386,cassis et in summo laurus Peneia cono.,386,Cassis et in summo laurus Peneia cono.,"['CF', 'DI', 'CM', 'CM', 'CM', 'DI', None]",0,
+1.0,387,quin etiam Herculeo consurgit ab ordine Tydeus,387,Quin etiam Herculeo consurgit ab ordine Tydeus,"['CM', 'SY', 'CM', 'CF', 'DI', 'DI', None]",1,
+0.9230769230769231,388,"Nelidesque Periclymenus, quem parva Methone",388,"Nelidesque Periclymenus, quem parua Methone","['CF', 'CM', 'DI', 'CF', None]",0,
+0.8780487804878049,389,†felevis Elis equis et fluctibus obvius Aulon,389,*feleuis* Elis equis et fluctibus obuius Aulon,"['DI', 'CF', 'CM', 'DI', 'DI', 'DI', None]",0,
+0.775,390,caestibus adversos viderunt frangere vultus. —,390,Caestibus aduersos uiderunt frangere uultus.,"['DI', 'CM', 'DI', 'DI', None]",0,
+1.0,391,"Tu quoque Phrixeos remo, Poeantie, Colchos",391,"Tu quoque Phrixeos remo, Poeantie, Colchos","['CM', 'DI', 'CM', 'CM', 'DI', None]",0,
+0.925,392,"bis Lemnon visure petis, nunc cuspide patris",392,"Bis Lemnon uisure petis, nunc cuspide patris","['CM', 'CM', 'CF', 'CM', 'DI', 'DI', None]",0,
+0.8648648648648649,393,"inclitus, Herculeas olim moture sagittas.",393,"Inclitus, Herculeas olim torture sagittas.","['DI', 'CM', 'CM', 'CF', None]",0,
+0.9210526315789473,394,proximus hinc Butes Actaeis dives ab oris;,394,Proximus hinc Butes Actaeis diues ab oris;,"['DI', 'CM', 'CM', 'DI', 'CF', 'DI', None]",0,
+1.0,395,innumeras nam claudit apes longaque superbus,395,Innumeras nam claudit apes longaque superbus,"['CM', 'DI', 'CF', 'CM', 'CF', None]",0,
+1.0,396,"fuscat nube diem, dum plenas nectare cellas",396,Fuscat nube diem dum plenas nectare cellas,"['DI', 'CF', 'CM', 'DI', 'DI', 'DI', None]",0,
+1.0,397,pandit et in dulcem reges dimittit Hymetton.,397,Pandit et in dulcem reges dimittit Hymetton.,"['CF', 'DI', 'CM', 'CM', 'CM', 'CF', None]",0,
+1.0,398,"insequeris casusque tuos expressa, Phalere,",398,"Insequeris casusque tuos expressa, Phalere,","['CM', 'CF', 'CM', 'CF', None]",0,
+0.8048780487804879,399,arma geris; patula nam lapsus ab arbore parvum,399,Arma geris; *uacua* nam lapsus ab arbore paruum,"['CF', 'CM', 'CM', 'DI', 'CF', 'DI', 'DI', None]",0,
+0.9230769230769231,400,te quater ardenti tergo circumvenit anguis:,400,"Te quater ardenti tergo circumuenit anguis,","['CM', 'DI', 'CM', 'CM', 'DI', None]",0,
+1.0,401,stat procul intendens dubium pater anxius arcum.,401,Stat procul intendens dubium pater anxius arcum.,"['CM', 'DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.9024390243902439,402,tune caelata metus alios gerit arma Eribotes,402,Tum caelata metus alios gerit arma Eribotes.,"['CM', 'CF', 'CM', 'CM', 'DI', 'SY', None]",1,
+0.9736842105263158,403,nec Peleus fretus soceris et coniuge diva,403,Nec Peleus fretus soceris et coniuge diua,"['CM', 'CM', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,404,"defuit, ac prora splendet tua cuspis ab alta,",404,"Defuit, ac prora splendet tua cuspis ab alta,","['DI', 'CM', 'CM', 'CM', 'DI', 'CF', 'DI', None]",0,
+1.0,405,"Aeacide: tantum haec aliis excelsior hastis,",405,Aeacide; tantum haec aliis excelsior hastis,"['CM', 'SY', 'CM', 'CM', 'DI', None]",1,
+0.8421052631578947,406,quantum Peliacas in vertice vicerat ornos.,406,Quantum Peliacas in uertice uicerat ornos.,"['DI', 'CM', 'DI', 'DI', 'DI', None]",0,
+1.0,407,"linquit et Actorides natum Chironis in antro,",407,Linquit et Actorides natum Chironis in antro,"['CF', 'DI', 'CM', 'CM', 'CF', 'DI', None]",0,
+0.972972972972973,408,ut socius caro pariter meditetur Achilli,408,Vt socius caro pariter meditetur Achilli,"['CM', 'CM', 'CM', 'CM', 'CF', None]",0,
+0.9318181818181818,409,"fila lyrae pariterque leves puer incitet hastas, ...",409,Fila lyrae pariterque leues puer incitet hastas,"['CF', 'CM', 'CF', 'CM', 'DI', 'DI', None]",0,
+1.0,410,discat eques placidi conscendere terga magistri ...,410,Discat eques placidi conscendere terga magistri,"['CF', 'CM', 'CM', 'DI', 'CF', None]",0,
+1.0,411,et quem fama genus non est decepta Lyaei,411,Et quem fama genus non est decepta Lyaei,"['CM', 'DI', 'CF', 'CM', 'DI', 'CM', 'CF', None]",0,
+0.9210526315789473,412,Phlias immissus patrios de vertice crines.,412,Phlias immissus patrios de uertice crines.,"['DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,413,"nec timet Ancaeum genetrix committere ponto,",413,Nec timet Ancaeum genetrix committere ponto,"['CM', 'DI', 'CM', 'CM', 'DI', None]",0,
+1.0,414,plena tulit quem rege maris. securus in aequor,414,Plena tulit quem rege maris. securus in aequor,"['CF', 'CM', 'DI', 'CF', 'CM', 'CF', 'DI', None]",0,
+0.9210526315789473,415,"haut minus Erginus, proles Neptunia, fertur,",415,"Haud minus Erginus, proles Neptunia, fertur","['CM', 'DI', 'CM', 'CM', 'DI', None]",0,
+1.0,416,"qui maris insidias, clarae qui sidera noctis",416,"Qui maris insidias, clarae qui sidera noctis","['CM', 'DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,417,"norit et e clausis quem destinet Aeolus antris,",417,Norit et e clausis quem destinet Aeolus antris,"['CF', 'DI', 'CM', 'CM', 'DI', 'DI', 'DI', None]",0,
+1.0,418,"non metuat cui regna ratis, cui tradere caelum",418,"Non metuat cui regna ratis, cui tradere caelum","['CM', 'CM', 'DI', 'CF', 'CM', 'DI', 'DI', None]",0,
+0.9166666666666666,419,adsidua Tiphys vultum lassatus ab Arcto.,419,Adsidua Tiphys uultum lassatus ab Arcto.,"['CM', 'CM', 'CM', 'CF', 'DI', None]",0,
+0.925,420,taurea vulnifico portat celer aspera plumbo,420,Taurea uulnifico portat celer aspera plumbo,"['DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.8636363636363636,421,"terga Lacon, saltem in vacuos ut bracchia ventos",421,Terga Lacon saltem in uacuos ut bracchia uentos,"['CF', 'CM', 'SY', 'CM', 'CM', 'DI', 'DI', None]",1,
+1.0,422,spargat et Oebalium Pagaseia puppis alumnum,422,Spargat et Oebalium Pagaseia puppis alumnum,"['CF', 'DI', 'CM', 'DI', 'CF', None]",0,
+1.0,423,spectet securo celebrantem litora ludo.,423,Spectet securo celebrantem litora ludo;,"['DI', 'CM', 'DI', 'DI', None]",0,
+1.0,424,oraque Thessalico melior contundere freno,424,Oraque Thessalico melior contundere freno,"['DI', 'CM', 'CM', 'DI', None]",0,
+0.926829268292683,425,"vectorem pavidae Castor dum quaereret Helles,",425,Vectorem pauidae Castor dum quaereret Helles,"['CM', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,426,passus Amyclaea pinguescere Cyllaron herba.,426,Passus Amyclaea pinguescere Cyllaron herba.,"['CF', 'CM', 'DI', 'DI', None]",0,
+1.0,427,illis Taenario pariter tremit ignea fuco,427,Illis Taenario pariter tremit ignea fuco,"['DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,428,"purpura, quod gemina mater spectabile tela",428,"Purpura, quod gemina mater spectabile tela","['DI', 'CM', 'CM', 'CM', 'DI', None]",0,
+0.9230769230769231,429,duxit opus; bis Taygeton silvasque comantes,429,Duxit opus; bis Taygeton siluasque comantes,"['CF', 'CM', 'DI', 'CM', 'CF', None]",0,
+1.0,430,"struxerat, Eurotan molli bis fuderat auro;",430,"Struxerat, Eurotan molli bis fuderat auro;","['DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.926829268292683,431,quemque suus sonipes niveo de stamine portat,431,Quemque suus sonipes niueo de stamine portat,"['CF', 'CM', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.9230769230769231,432,et volat amborum patrius de pectore cycnus.,432,Et uolat amborum patrius de pectore cycnus.,"['CM', 'DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.8461538461538461,433,at tibi collectas solvit iam fibula vestes,433,At tibi collectas soluit iam fibula uestes,"['CM', 'DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,434,ostenditque umeros fortes spatiumque superbi,434,Ostenditque umeros fortes spatiumque superbi,"['SY', 'CM', 'CM', 'CF', None]",1,
+1.0,435,"pectoris Herculeis aequum, Meleagre, lacertis.",435,"Pectoris Herculeis aequum, Meleagre, lacertis.","['DI', 'CM', 'CM', 'CF', None]",0,
+0.926829268292683,436,"hinc numerosa phalanx, proles Cyllenia: certus",436,"Hic numerosa phalanx, proles Cyllenia: certus","['CM', 'CF', 'CM', 'CM', 'DI', None]",0,
+0.9230769230769231,437,Aethalides subitas nervo redeunte sagittas,437,Aethalides subitas neruo redeunte sagittas,"['CM', 'CM', 'CM', 'CF', None]",0,
+1.0,438,"cogere; tu medios gladio bonus ire per hostes,",438,"Cogere; tu medios gladio bonus ire per hostes,","['DI', 'CM', 'CM', 'CM', 'DI', 'CF', 'DI', None]",0,
+1.0,439,"Euryte; nec patrio Minyis ignobilis usu,",439,Euryte; nec patrio Minyis ignobilis usu,"['DI', 'CM', 'CM', 'CM', 'DI', None]",0,
+0.926829268292683,440,"nuntia verba ducis populis qui reddit, Echion.",440,Nuntia uerba ducis populis qui reddit Echion.,"['DI', 'CF', 'CM', 'CM', 'DI', 'CF', None]",0,
+1.0,441,"sed non, Iphi, tuis Argo reditura lacertis",441,"Sed non, Iphi, tuis Argo reditura lacertis","['CM', 'DI', 'CF', 'CM', 'CM', 'CF', None]",0,
+0.9090909090909091,442,heu celerem Scythica te maesta relinquet harena,442,Heu cinerem Scythica te maesta relinquet harena,"['CM', 'CM', 'CM', 'DI', 'CF', 'CF', None]",0,
+0.8947368421052632,443,cessantemque tuo lugebit in ordine remum.,443,Cessantemque tuum lugebit in ordine remum.,"['CF', 'CM', 'CF', 'DI', 'DI', None]",0,
+1.0,444,te quoque dant campi tanto pastore Pheraei,444,Te quoque dant campi tanto pastore Pheraei,"['CM', 'DI', 'CM', 'CM', 'CM', 'CF', None]",0,
+0.9444444444444444,445,"felices, Admete; tuis nam pendit in arvis",445,"Felices, Admete; tuis nam pendit in aruis","['CM', 'CF', 'CM', 'DI', 'CF', 'DI', None]",0,
+1.0,446,"Delius, ingrato Steropen quod fuderat arcu.",446,Delius ingrato Steropen quod fuderat arcu.,"['DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.8717948717948718,447,a quotiens famulo notis soror obvia silvis,447,A quotiens famulo notis soror obuia siluis,"['CM', 'CM', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.925,448,"flevit, ubi Ossaeae captaret frigora quercus",448,Fleuit ubi Ossaeae captaret frigora quercus,"['CF', 'SY', 'CM', 'DI', 'DI', None]",1,
+1.0,449,perderet et pingui miseros Boebeide crines.,449,Perderet et pingui miseros Boebeide crines!,"['DI', 'CM', 'CM', 'CM', 'DI', None]",0,
+0.9166666666666666,450,insurgit transtris et remo Nerea versat,450,Insurgit transtris et remo Nerea uersat,"['CM', 'CM', 'DI', 'DI', 'DI', None]",0,
+0.85,451,"Canthus, in Aeaeo volvet quem barbara cuspis",451,"Canthus, in Aeaeo uoluet quem barbara cuspis","['CF', 'DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.926829268292683,452,"pulvere; at interea clari decus adiacet orbis,",452,Puluere; at interea clari decus adiacet orbis,"['SY', 'DI', 'CM', 'CM', 'DI', 'DI', None]",1,
+1.0,453,quem genitor gestabat Abas: secat aurea fluctu,453,Quem genitor gestabat Abas (secat aurea fluctu,"['CM', 'CM', 'CF', 'CM', 'DI', 'DI', None]",0,
+1.0,454,"tegmina Chalcidicas fugiens Euripus harenas,",454,Tegmina Chalcidicas fugiens Euripus harenas,"['DI', 'CM', 'CM', 'CF', None]",0,
+1.0,455,celsaque semiferum contorquens frena luporum,455,Celsaque semiferum contorquens frena luporum,"['DI', 'CM', 'DI', 'CF', None]",0,
+0.925,456,"surgis ab ostrifero medius, Neptune, Geraesto.",456,"Surgis ab ostrifero medius, Neptune, Gerasto).","['CF', 'DI', 'CM', 'CM', 'CF', None]",0,
+0.9166666666666666,457,"at tibi Palladia pinu, Polypheme, revecto",457,"At tibi Palladia pinu, Polypheme, reuecto","['CM', 'DI', 'CM', 'CM', 'CF', None]",0,
+0.926829268292683,458,ante urbem ardentis restat deprendere patris,458,Ante urbem ardentes restat deprendere patris,"['SY', 'SY', 'CM', 'CM', 'DI', None]",2,
+1.0,459,"reliquias, multum famulis pia iusta moratis,",459,"Reliquias, multum famulis pia iusta moratis","['CM', 'CM', 'CM', 'DI', 'CF', None]",0,
+0.8421052631578947,460,si venias. breviore petit iam caerula remo,460,Si uenias. breuiore petit iam caerula remo,"['CM', 'CM', 'CF', 'CM', 'DI', 'DI', None]",0,
+0.9285714285714286,461,occupat et longe sua transtra novissimus Idas.,461,Occupat et longe sua transtra nouissimus Idas.,"['DI', 'CM', 'CM', 'DI', 'CF', 'DI', None]",0,
+0.8421052631578947,462,"at frater magnos Lynceus servatur in usus,",462,"At frater magnos Lynceus seruatus in usus,","['CM', 'CM', 'CM', 'CM', 'CF', 'DI', None]",0,
+1.0,463,"quem tulit Arene, possit qui rumpere terras",463,"Quem tulit Arene, possit qui rumpere terras","['CM', 'DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.925,464,et Styga transmisso tacitam deprendere visu.,464,Et Styga transmisso tacitam deprendere uisu.,"['CM', 'DI', 'CM', 'CM', 'DI', None]",0,
+1.0,465,fluctibus e mediis terras dabit ille magistro,465,Fluctibus e mediis terras dabit ille magistro,"['DI', 'CM', 'CM', 'CM', 'DI', 'CF', None]",0,
+1.0,466,"et dabit astra rati, cumque aethera Iuppiter umbra",466,"Et dabit astra rati, cumque aethera Iuppiter umbra","['CM', 'DI', 'CF', 'CM', 'SY', 'DI', 'DI', None]",1,
+1.0,467,"perdiderit, solus transibit nubila Lynceus.",467,Perdiderit solus transibit nubila Lynceus.,"['CM', 'CM', 'DI', 'DI', None]",0,
+0.918918918918919,468,"quin et Cecropiae proles vacat Orithyiae,",468,Quin et Cecropiae proles uacat Orithyiae,"['CM', 'DI', 'CM', 'CM', 'DI', None]",0,
+1.0,469,temperet ut tremulos Zetes fraterque ceruchos.,469,Temperet ut tremulos Zetes fraterque ceruchos.,"['DI', 'CM', 'CM', 'CM', 'CF', None]",0,
+0.9302325581395349,470,nec vero Odrysius transtris impenditur Orpheus,470,Nec uero Odrysius transtris impenditur Orpheus,"['CM', 'SY', 'CM', 'CM', 'DI', None]",1,
+1.0,471,"aut pontum remo subigit, sed carmine tonsas",471,"Aut pontum remo subigit, sed carmine tonsas","['CM', 'CM', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,472,"ire docet, summo passim ne gurgite pugnent.",472,Ire docet summo passim ne gurgite pugnent.,"['CF', 'CM', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.925,473,donat et Iphiclo pelagus iuvenumque labores,473,Donat et Iphiclo pelagus iuuenumque labores,"['CF', 'DI', 'CM', 'CM', 'CF', None]",0,
+0.9743589743589743,474,"Aesonides, fessum Phylace quem miserat aevo",474,"Aesonides, fessum Phylace quem miserat aeuo","['CM', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,475,"non iam operum in partem, monitus sed tradat ut acres",475,"Non iam operum in partem, monitus sed tradat ut acres","['CM', 'SY', 'SY', 'CM', 'CM', 'CM', 'DI', 'CF', 'DI', None]",2,
+0.8461538461538461,476,magnorumque viros qui laudibus urat avorum.,476,Magnorumque uiros qui laudibus urat auorum.,"['CF', 'CM', 'DI', 'DI', 'CF', None]",0,
+1.0,477,"Arge, tuae tibi cura ratis, te moenia doctum",477,"Arge, tuae tibi cura ratis, te moenia doctum","['CF', 'CM', 'DI', 'CF', 'CM', 'DI', 'DI', None]",0,
+1.0,478,"Thespia Palladio dant munere; sors tibi, nequa",478,Thespia Palladio dant munere; sors tibi nequa,"['DI', 'CM', 'DI', 'DI', 'CM', 'DI', None]",0,
+1.0,479,parte trahat tacitum puppis mare fissaque fluctu,479,Parte trahat tacitum puppis mare fissaque fluctu,"['CF', 'CM', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.868421052631579,480,vel pice vel molli conducere vulnera cera.,480,Vel pice uel molli conducere uulnera cera.,"['CM', 'DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.9210526315789473,481,pervigil Arcadio Tiphys pendebat ab astro,481,Peruigil Arcadio Tiphys pendebat ab astro,"['DI', 'CM', 'CM', 'CF', 'DI', None]",0,
+1.0,482,"Hagniades, felix stellis qui segnibus usum",482,"Hagniades, felix stellis qui segnibus usum","['CM', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,483,et dedit aequoreos caelo duce tendere cursus.,483,Et dedit aequoreos caelo duce tendere cursus.,"['CM', 'DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,484,Ecce per obliqui rapidum compendia montis,484,Ecce per obliqui rapidum compendia montis,"['CF', 'DI', 'CM', 'CM', 'DI', None]",0,
+0.8809523809523809,485,ductor avens laetusque dolis agnoscit Acastum,485,Ductor ouans laetusque dolis agnoscit Acastum,"['CF', 'CM', 'CF', 'CM', 'CF', None]",0,
+1.0,486,horrentem iaculis et parmae luce coruscum.,486,Horrentem iaculis et parmae luce coruscum.,"['CM', 'CM', 'DI', 'DI', 'CF', None]",0,
+0.9285714285714286,487,ille ubi se mediae per scuta virosque carinae,487,Ille ubi se mediae per scuta uirosque carinae,"['SY', 'DI', 'CM', 'CM', 'DI', 'CF', 'CF', None]",1,
+1.0,488,"intulit, ardenti Aesonides retinacula ferro",488,"Intulit, ardenti Aesonides retinacula ferro","['DI', 'SY', 'CM', 'DI', None]",1,
+0.8571428571428571,489,abscidit; haut aliter saltus vastataque pernix,489,Abscidit: haud aliter saltus uastataque pernix,"['DI', 'CM', 'CM', 'CM', 'DI', None]",0,
+0.8780487804878049,490,venator cum lustra fugit dominoque timentem,490,Venator quam lustra fugit dominoque timentem,"['CM', 'DI', 'CF', 'CM', 'CF', None]",0,
+0.8837209302325582,491,"urget equum, teneras compressans pectore tigres,",491,"Vrget equum, teneras compressus pectore tigres","['CF', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.8461538461538461,492,"quas astu rapuit pavido, dum saeva relictis",492,"Quas astu rapuit pauido, dum saeua relictis","['CM', 'CM', 'CM', 'CM', 'DI', 'CF', None]",0,
+0.8,493,mater in adverso catulis venatur Amano.,493,Mater in auerso catulis uenatur Amano.,"['CF', 'DI', 'CM', 'CM', 'CF', None]",0,
+1.0,494,it pariter propulsa ratis; stant litore matres,494,It pariter propulsa ratis; stant litore matres,"['CM', 'CM', 'CF', 'CM', 'DI', 'DI', None]",0,
+0.8409090909090909,495,claraque vela oculis percussaque sole secuntur,495,Claraque uela oculis percussaque sole sequuntur,"['DI', 'SY', 'CM', 'DI', 'CF', None]",1,
+0.925,496,"scuta virum, donec iam celsior arbore pontus",496,"Scuta uirum, donec iam celsior arbore pontus","['CF', 'CM', 'CM', 'DI', 'DI', 'DI', None]",0,
+1.0,497,immensusque ratem spectantibus abstulit aer.,497,Immensusque ratem spectantibus abstulit aer.,"['CF', 'CM', 'DI', 'DI', None]",0,
+0.9230769230769231,498,Siderea tune arce pater pulcherrima Graium,498,Siderea tunc arce pater pulcherrima Graium,"['CM', 'DI', 'CF', 'CM', 'DI', None]",0,
+1.0,499,coepta tuens tantamque operis consurgere molem,499,Coepta tuens tantamque operis consurgere molem,"['CF', 'CM', 'SY', 'CM', 'DI', None]",1,
+1.0,500,laetatur; patrii neque enim probat otia regni.,500,Laetatur; patrii neque enim probat otia regni.,"['CM', 'CM', 'SY', 'CM', 'DI', 'DI', None]",1,
+0.8947368421052632,501,"una omnes gaudent superi, venturaque mundo",501,Vna omnes gaudent superi uenturaque mundo,"['SY', 'CM', 'CM', 'CM', 'DI', None]",1,
+0.8723404255319149,502,tempora aquaeque vias cernunt sibi crescere Parcae.,502,Tempora quaeque uias cernunt sibi crescere Parcae.,"['DI', 'CF', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,503,sed non et Scythici genitor discrimine nati,503,Sed non et Scythici genitor discrimine nati,"['CM', 'DI', 'CM', 'CM', 'CM', 'DI', None]",0,
+0.9210526315789473,504,intrepidus tales fundit Sol pectore voces:,504,Intrepidus tales fundit Sol pectore uoces:,"['CM', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.7906976744186046,505,"'summie sator, cui nostra dies volventibus annis",505,"""Summe sator, cui nostra dies uoluentibus annis","['CF', 'CM', 'DI', 'CF', 'CM', 'DI', None]",0,['Sol']
+0.8666666666666667,506,"tot peragit reficitque vices, tuane ista voluntas?",506,"Tot peragit reficitque uices, tuane ista uoluntas","['CM', 'CM', 'CF', 'CM', 'SY', 'CF', None]",1,['Sol']
+1.0,507,Graiaque nunc undis duce te nutuque secundo,507,Graiaque nunc undis duce te nutuque secundo,"['DI', 'CM', 'CM', 'DI', 'CM', 'CF', None]",0,['Sol']
+1.0,508,it ratis? an meritos fas est mihi rumpere questus?,508,It ratis? an meritos fas est mihi rumpere questus?,"['CM', 'DI', 'CM', 'CM', 'DI', 'CM', 'DI', 'DI', None]",0,['Sol']
+0.926829268292683,509,"hoc metuens et nequa foret manus invida nato,",509,Hoc metuens et nequa foret manus inuida nato,"['CM', 'CM', 'DI', 'CF', 'CM', 'DI', 'DI', None]",0,['Sol']
+1.0,510,"non mediae telluris opes, non improba legi",510,"Non mediae telluris opes, non improba legi","['CM', 'CM', 'CF', 'CM', 'DI', 'DI', None]",0,['Sol']
+0.85,511,divitis arva plagae (teneant uberrima Teucer,511,Diuitis arua plagae (teneant uberrima Teucer,"['DI', 'CF', 'CM', 'CM', 'DI', None]",0,['Sol']
+0.9069767441860465,512,et Libys et vestri Pelopis domus): horrida saevo,512,Et Libys et uestri Pelopis domus): horrida saeuo,"['CM', 'DI', 'CM', 'CM', 'CM', 'DI', 'DI', None]",0,['Sol']
+0.9347826086956522,513,quae premis arva gelu strictosque insedimus amnes.,513,Quae premis arua gelu strictosque insedimus amnes.,"['CM', 'DI', 'CF', 'CM', 'SY', 'DI', None]",1,['Sol']
+1.0,514,cederet his etiam et sese sine honore referret,514,Cederet his etiam et sese sine honore referret,"['DI', 'CM', 'SY', 'CM', 'CM', 'SY', 'CF', None]",2,['Sol']
+0.918918918918919,515,"ulterius, sed nube rigens ac nescia rerum",515,"Vlterius, sed nube rigens ac nescia *regum*","['CM', 'DI', 'CF', 'CM', 'DI', 'DI', None]",0,['Sol']
+0.9318181818181818,516,stat super et nostros iam zona reverberat ignes.,516,Stat super et nostros iam zona reuerberat ignes.,"['CM', 'DI', 'CM', 'CM', 'DI', 'CF', 'DI', None]",0,['Sol']
+1.0,517,"quid regio immanis, quid barbarus amnibus ullis",517,"Quid regio immanis, quid barbarus amnibus ullis","['CM', 'SY', 'CM', 'DI', 'DI', 'DI', None]",1,['Sol']
+0.926829268292683,518,Phasis et aversis proles mea gentibus obstat?,518,Phasis et auersis proles mea gentibus obstat?,"['CF', 'DI', 'CM', 'CM', 'DI', 'DI', None]",0,['Sol']
+0.925,519,quid Minyae meruere queri? num vellere Graio,519,Quid Minyae meruere queri? num uellere Graio,"['CM', 'CM', 'CF', 'CM', 'DI', 'DI', None]",0,['Sol']
+1.0,520,vi potitur? profugo quin agmina iungere Phrixo,520,Vi potitur? profugo quin agmina iungere Phrixo,"['CM', 'CM', 'CM', 'DI', 'DI', 'DI', None]",0,['Sol']
+0.9090909090909091,521,"abnuit Inoas ultro nec venit ad aras,",521,"Abnuit, Inoas ultro nec uenit ad aras,","['DI', 'CM', 'CM', 'DI', 'CF', 'DI', None]",0,['Sol']
+0.918918918918919,522,imperii sed parte virum nataeque moratus,522,Imperii sed parte uirum nataeque moratus,"['CM', 'DI', 'CF', 'CM', 'CF', None]",0,['Sol']
+0.8461538461538461,523,coningio videt e Graia nunc stirpe nepotes,523,Coniugio uidet e Graia nunc stirpe nepotes,"['CM', 'DI', 'CM', 'CM', 'DI', 'CF', None]",0,['Sol']
+0.9333333333333333,524,et generos vocat et iunctas sibi sanguine terras.,524,Et generos uocat et iunctas sibi sanguine terras.,"['CM', 'CM', 'DI', 'CM', 'CM', 'DI', 'DI', None]",0,['Sol']
+0.9302325581395349,525,"flecte ratem motusque, pater, nec vulnere nostro",525,"Flecte ratem motusque, pater, nec uulnere nostro","['CF', 'CM', 'CF', 'CM', 'DI', 'DI', None]",0,['Sol']
+0.8604651162790697,526,aequora pande viris: veteris sat conscia luctus,526,Aequora pande uiris; ueteris sat conscia luctus,"['DI', 'CF', 'CM', 'CM', 'DI', 'DI', None]",0,['Sol']
+0.85,527,silva Padi et viso flentes genitore sorores.',527,"Silua Padi et uiso flentes genitore sorores.""","['CF', 'SY', 'CM', 'CM', 'CM', 'CF', None]",1,['Sol']
+0.8837209302325582,528,adfremit his quassatque caput qui vellera dono,528,Affremit his quassatque caput qui uellera dono,"['DI', 'CM', 'CF', 'CM', 'DI', 'DI', None]",0,
+0.9302325581395349,529,"Bellipotens sibi fixa videt, temptataque contra",529,"Bellipotens sibi fixa uidet, temptataque contra","['CM', 'DI', 'CF', 'CM', 'DI', None]",0,
+1.0,530,Pallas et amborum gemuit Saturnia questus.,530,Pallas et amborum gemuit Saturnia questus.,"['CF', 'DI', 'CM', 'CM', 'DI', None]",0,
+0.9333333333333333,531,Tum genitor 'vetera haec nobis et condita pergunt,531,"Tum genitor ""uetera haec nobis et condita pergunt","['CM', 'CM', 'SY', 'CM', 'CM', 'DI', 'DI', None]",1,['Jupiter']
+1.0,532,ordine cuncta suo rerumque a principe cursu,532,Ordine cuncta suo rerumque a principe cursu,"['DI', 'CF', 'CM', 'SY', 'DI', 'DI', None]",1,['Jupiter']
+1.0,533,fixa manent; neque enim terris tum sanguis in ullis,533,Fixa manent; neque enim terris tum sanguis in ullis,"['CF', 'CM', 'SY', 'CM', 'CM', 'DI', 'CF', 'DI', None]",1,['Jupiter']
+1.0,534,"noster erat, cum fata darem, iustique facultas",534,"Noster erat cum fata darem, iustique facultas","['CF', 'CM', 'DI', 'CF', 'CM', 'CF', None]",0,['Jupiter']
+0.9318181818181818,535,"hinc mihi, cum varios struerem per saecula reges.",535,Hinc mihi cum uarios struerem per saecula reges.,"['CM', 'DI', 'CM', 'CM', 'CM', 'DI', 'DI', None]",0,['Jupiter']
+1.0,536,atque ego curarum repetam decreta mearum:,536,Atque ego curarum repetam decreta mearum.,"['SY', 'DI', 'CM', 'CM', 'CF', None]",1,['Jupiter']
+0.9318181818181818,537,"iam pridem regio, quae virginis aequor ad Helles",537,Iam pridem regio quae uirginis aequor ad Helles,"['CM', 'CM', 'CM', 'DI', 'DI', 'CF', 'DI', None]",0,['Jupiter']
+0.9210526315789473,538,"et Tanain tenus immenso descendit ab Euro,",538,Et Tanai tenus immenso descendit ab Euro,"['CM', 'CM', 'DI', 'CM', 'CF', 'DI', None]",0,['Jupiter']
+0.9069767441860465,539,"undat equis floretque viris, nec tollere contra",539,"Vndat equis floretque uiris, nec tollere contra","['CF', 'CM', 'CF', 'CM', 'DI', 'DI', None]",0,['Jupiter']
+0.975,540,ulla pares animos nomenque capessere bellis,540,Vlla pares animos nomenque capessere bellis,"['CF', 'CM', 'CM', 'CF', 'DI', None]",0,['Jupiter']
+0.9230769230769231,541,"ausa manus; sic fata, locos sic ipse fovebam.",541,"Ausa manus; sic fata, locos sic ipse fouebam.","['CF', 'CM', 'DI', 'CF', 'CM', 'DI', 'CF', None]",0,['Jupiter']
+0.9487179487179487,542,adcelerat sed summa dies Asiamque labantem,542,Accelerat sed summa dies Asiamque labantem,"['CM', 'DI', 'CF', 'CM', 'CF', None]",0,['Jupiter']
+1.0,543,linquimus et poscunt iam me sua tempora Grai.,543,Linquimus et poscunt iam me sua tempora Grai.,"['DI', 'CM', 'CM', 'DI', 'CM', 'DI', 'DI', None]",0,['Jupiter']
+1.0,544,inde meae quercus tripodesque animaeque parentum,544,Inde meae quercus tripodesque animaeque parentum,"['CF', 'CM', 'CM', 'SY', 'CF', None]",1,['Jupiter']
+0.926829268292683,545,hanc pelago misere manum. via facta per undas,545,Hanc pelago misere manum. uia facta per undas,"['CM', 'CM', 'CF', 'CM', 'DI', 'CF', 'DI', None]",0,['Jupiter']
+0.8809523809523809,546,"perque hiemes, Bellona, tibi. nee vellera tantum",546,"Perque hiemes, Bellona, tibi. nec uellera tantum","['SY', 'CM', 'CF', 'CM', 'DI', 'DI', None]",1,['Jupiter']
+0.9285714285714286,547,indignanda manent propiorque ex virgine rapta,547,Indignanda manent propiorque ex uirgine rapta,"['CF', 'CM', 'SY', 'DI', 'DI', None]",1,['Jupiter']
+1.0,548,"ille dolor, sed nulla magis sententia menti",548,"Ille dolor, sed (nulla magis sententia menti","['CF', 'CM', 'DI', 'CF', 'CM', 'DI', None]",0,['Jupiter']
+0.8461538461538461,549,"fixa meae: veniet Phrygia nam pastor ab Ida,",549,Fixa meae) ueniet Phrygia iam pastor ab Ida,"['CF', 'CM', 'CM', 'CM', 'DI', 'CF', 'DI', None]",0,['Jupiter']
+1.0,550,qui gemitus irasque pares et mutua Grais,550,Qui gemitus irasque pares et mutua Grais,"['CM', 'CM', 'CF', 'CM', 'DI', 'DI', None]",0,['Jupiter']
+1.0,551,dona ferat. quae classe dehinc effusa procorum,551,Dona ferat. quae classe dehinc effusa procorum,"['CF', 'CM', 'DI', 'CF', 'CM', 'CF', None]",0,['Jupiter']
+1.0,552,"bella, quot ad Troiam flentes hiberna Mycenas,",552,"Bella, quot ad Troiam flentes hiberna Mycenas,","['CF', 'DI', 'CM', 'CM', 'CM', 'CF', None]",0,['Jupiter']
+1.0,553,"quot proceres natosque deum, quae robora cernes",553,"Quot proceres natosque deum, quae robora cernes","['CM', 'CM', 'CF', 'CM', 'DI', 'DI', None]",0,['Jupiter']
+1.0,554,oppetere et magnis Asiam concedere fatis.,554,Oppetere et magnis Asiam concedere fatis!,"['SY', 'CM', 'CM', 'CM', 'DI', None]",1,['Jupiter']
+0.9230769230769231,555,hinc Danaum de fine sedet gentesque fovebo,555,Hinc Danaum de fine sedet gentesque fouebo,"['CM', 'CM', 'DI', 'CF', 'CM', 'CF', None]",0,['Jupiter']
+0.925,556,mox alias. pateant montes silvaeque lacusque,556,Mox alias. pateant montes siluaeque lacusque,"['CM', 'CM', 'CM', 'CM', 'CF', None]",0,['Jupiter']
+1.0,557,cunctaque claustra maris; spes et metus omnibus esto.,557,Cunctaque claustra maris; spes et metus omnibus esto.,"['DI', 'CF', 'CM', 'DI', 'CM', 'DI', 'DI', None]",0,['Jupiter']
+0.925,558,arbiter ipse locos terrenaque summa movendo,558,Arbiter ipse locos terrenaque summa mouendo,"['DI', 'CF', 'CM', 'DI', 'CF', None]",0,['Jupiter']
+1.0,559,"experiar, quaenam populis longissima cunctis",559,Experiar quaenam populis longissima cunctis,"['CM', 'CM', 'CM', 'DI', None]",0,['Jupiter']
+0.9318181818181818,560,regna velim linquamque datas ubi certus habenas.',560,"Regna uelim linquamque datas ubi certus habenas.""","['CF', 'CM', 'CF', 'CM', 'DI', 'CF', None]",0,['Jupiter']
+0.9230769230769231,561,tune oculos Aegaea refert ad caerula robur,561,"Tunc oculos Aegaea refert ad caerula, robur","['CM', 'CM', 'CF', 'CM', 'DI', 'DI', None]",0,['Jupiter']
+1.0,562,Herculeum Ledaeque tuens genus atque ita fatur:,562,"Herculeum Ledaeque tuens genus, atque ita fatur:","['CM', 'CF', 'CM', 'DI', 'SY', 'DI', None]",1,['Jupiter']
+0.8536585365853658,563,"'tendite in astra, viri: mea primum regia mundo",563,"""Tendite in astra, uiri: me primum regia mundo","['SY', 'DI', 'CF', 'CM', 'DI', 'DI', 'DI', None]",1,['Jupiter']
+0.926829268292683,564,Iapeti post bella trucis Phlegramque labores,564,Iapeti post bella trucis Phlegraeque labores,"['CM', 'DI', 'CF', 'CM', 'CF', None]",0,['Jupiter']
+0.8378378378378378,565,imposuit: durum vobis iter et grave caeli,565,Imposuit; durum uobis iter et graue caeli,"['CM', 'CM', 'CM', 'DI', 'CM', 'DI', None]",0,['Jupiter']
+1.0,566,"institui. sic ecce meus, sic orbe peracto",566,"Institui. sic ecce meus, sic, orbe peracto","['CM', 'DI', 'CF', 'CM', 'DI', 'CF', None]",0,['Jupiter']
+0.918918918918919,567,Liber et expertus terras remeavit Apollo.',567,"Liber et expertus terras remeauit Apollo.""","['CF', 'DI', 'CM', 'CM', 'CF', None]",0,['Jupiter']
+1.0,568,dixit et ingenti flammantem nubila sulco,568,Dixit et ingenti flammantem nubila sulco,"['CF', 'DI', 'CM', 'DI', 'DI', None]",0,
+0.9512195121951219,569,"direxit per inane facem, quae puppe propinqua",569,"Derexit per inane facem, quae puppe propinqua","['CM', 'CF', 'CF', 'CM', 'DI', 'CF', None]",0,
+0.9512195121951219,570,in bifidum discessit iter fratresque petivit,570,In bifidum discessit iter fratresque petiuit,"['CM', 'CM', 'CF', 'CM', 'CF', None]",0,
+1.0,571,"Tyndareos, placida et mediis in frontibus haesit",571,"Tyndareos, placida et mediis in frontibus haesit","['CM', 'SY', 'CM', 'CM', 'DI', 'DI', None]",1,
+1.0,572,protinus amborum lumenque innoxia fundit,572,Protinus amborum lumenque innoxia fundit,"['DI', 'CM', 'SY', 'DI', None]",1,
+1.0,573,"purpureum, miseris olim implorabile nautis.",573,"Purpureum, miseris olim implorabile nautis.","['CM', 'CM', 'SY', 'DI', None]",1,
+0.9142857142857143,574,Interea medio saevus permissa profundo,574,Interea medio saeuus permissa profundo,"['CM', 'CM', 'CM', 'CF', None]",0,
+1.0,575,carbasa Pangaea Boreas speculatus ab arce,575,Carbasa Pangaea Boreas speculatus ab arce,"['DI', 'CM', 'CM', 'CF', 'DI', None]",0,
+1.0,576,continuo Aeoliam Tyrrhenaque tendit ad antra,576,Continuo Aeoliam Tyrrhenaque tendit ad antra,"['SY', 'CM', 'DI', 'CF', 'DI', None]",1,
+1.0,577,"concitus. omne dei rapidis nemus ingemit alis,",577,"Concitus. omne dei rapidis nemus ingemit alis,","['DI', 'CF', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.9318181818181818,578,"strata Ceres, motusque niger sub praepete pontus.",578,"Strata Ceres, motuque niger sub praepete pontus.","['CF', 'CM', 'CF', 'CM', 'DI', 'DI', None]",0,
+1.0,579,aequore Trinacrio refugique a parte Pelori,579,Aequore Trinacrio refugique a parte Pelori,"['DI', 'CM', 'SY', 'DI', 'CF', None]",1,
+1.0,580,stat rupes horrenda fretis: quot in aethera surgit,580,"Stat rupes horrenda fretis, quot in aethera surgit","['CM', 'CM', 'CF', 'CM', 'CF', 'DI', 'DI', None]",0,
+1.0,581,"molibus, infernas totidem demissa sub undas.",581,"Molibus, infernas totidem demissa sub undas.","['DI', 'CM', 'CM', 'CF', 'DI', None]",0,
+1.0,582,nec scopulos aut antra minor iuxta altera tellus,582,Nec scopulos aut antra minor iuxta altera tellus,"['CM', 'CM', 'DI', 'CF', 'CM', 'SY', 'DI', None]",1,
+0.9333333333333333,583,"cernitur. illam Acamans habitat nudusque Pyragmon,",583,"Cernitur. illam Acamans habitat nudusque Pyracmon,","['DI', 'SY', 'CM', 'CM', 'CF', None]",1,
+0.875,584,has nimbi ventique domos et naufraga servat,584,Has nimbi uentique domos et naufraga seruat,"['CM', 'CM', 'CF', 'CM', 'DI', 'DI', None]",0,
+1.0,585,tempestas. hinc in terras latumque profundum,585,Tempestas; hinc in terras latumque profundum,"['CM', 'DI', 'CM', 'CM', 'CF', None]",0,
+1.0,586,"est iter, hinc olim soliti miscere polumque",586,"Est iter, hinc olim soliti miscere polumque","['CM', 'DI', 'CM', 'CM', 'CM', 'CF', None]",0,
+0.9302325581395349,587,infelixque fretum (neque enim tune Aeolus illis,587,Infelixque fretum (neque enim tunc Aeolus illis,"['CF', 'CM', 'SY', 'CM', 'DI', 'DI', None]",1,
+0.926829268292683,588,"rector erat, Libya cum rumperet advena Calpen",588,Rector erat Libya cum rumperet aduena Calpen,"['CF', 'CM', 'CM', 'DI', 'DI', 'DI', None]",0,
+1.0,589,"Oceanus, cum flens Siculos Oenotria fines",589,"Oceanus, cum flens Siculos Oenotria fines","['CM', 'DI', 'CM', 'CM', 'DI', None]",0,
+1.0,590,"perderet et mediis intrarent montibus undae),",590,"Perderet et mediis intrarent montibus undae),","['DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.8378378378378378,591,intonuit donec pavidis ex aethere ventis,591,Intonuit donec pauidis ex aethere uentis,"['CM', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.925,592,"omnipotens regemque dedit, quem iussa vereri",592,"Omnipotens regemque dedit, quem iussa uereri","['CM', 'CF', 'CM', 'DI', 'CF', None]",0,
+0.8181818181818182,593,saeva cohors: vix monte chalybs iterataque muris,593,Saeua cohors; tum monte chalybs iterataque muris,"['CF', 'CM', 'DI', 'CF', 'CM', 'DI', None]",0,
+0.9047619047619048,594,saxa domant Euros. cum iam prohibere frementum,594,Saxa domant Euros. cum iam cohibere frementum,"['CF', 'CM', 'CM', 'DI', 'CM', 'CF', None]",0,
+0.9333333333333333,595,"ora nequit, rex tune aditus et claustra refringit",595,"Ora nequit, rex tunc aditus et claustra refringit","['CF', 'CM', 'DI', 'CM', 'CM', 'DI', 'CF', None]",0,
+0.9285714285714286,596,ipse volens placatque data fera murmura porta.,596,Ipse uolens placatque data fera murmura porta.,"['CF', 'CM', 'CF', 'CM', 'DI', 'DI', None]",0,
+1.0,597,nuntius hunc solio Boreas proturbat ab alto:,597,Nuntius hunc solio Boreas proturbat ab alto.,"['DI', 'CM', 'CM', 'CM', 'CF', 'DI', None]",0,
+0.9210526315789473,598,"'Pangaea quod ab arce nefas' ait, 'Aeole, vidi.",598,"""Pangaea quod ab arce nefas,"" ait ""Aeole, uidi!","['CM', 'CF', 'DI', 'CF', 'CM', 'DI', 'DI', None]",0,['Boreas']
+0.8421052631578947,599,Graia novam ferro molem commenta iuventus,599,Graia nouam ferro molem commenta iuuentus,"['CF', 'CM', 'CM', 'CM', 'CF', None]",0,['Boreas']
+0.926829268292683,600,"pergit et ingenti gaudens domat aequora velo,",600,"Pergit et ingenti gaudens domat aequora uelo,","['CF', 'DI', 'CM', 'CM', 'DI', 'DI', None]",0,['Boreas']
+1.0,601,"nec mihi libertas imis freta tollere harenis,",601,Nec mihi libertas imis freta tollere harenis,"['CM', 'DI', 'CM', 'CM', 'DI', 'SY', None]",1,['Boreas']
+0.9285714285714286,602,qualis eram nondum vinclis et carcere clausus.,602,Qualis eram nondum uinclis et carcere clausus.,"['CF', 'CM', 'CM', 'CM', 'DI', 'DI', None]",0,['Boreas']
+0.925,603,"hinc animi structaeque viris fiducia puppis,",603,Hinc animi structaeque uiris fiducia puppis,"['CM', 'CM', 'CF', 'CM', 'DI', None]",0,['Boreas']
+0.9285714285714286,604,quod Borean sub rege vident. da mergere Graios,604,Quod Borean sub rege uident. da mergere Graios,"['CM', 'CM', 'DI', 'CF', 'CM', 'DI', 'DI', None]",0,['Boreas']
+1.0,605,"insanamque ratem: nil me mea pignora tangunt,",605,Insanamque ratem; nil me mea pignora tangunt.,"['CF', 'CM', 'DI', 'CM', 'DI', 'DI', None]",0,['Boreas']
+1.0,606,"tantum hominum compesce minas, dum litora iuxta",606,Tantum hominum compesce minas dum litora iuxta,"['SY', 'CM', 'CF', 'CM', 'DI', 'DI', None]",1,['Boreas']
+0.9285714285714286,607,Thessala necdum aliae viderunt carbasa terrae.',607,"Thessala necdum aliae uiderunt carbasa terrae.""","['DI', 'SY', 'CM', 'DI', 'DI', None]",1,['Boreas']
+0.9333333333333333,608,Dixerat. at cuncti fremere intus et aequora venti,608,"Dixerat, at cuncti fremere intus et aequora uenti","['DI', 'CM', 'CM', 'SY', 'CF', 'DI', 'DI', None]",1,
+0.925,609,poscere. tum validam contorto turbine portam,609,Poscere. tum ualidam contorto turbine portam,"['DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,610,impulit Hippotades. fundunt se carcere laeti,610,Impulit Hippotades. fundunt se carcere laeti,"['DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,611,Thraces equi Zephyrusque et nocti concolor alas,611,Thraces equi Zephyrusque et nocti concolor alas,"['CF', 'CM', 'SY', 'DI', 'DI', 'DI', None]",1,
+1.0,612,nimborum cum prole Notus crinemque procellis,612,Nimborum cum prole Notus crinemque procellis,"['CM', 'DI', 'CF', 'CM', 'CF', None]",0,
+0.925,613,hispidus et multa flavus caput Eurus harena;,613,Hispidus et multa flauus caput Eurus harena.,"['DI', 'CM', 'CM', 'CM', 'DI', 'CF', None]",0,
+1.0,614,induxere hiemem raucoque ad litora tractu,614,Induxere hiemem raucoque ad litora tractu,"['SY', 'CM', 'SY', 'DI', 'DI', None]",2,
+0.9047619047619048,615,unanimi freta curva ferunt nec sola tridentis,615,Vnanimi freta curua ferunt. nec sola Tridentis,"['CM', 'DI', 'CF', 'CM', 'DI', 'CF', None]",0,
+0.8571428571428571,616,regna movent: vasto pariter ruit igneus aether,616,Regna mouent; uasto pariter ruit igneus aether,"['CF', 'CM', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,617,cum tonitru piceoque premit nox omnia caelo.,617,Cum tonitru piceoque premit nox omnia caelo.,"['CM', 'CM', 'CF', 'CM', 'DI', 'DI', None]",0,
+0.918918918918919,618,"excussi manibus remi, conversaque frontem",618,Excussi manibus remi conuersaque frontem,"['CM', 'CM', 'CM', 'DI', None]",0,
+0.9285714285714286,619,"puppis in oblicum resonos latus accipit ictus,",619,Puppis in obliquum resonos latus accipit ictus,"['CF', 'DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.926829268292683,620,vela super tremulum subitus volitantia malum,620,Vela super tremulum subitus uolitantia malum,"['CF', 'CM', 'CM', 'CM', 'DI', None]",0,
+1.0,621,"turbo rapit. qui tum Minyis trepidantibus horror,",621,Turbo rapit. qui tum Minyis trepidantibus horror,"['CF', 'CM', 'DI', 'CM', 'CM', 'DI', None]",0,
+0.9230769230769231,622,cum picei fulsere poli pavidamque coruscae,622,Cum picei fulsere poli pauidamque coruscae,"['CM', 'CM', 'CF', 'CM', 'CF', None]",0,
+0.9743589743589743,623,"ante ratem cecidere faces, antemnaque laevo",623,Ante ratem cecidere faces antemnaque laeuo,"['CF', 'CM', 'CF', 'CM', 'DI', None]",0,
+1.0,624,prona dehiscentem cornu cum sustulit undam.,624,Prona dehiscentem cornu cum sustulit undam!,"['CF', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.9285714285714286,625,non hiemem missosque putant consurgere ventos,625,Non hiemem missosque putant consurgere uentos,"['CM', 'CM', 'CF', 'CM', 'DI', None]",0,
+1.0,626,"ignari, sed tale fretum. tum murmure maesto:",626,"Ignari, sed tale fretum. tum murmure maesto","['CM', 'DI', 'CF', 'CM', 'DI', 'DI', None]",0,
+0.926829268292683,627,'hoc erat inlicitas temerare rudentibus undas,627,"""Hoc erat illicitas temerare rudentibus undas","['CM', 'DI', 'CM', 'CF', 'DI', None]",0,['Argonauts']
+0.926829268292683,628,quod nostri timuere patres. vix litore puppem,628,Quod nostri timuere patres. uix litore puppem,"['CM', 'CM', 'CF', 'CM', 'DI', 'DI', None]",0,['Argonauts']
+0.926829268292683,629,"solvimus, et quanto fremitu se sustulit Aegon.",629,"Soluimus, et quanto fremitu se sustulit Aegon!","['DI', 'CM', 'CM', 'CM', 'DI', 'DI', None]",0,['Argonauts']
+0.9473684210526315,630,hoccine Cyaneae concurrunt aequore cautes?,630,Hocine Cyaneae concurrunt aequore cautes,"['DI', 'CM', 'DI', 'DI', None]",0,['Argonauts']
+1.0,631,"tristius an miseris superest mare? linquite, terrae,",631,"Tristius an miseris superest mare? linquite, terrae,","['DI', 'CM', 'CM', 'CM', 'DI', 'DI', None]",0,['Argonauts']
+1.0,632,spem pelagi sacrosque iterum seponite fluctus.',632,"Spem pelagi sacrosque iterum seponite fluctus.""","['CM', 'CM', 'SY', 'CM', 'DI', None]",1,['Argonauts']
+1.0,633,haec iterant segni flentes occumbere leto.,633,Haec iterant segni flentes occumbere leto.,"['CM', 'CM', 'CM', 'CM', 'DI', None]",0,
+1.0,634,magnanimus spectat pharetras et inutile robur,634,Magnanimus spectat pharetras et inutile robur,"['CM', 'CM', 'CM', 'CF', 'DI', None]",0,
+0.918918918918919,635,Amphitryoniades; miscent suprema paventes,635,Amphitryoniades; miscent suprema pauentes,"['CM', 'CM', 'CF', None]",0,
+1.0,636,verba alii iunguntque manus atque ora fatigant,636,Verba alii iunguntque manus atque ora fatigant,"['SY', 'CM', 'CF', 'CM', 'SY', 'CF', None]",2,
+1.0,637,"aspectu in misero toti, cum protinus alnus",637,"Aspectu in misero toti, cum protinus alnus","['SY', 'CM', 'CM', 'CM', 'DI', 'DI', None]",1,
+0.8461538461538461,638,solvitur et vasto puppis mare sorbet hiatu.,638,Soluitur et uasto puppis mare sorbet hiatu.,"['DI', 'CM', 'CM', 'CM', 'DI', 'CF', None]",0,
+0.9361702127659575,639,"illam huc atque illuc nunc torquens verberat Eurus,",639,"Illam huc atque illuc nunc torquens uerberat Eurus,","['SY', 'DI', 'SY', 'CM', 'DI', 'DI', 'DI', None]",2,
+0.9375,640,nunc stridens Zephyris aufert Notus; undique fervent,640,Nunc stridens Zephyris aufert Notus; undique feruent,"['CM', 'CM', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,641,"aequora, cum subitus trifida Neptunus in hasta",641,"Aequora, cum subitus trifida Neptunus in hasta","['DI', 'CM', 'CM', 'CM', 'CF', 'DI', None]",0,
+1.0,642,caeruleum fundo caput extulit. 'hanc mihi Pallas,642,"Caeruleum fundo caput extulit. ""hanc mihi Pallas","['CM', 'CM', 'DI', 'DI', 'CM', 'DI', None]",0,['Neptune']
+1.0,643,et soror hanc' inquit 'mulcens mea pectora fletu,643,"Et soror hanc"" inquit ""mulcens mea pectora fletu","['CM', 'DI', 'CM', 'CM', 'CM', 'DI', 'DI', None]",0,['Neptune']
+0.9285714285714286,644,abstulerint; veniant Phariae Tyriaeque carinae,644,Abstulerint; ueniant Phariae Tyriaeque carinae,"['CM', 'CM', 'CM', 'CF', None]",0,['Neptune']
+0.9285714285714286,645,permissumque putent. quotiens mox rapta videbo,645,Permissumque putent. quotiens mox rapta uidebo,"['CF', 'CM', 'CM', 'DI', 'CF', None]",0,['Neptune']
+1.0,646,vela Notis plenasque malis clamoribus undas.,646,Vela Notis plenasque malis clamoribus undas!,"['CF', 'CM', 'CF', 'CM', 'DI', None]",0,['Neptune']
+0.9166666666666666,647,non meus Orion aut saevus Pliade Taurus,647,Non meus Orion aut saeuus Pliade Taurus,"['CM', 'DI', 'CM', 'DI', 'DI', 'DI', None]",0,['Neptune']
+0.925,648,"mortis causa novae. miseris tu gentibus, Argo,",648,"Mortis causa nouae; miseris tu gentibus, Argo,","['DI', 'CF', 'CM', 'CM', 'DI', 'DI', None]",0,['Neptune']
+0.926829268292683,649,"fata paras, nec iam merito tibi, Tiphy, quietum",649,"Fata paras, nec tam merito tibi, Tiphy, quietum","['CF', 'CM', 'DI', 'CM', 'CM', 'DI', 'CF', None]",0,['Neptune']
+0.8947368421052632,650,ulla parens volet Elysium manesque piorum.',650,"Vlla parens uolet Elysium manesque piorum.""","['CF', 'CM', 'DI', 'CM', 'CF', None]",0,['Neptune']
+1.0,651,haec ait et pontum pater ac turbata reponit,651,Haec ait et pontum pater ac turbata reponit,"['CM', 'DI', 'CM', 'CM', 'DI', 'CM', 'CF', None]",0,
+1.0,652,"litora depellitque Notos, quos caerulus horror",652,"Litora depellitque Notos, quos caerulus horror","['DI', 'CF', 'CM', 'DI', 'DI', None]",0,
+0.925,653,et madido gravis unda sinu longeque secutus,653,Et madido grauis unda sinu longeque secutus,"['CM', 'CM', 'DI', 'CF', 'CM', 'CF', None]",0,
+0.9285714285714286,654,imber ad Aeoliam tendunt simul aequore portam.,654,Imber ad Aeoliae tendunt simul aequore portam.,"['CF', 'DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.9459459459459459,655,emicuit reserata dies caelumque resolvit,655,Emicuit reserata dies caelumque resoluit,"['CM', 'CF', 'CM', 'CF', None]",0,
+1.0,656,arcus et in summos redierunt nubila montes.,656,Arcus et in summos redierunt nubila montes.,"['CF', 'DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,657,"iam placidis ratis exstat aquis, quam gurgite ab imo",657,"Iam placidis ratis exstat aquis, quam gurgite ab imo","['CM', 'CM', 'DI', 'CF', 'CM', 'DI', 'SY', 'DI', None]",1,
+0.8095238095238095,658,et Thetis et magnis Nereus socer erigit ulnis.,658,Et Thetis et magnis Pelei socer erigit ulnis.,"['CM', 'DI', 'CM', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.9166666666666666,659,ergo umeros ductor sacro velatur amictu,659,Ergo umeros ductor sacro uelatur amictu,"['SY', 'CM', 'CM', 'CM', 'CF', None]",1,
+1.0,660,"Aesoniamque capit pateram, quam munere gaudens",660,"Aesoniamque capit pateram, quam munere gaudens","['CF', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,661,liquerat hospitio pharetrasque rependerat auro,661,Liquerat hospitio pharetrasque rependerat auro,"['DI', 'CM', 'CF', 'DI', None]",0,
+0.8837209302325582,662,"Salmoneus, nondum ille furens, qui fingeret alti",662,"Salmoneus, nondum ille furens, cum fingeret alti","['CM', 'SY', 'CF', 'CM', 'DI', 'DI', None]",1,
+0.926829268292683,663,quadrifida trabe tela Iovis contraque ruenti,663,Quadrifida trabe tela Iouis contraque ruenti,"['CM', 'DI', 'CF', 'CM', 'CF', None]",0,
+1.0,664,aut Athon aut Rhodopen maestae nemora ardua Pisae,664,Aut Athon aut Rhodopen maestae nemora ardua Pisae,"['CM', 'DI', 'CM', 'CM', 'CM', 'SY', 'DI', None]",1,
+1.0,665,aemulus et miseros ipse ureret Elidis agros.,665,Aemulus et miseros ipse ureret Elidis agros.,"['DI', 'CM', 'CM', 'SY', 'DI', 'DI', None]",1,
+1.0,666,hac pelago libat latices et talibus infit:,666,Hac pelago libat latices et talibus infit:,"['CM', 'CM', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,667,"'di, quibus undarum tempestatisque sonorae",667,"""Di quibus undarum tempestatisque sonorae","['CM', 'DI', 'CM', 'CF', None]",0,['Jason']
+1.0,668,"imperium et magno penitus par regia caelo,",668,"Imperium et magno penitus par regia caelo,","['SY', 'CM', 'CM', 'CM', 'DI', 'DI', None]",1,['Jason']
+0.926829268292683,669,"tuque fretum divosque pater sortite biformes,",669,"Tuque, fretum diuosque pater sortite biformes,","['CF', 'CM', 'CF', 'CM', 'CF', None]",0,['Jason']
+0.8421052631578947,670,"seu casus nox ista fuit seu volvitur axis,",670,"Seu casus nox ista fuit seu, uoluitur axis","['CM', 'CM', 'DI', 'CF', 'CM', 'DI', 'DI', None]",0,['Jason']
+0.6428571428571429,671,"ut superum sic claret opus, tollique vicissim",671,"Vt superum, sic stare operam tollique uicissim","['CM', 'CM', 'DI', 'SY', 'CM', 'CF', None]",1,['Jason']
+0.9285714285714286,672,"pontus habet, seu te subitae nova puppis imago",672,"Pontus habet, seu te subitae noua puppis imago","['CF', 'CM', 'DI', 'CM', 'CM', 'DI', 'CF', None]",0,['Jason']
+1.0,673,armorumque hominumque truces consurgere in iras,673,Armorumque hominumque truces consurgere in iras,"['SY', 'CF', 'CM', 'SY', 'DI', None]",2,['Jason']
+1.0,674,"impulit, haec luerim satis et tua numina, rector,",674,"Impulit, haec luerim satis et tua numina, rector,","['DI', 'CM', 'CM', 'DI', 'CM', 'DI', 'DI', None]",0,['Jason']
+1.0,675,iam fuerint meliora mihi. da reddere terris,675,Iam fuerint meliora mihi. da reddere terris,"['CM', 'CM', 'CF', 'CM', 'DI', 'DI', None]",0,['Jason']
+1.0,676,has animas patriaeque amplecti limina portae.,676,Has animas patriaeque amplecti limina portae.,"['CM', 'CM', 'SY', 'DI', 'DI', None]",1,['Jason']
+1.0,677,tum quocumque loco meritas tibi plurimus aras,677,Tum quocumque loco meritas tibi plurimus aras,"['CM', 'CF', 'CM', 'CM', 'DI', 'DI', None]",0,['Jason']
+1.0,678,"pascit honos, ubicumque rotis horrendus equisque",678,"Pascit honos, ubicumque rotis horrendus equisque","['CF', 'CM', 'CF', 'CM', 'CF', None]",0,['Jason']
+1.0,679,"stas, pater, atque ingens utrimque fluentia Triton",679,"Stas, pater, atque ingens utrimque fluentia Triton","['CM', 'DI', 'SY', 'CM', 'CF', 'DI', None]",1,['Jason']
+1.0,680,"frena tenet, tantus nostras condere per urbes.'",680,"Frena tenet, tantus nostras condere per urbes.""","['CF', 'CM', 'CM', 'CM', 'CF', 'DI', None]",0,['Jason']
+0.9318181818181818,681,dixerat haec. oritur clamor dextraeque sequuntur,681,Dixerat haec. oritur clamor dextraeque sequentum,"['DI', 'CM', 'CM', 'CM', 'CF', None]",0,
+1.0,682,verba ducis. sic cum stabulis et messibus ingens,682,Verba ducis. sic cum stabulis et messibus ingens,"['CF', 'CM', 'DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.9736842105263158,683,ira deum et Calabri populator Sirius arvi,683,Ira deum et Calabri populator Sirius arui,"['CF', 'SY', 'CM', 'CM', 'DI', 'DI', None]",1,
+1.0,684,"incubuit, coit agrestum manus anxia priscum",684,"Incubuit, coit agrestum manus anxia priscum","['CM', 'DI', 'CM', 'DI', 'DI', None]",0,
+0.926829268292683,685,"in nemus, et miseris dictat pia vota sacerdos.",685,In nemus et miseris dictat pia uota sacerdos.,"['CM', 'DI', 'CM', 'CM', 'CM', 'DI', 'CF', None]",0,
+1.0,686,ecce autem molli Zephyros descendere lapsu,686,Ecce autem molli Zephyros descendere lapsu,"['SY', 'CM', 'CM', 'CM', 'DI', None]",1,
+0.85,687,aspiciunt; volat immissis cava pinus habenis,687,Aspiciunt; uolat immissis caua pinus habenis,"['CM', 'DI', 'CM', 'DI', 'CF', None]",0,
+0.9318181818181818,688,infinditque salum et spumas vomit aere tridenti:,688,Infinditque salum et spumas uomit aere tridenti;,"['CF', 'SY', 'CM', 'CM', 'DI', 'CF', None]",1,
+1.0,689,Tiphys agit tacitique sedent ad iussa ministri;,689,Tiphys agit tacitique sedent ad iussa ministri:,"['CF', 'CM', 'CF', 'CM', 'DI', 'CF', None]",0,
+0.925,690,qualiter ad summi solium Iovis omnia circum,690,Qualiter ad summi solium Iouis omnia circum,"['DI', 'CM', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.8536585365853658,691,"prona parata deo, ventique imbresque nivesque",691,"Prona parata deo, uentique imbresque niuesque","['CF', 'CF', 'CM', 'SY', 'CF', None]",1,
+1.0,692,fulguraque et tonitrus et adhuc in fontibus amnes.,692,Fulguraque et tonitrus et adhuc in fontibus amnes.,"['SY', 'CM', 'CM', 'CF', 'CM', 'DI', 'DI', None]",1,
+1.0,693,At subitus curaque ducem metus acrior omni,693,At subitus curaque ducem metus acrior omni,"['CM', 'CM', 'CF', 'CM', 'DI', 'DI', None]",0,
+1.0,694,"mensque mali praesaga quatit, quod regis adortus",694,"Mensque mali praesaga quatit, quod regis adortus","['CF', 'CM', 'CF', 'CM', 'DI', 'CF', None]",0,
+1.0,695,progeniem raptoque dolis crudelis Acasto,695,Progeniem raptoque dolis crudelis Acasto,"['CM', 'CF', 'CM', 'CF', None]",0,
+1.0,696,cetera nuda neci medioque in crimine patrem,696,Cetera nuda neci medioque in crimine patrem,"['DI', 'CF', 'CM', 'SY', 'DI', 'DI', None]",1,
+0.8461538461538461,697,"liquerit ac nullis inopem vallaverit armis,",697,"Liquerit ac nullis inopem uallauerit armis,","['DI', 'CM', 'CM', 'CM', 'DI', None]",0,
+1.0,698,ipse procul nunc tuta tenens; ruat omnis in illum,698,Ipse procul nunc tuta tenens; ruat omnis in illum,"['CF', 'CM', 'DI', 'CF', 'CM', 'DI', 'CF', 'DI', None]",0,
+0.8636363636363636,699,quippe furor. nec vana pavet trepidatque futuris.,699,Quippe furor. nec uana pauet trepidatque futuris.,"['CF', 'CM', 'DI', 'CF', 'CM', 'CF', None]",0,
+0.8604651162790697,700,Saevit atrox Pelias inimicaque vertice ab alto,700,Saeuit atrox Pelias inimicaque uertice ab alto,"['CF', 'CM', 'CM', 'DI', 'SY', 'DI', None]",1,
+0.8571428571428571,701,vela videt nee qua se ardens effundere possit.,701,Vela uidet nec qua se ardens effundere possit.,"['CF', 'CM', 'DI', 'CM', 'SY', 'CM', 'DI', None]",1,
+0.9285714285714286,702,"nil animi, nil regna iuvant; fremit obice ponti",702,"Nil animi, nil regna iuuant; fremit obice ponti","['CM', 'CM', 'DI', 'CF', 'CM', 'DI', 'DI', None]",0,
+1.0,703,clausa cohors telisque salum facibusque coruscat.,703,"Clausa cohors, telisque salum facibusque coruscat.","['CF', 'CM', 'CF', 'CM', 'CF', None]",0,
+0.8048780487804879,704,"haut secus, aerisona volucer cum Daedalus ora",704,"Haud secus, aerisona uolucer cum Daedalus Ida","['CM', 'DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.9210526315789473,705,"prosiluit iuxtaque comes brevioribus alis,",705,"Prosiluit iuxtaque comes breuioribus alis,","['CM', 'CF', 'CM', 'DI', None]",0,
+0.918918918918919,706,"nube nova linquente domos, Minoia frustra",706,Nube noua linquente domos Minoia frustra,"['CF', 'CM', 'CF', 'CM', 'DI', None]",0,
+0.9142857142857143,707,infremuit manus et visu lassatur inani,707,Infremuit manus et uisu lassatur inani,"['CM', 'DI', 'CM', 'CM', 'CF', None]",0,
+1.0,708,omnis eques plenisque redit Gortyna pharetris.,708,Omnis eques plenisque redit Gortyna pharetris.,"['CF', 'CM', 'CF', 'CM', 'CF', None]",0,
+1.0,709,quin etiam in thalamis primoque in limine Acasti,709,Quin etiam in thalamis primoque in limine Acasti,"['CM', 'SY', 'CM', 'CM', 'SY', 'DI', 'SY', None]",3,
+0.9230769230769231,710,fusus humo iuvenis gressus et inania signa,710,Fusus humo iuuenis gressus et inania signa,"['CF', 'CM', 'CM', 'CM', 'CF', 'DI', None]",0,
+0.925,711,ore premit sparsisque legens vestigia canis,711,Ore premit sparsisque legens uestigia canis,"['CF', 'CM', 'CF', 'CM', 'DI', None]",0,
+1.0,712,"'te quoque iam maesti forsan genitoris imago,",712,"""Te quoque iam maesti forsan genitoris imago,","['CM', 'DI', 'CM', 'CM', 'CM', 'CF', None]",0,['Pelias']
+1.0,713,"nate', ait 'et luctus subeunt suspiria nostri,",713,"Nate,"" ait ""et luctus subeunt suspiria nostri","['SY', 'DI', 'CM', 'CM', 'CM', 'DI', None]",1,['Pelias']
+1.0,714,iamque dolos circumque trucis discrimina leti,714,Iamque dolos circumque trucis discrimina leti,"['CF', 'CM', 'CF', 'CM', 'DI', None]",0,['Pelias']
+0.9318181818181818,715,"mille vides. qua te, infelix, quibus insequar oris?",715,"Mille uides. qua te, infelix, quibus insequar oris?","['CF', 'CM', 'DI', 'SY', 'CM', 'DI', 'DI', None]",1,['Pelias']
+1.0,716,non Scythicas ferus ille domos nec ad ostia Ponti,716,Non Scythicas ferus ille domos nec ad ostia Ponti,"['CM', 'CM', 'DI', 'CF', 'CM', 'CF', 'DI', 'DI', None]",0,['Pelias']
+1.0,717,"tendit iter, falsae sed captum laudis amore",717,"Tendit iter, falsae sed captum laudis amore","['CF', 'CM', 'CM', 'DI', 'DI', 'CF', None]",0,['Pelias']
+1.0,718,"te, puer, in nostrae durus tormenta senectae",718,"Te, puer, in nostrae durus tormenta senectae","['CM', 'DI', 'CM', 'CM', 'CM', 'CF', None]",0,['Pelias']
+0.9318181818181818,719,nune lacerat. celsis an si freta puppibus essent,719,Nunc lacerat. celsis an si freta puppibus essent,"['CM', 'CM', 'CM', 'DI', 'CM', 'DI', 'DI', None]",0,['Pelias']
+0.7804878048780488,720,"pervia, non ultro iuvenes classemque decissem?",720,"Peruia, non ultro iuuenes classemque dedissem?","['DI', 'CM', 'CM', 'CM', 'CF', None]",0,['Pelias']
+1.0,721,"o domus, o freti nequiquam prole penates.'",721,"O domus, o freti nequiquam prole penates!""","['CM', 'DI', 'CM', 'CM', 'DI', 'CF', None]",0,['Pelias']
+1.0,722,dixit et extemplo furiis iraque minaci,722,Dixit et extemplo furiis iraque minaci,"['CF', 'DI', 'CM', 'CM', 'CF', None]",0,['Pelias']
+0.926829268292683,723,"terribilis: 'sunt hic etiam tua vulnera, praedo,",723,"Terribilis ""sunt hic etiam tua uulnera, praedo,","['CM', 'DI', 'CM', 'CM', 'DI', 'DI', None]",0,['Pelias']
+1.0,724,sunt lacrimae carusque parens.' simul aedibus altis,724,"Sunt lacrimae carusque parens"": simul aedibus altis","['CM', 'CM', 'CF', 'CM', 'DI', 'DI', None]",0,['Pelias']
+0.9333333333333333,725,itque reditque fremens rerumque asperrima versat:,725,Itque reditque fremens rerumque asperrima uersat.,"['CF', 'CF', 'CM', 'SY', 'DI', None]",1,
+0.9285714285714286,726,Bistonas ad meritos cum cornua saeva Thyoneus,726,Bistonas ad meritos cum cornua saeua Thyoneus,"['DI', 'CM', 'CM', 'DI', 'DI', 'CF', None]",0,
+1.0,727,"torsit et infelix iam mille furoribus Haemus,",727,"Torsit, et infelix iam mille furoribus Haemus,","['CF', 'DI', 'CM', 'DI', 'CF', 'DI', None]",0,
+1.0,728,"iam Rhodopes nemora alta gemunt, talem incita longis",728,"Iam Rhodopes nemora alta gemunt, talem incita longis","['CM', 'CM', 'SY', 'CF', 'CM', 'SY', 'DI', None]",2,
+1.0,729,porticibus coniunxque fugit natique Lycurgum.,729,Porticibus coniunxque fugit natique Lycurgum.,"['CM', 'CF', 'CM', 'CF', None]",0,
+0.9230769230769231,730,Tartareo tum sacra Iovi Stygiisque ferebat,730,Tartareo tum sacra Ioui Stygiisque ferebat,"['CM', 'DI', 'CF', 'CM', 'CF', None]",0,
+0.9166666666666666,731,"manibus Alcimede tanto super auxia nato,",731,"Manibus Alcimede tanto super anxia nato,","['DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,732,siquid ab excitis melius praenosceret umbris.,732,Siquid ab excitis melius praenosceret umbris.,"['CF', 'DI', 'CM', 'CM', 'DI', None]",0,
+1.0,733,ipsum etiam curisque parem talesque prementem,733,Ipsum etiam curisque parem talesque prementem,"['SY', 'CM', 'CF', 'CM', 'CF', None]",1,
+1.0,734,"corde metus ducit, facilem tamen, Aesona coniunx.",734,"Corde metus ducit, facilem tamen, Aesona coniunx.","['CF', 'CM', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.9347826086956522,735,in scrobibus cruor et largus Phlegethontis aperti,735,In scrobibus cruor et largus Phlegethontis operti,"['CM', 'CM', 'DI', 'CM', 'CM', 'CF', None]",0,
+0.7906976744186046,736,"stagnat honos, saevoque vocat grandaeva tumultu",736,"Stagnat honos, saeuoque uocat grandaeua tumultu","['CF', 'CM', 'CF', 'CM', 'CF', None]",0,
+0.925,737,Thessalis exanimes atavos magnaeque nepotem,737,Thessalis exanimes atauos magnaeque nepotem,"['DI', 'CM', 'CM', 'CF', None]",0,
+0.918918918918919,738,Pleiones. et iam tenues ad carmina vultus,738,Pleiones. et iam tenues ad carmina uultus,"['CM', 'DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,739,extulerat maestosque tuens natumque nurumque,739,Extulerat maestosque tuens natumque nurumque,"['CM', 'CF', 'CM', 'CF', None]",0,
+1.0,740,talia libato pandebat sanguine Cretheus:,740,Talia libato pandebat sanguine Cretheus:,"['DI', 'CM', 'DI', 'DI', None]",0,
+0.9347826086956522,741,"'mitte metus, volat ille mari quantumque propinquat,",741,"""Mitte metus, uolat ille mari, quantumque propinquat","['CF', 'CM', 'DI', 'CF', 'CM', 'CF', None]",0,['ghost of Cretheus']
+0.9302325581395349,742,iam magis atque magis variis stupet Aea deorum,742,Iam magis atque magis uariis stupet Aea deorum,"['CM', 'DI', 'CF', 'CM', 'CM', 'DI', 'CF', None]",0,['ghost of Cretheus']
+1.0,743,prodigiis quatiuntque truces oracula Colchos.,743,Prodigiis quatiuntque truces oracula Colchos.,"['CM', 'CF', 'CM', 'DI', None]",0,['ghost of Cretheus']
+1.0,744,"heu quibus ingreditur fatis, qui gentibus horror",744,"Heu quibus ingreditur fatis, qui gentibus horror","['CM', 'DI', 'CM', 'CM', 'DI', 'DI', None]",0,['ghost of Cretheus']
+1.0,745,pergit. mox Scythiae spoliis nuribusque superbus,745,Pergit! mox Scythiae spoliis nuribusque superbus,"['DI', 'CM', 'CM', 'CM', 'CF', None]",0,['ghost of Cretheus']
+0.8636363636363636,746,adveniet; cuperem ipse graves tum rumpere terras.,746,Adueniet; cuperem ipse graues tum rumpere terras.,"['CM', 'SY', 'CF', 'CM', 'DI', 'DI', None]",1,['ghost of Cretheus']
+1.0,747,sed tibi triste nefas fraternaque turbidus arma,747,Sed tibi triste nefas fraternaque turbidus arma,"['CM', 'DI', 'CF', 'CM', 'DI', 'DI', None]",0,['ghost of Cretheus']
+0.9210526315789473,748,rex parat et saevos irarum concipit ignes.,748,Rex parat et saeuos irarum concipit ignes.,"['CM', 'DI', 'CM', 'CM', 'DI', 'DI', None]",0,['ghost of Cretheus']
+0.94,749,quin rapis hine animam et famulos citus effugis artus?,749,Quin rapis hinc animam et famulos citus effugis artus?,"['CM', 'DI', 'CM', 'SY', 'CM', 'CM', 'DI', 'DI', None]",1,['ghost of Cretheus']
+1.0,750,"i, meus es, iam te in lucos pia turba silentum",750,"I, meus es, iam te <in> lucos pia turba silentum","['CM', 'DI', 'CM', 'DI', 'SY', 'CM', 'CM', 'DI', 'CF', None]",1,['ghost of Cretheus']
+0.8780487804878049,751,secretisque ciet volitans pater Aeolus arvis.',751,"Secretisque ciet uolitans pater Aeolus aruis.""","['CF', 'CM', 'CM', 'DI', 'DI', None]",0,['ghost of Cretheus']
+0.918918918918919,752,Horruits interea famulum clamore supremo,752,Horruit interea famulum clamore supremo,"['DI', 'CM', 'CM', 'CF', None]",0,
+1.0,753,"maesta domus, regemque fragor per moenia differt",753,"Maesta domus, regemque fragor per moenia differt","['CF', 'CM', 'CF', 'CM', 'DI', 'DI', None]",0,
+0.925,754,mille ciere manus et iam dare iussa vocatis.,754,Mille ciere manus et iam dare iussa uocatis.,"['CF', 'CF', 'CM', 'DI', 'CM', 'DI', 'CF', None]",0,
+0.925,755,flagrantes aras vestemque nemusque sacerdos,755,Flagrantes aras uestemque nemusque sacerdos,"['CM', 'CM', 'CF', 'CF', None]",0,
+0.9333333333333333,756,"praecipitat, subitisque pavens circumspicit Aeson,",756,Praecipitat subitisque pauens circumspicit Aeson,"['CM', 'CF', 'CM', 'DI', None]",0,
+0.8536585365853658,757,quid moveat. quam multa leo cunctatus in arta,757,Quid moueat. quam multa leo cunctatur in arta,"['CM', 'CM', 'DI', 'CF', 'CM', 'CF', 'DI', None]",0,
+0.925,758,"mole virum rictuque genas et lumina pressit,",758,"Mole uirum rictuque genas et lumina pressit,","['CF', 'CM', 'CF', 'CM', 'DI', 'DI', None]",0,
+1.0,759,"sic curae subiere ducem, ferrumne capessat",759,"Sic curae subiere ducem, ferrumne capessat","['CM', 'CM', 'CF', 'CM', 'CF', None]",0,
+0.9210526315789473,760,imbelle atque aevi senior gestamina primi,760,"Imbelle atque aeui senior gestamina primi,","['SY', 'SY', 'CM', 'CM', 'DI', None]",2,
+0.918918918918919,761,an patres regnique acuat mutabile vulgus.,761,An patres regnique acuat mutabile uulgus.,"['CM', 'CM', 'SY', 'CM', 'DI', None]",1,
+1.0,762,contra effusa manus haerensque in pectore coniunx,762,Contra effusa manus haerensque in pectore coniunx,"['SY', 'CF', 'CM', 'SY', 'DI', 'DI', None]",2,
+1.0,763,'me quoque' ait 'casus comitem quicumque propinquat,763,"""Me quoque"" ait ""casus comitem quicumque propinquat","['CM', 'SY', 'CM', 'CM', 'CM', 'CF', None]",1,['Alcimede']
+0.918918918918919,764,"accipies, nec fata traham natumque videbo",764,"Accipies, nec fata traham natumque uidebo","['CM', 'DI', 'CF', 'CM', 'CF', None]",0,['Alcimede']
+1.0,765,"te sine, sat caeli patiens, cum prima per altum",765,"Te sine, sat caeli patiens, cum prima per altum","['CM', 'DI', 'CM', 'CM', 'CM', 'DI', 'CF', 'DI', None]",0,['Alcimede']
+1.0,766,"vela dedit, potui quae tantum ferre dolorem.'",766,"Vela dedit potui quae tantum ferre dolorem.""","['CF', 'CM', 'CM', 'DI', 'DI', 'CF', None]",0,['Alcimede']
+1.0,767,"talia per lacrimas. et iam circumspicit Aeson,",767,Talia per lacrimas. et iam circumspicit Aeson,"['DI', 'CM', 'CM', 'DI', 'CM', 'DI', None]",0,
+0.926829268292683,768,"praeveniat quo fine minas, quae fata capessat",768,"Praeueniat quo fine minas, quae fata capessat","['CM', 'DI', 'CF', 'CM', 'DI', 'CF', None]",0,
+1.0,769,digna satis: magnos obitus natumque domumque,769,Digna satis; magnos obitus natumque domumque,"['CF', 'CM', 'CM', 'CM', 'CF', None]",0,
+1.0,770,et genus Aeolium pugnataque poscere bella.,770,Et genus Aeolium pugnataque poscere bella.,"['CM', 'DI', 'CM', 'DI', 'DI', None]",0,
+0.9302325581395349,771,"est etiam ante oculos aevi rudis altera proles,",771,"Est etiam ante oculos aeui rudis altera proles,","['CM', 'SY', 'SY', 'CM', 'CM', 'DI', 'DI', None]",2,
+1.0,772,ingentes animos et fortia discere facta,772,Ingentes animos et fortia discere facta,"['CM', 'CM', 'DI', 'DI', 'DI', None]",0,
+0.926829268292683,773,quem velit atque olim leti meminisse paterni.,773,Quem uelit atque olim leti meminisse paterni.,"['CM', 'DI', 'SY', 'CM', 'CM', 'CF', None]",1,
+0.85,774,ergo sacra novat. veteris sub nocte cupressi,774,Ergo sacra nouat. ueteris sub nocte cupressi,"['DI', 'CF', 'CM', 'CM', 'DI', 'CF', None]",0,
+1.0,775,sordidus et multa pallens ferrugine taurus,775,Sordidus et multa pallens ferrugine taurus,"['DI', 'CM', 'CM', 'CM', 'DI', None]",0,
+0.926829268292683,776,"stabat adhuc, cui caeruleae per cornua vittae",776,"Stabat adhuc, cui caeruleae per cornua uittae","['CF', 'CM', 'DI', 'CM', 'DI', 'DI', None]",0,
+1.0,777,et taxi frons hirta comis; ipse aeger anhelans,777,Et taxi frons hirta comis; ipse aeger anhelans,"['CM', 'CM', 'DI', 'CF', 'CM', 'SY', 'CF', None]",1,
+0.9230769230769231,778,impatiensque loci visaque exterritus umbra.,778,Impatiensque loci uisaque exterritus umbra.,"['CF', 'CM', 'SY', 'DI', None]",1,
+1.0,779,hunc sibi praecipuum gentis de more nefandae,779,Hunc sibi praecipuum gentis de more nefandae,"['CM', 'DI', 'CM', 'CM', 'DI', 'CF', None]",0,
+0.8648648648648649,780,Thessalis in seros Ditis servaverat usus:,780,"Thessalis in seros Ditis seruauerat usus,","['DI', 'CM', 'CM', 'CM', 'DI', None]",0,
+1.0,781,tergeminam cum placat eram Stygiasque supremo,781,Tergeminam cum placat eram Stygiasque supremo,"['CM', 'DI', 'CF', 'CM', 'CF', None]",0,
+0.975,782,"obsecrat igne domos, iam iam exorabile retro",782,"Obsecrat igne domos, iamiam exorabile retro","['DI', 'CF', 'CM', 'SY', 'DI', None]",1,
+0.8823529411764706,783,carmen agens; neque enim ante leves niger avehit umbras,783,Carmen agens; neque enim ante leues niger auehit umbras,"['CF', 'CM', 'SY', 'SY', 'CF', 'CM', 'DI', 'DI', None]",2,
+0.9069767441860465,784,"portitor, et vinctae primis stant faucibus Orci.",784,Portitor et cunctae primis stant faucibus Orci.,"['DI', 'CM', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,785,illum ubi terrificis superesse in tempore sacris,785,Illum ubi terrificis superesse in tempore sacris,"['SY', 'DI', 'CM', 'SY', 'DI', 'DI', None]",2,
+1.0,786,"conspexit, statuit leto supremaque fatur",786,"Conspexit, statuit leto supremaque fatur","['CM', 'CM', 'CM', 'DI', None]",0,
+1.0,787,ipse manu tangens damnati cornua tauri:,787,Ipse manu tangens damnati cornua tauri:,"['CF', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.9318181818181818,788,"'vos, quibus imperium Iovis et non segne peractum",788,"""Vos, quibus imperium Iouis et non segne peractum","['CM', 'DI', 'CM', 'DI', 'CM', 'DI', 'CF', None]",0,['Aeson']
+1.0,789,"lucis iter, mihi conciliis, mihi cognita bellis",789,"Lucis iter, mihi conciliis, mihi cognita bellis","['CF', 'CM', 'DI', 'CM', 'DI', 'DI', None]",0,['Aeson']
+1.0,790,nomina magnorum fama sacrata nepotum;,790,"Nomina, magnorum fama sacrata nepotum;","['DI', 'CM', 'CM', 'CF', None]",0,['Aeson']
+0.926829268292683,791,"tuque, excite parens umbris, ut nostra videres",791,"Tuque, excite parens umbris ut nostra uideres","['SY', 'CF', 'CM', 'CM', 'DI', 'CF', None]",1,['Aeson']
+1.0,792,"funera et oblitos superum paterere dolores,",792,"Funera et oblitos superum paterere dolores,","['SY', 'DI', 'CM', 'CM', 'CF', None]",1,['Aeson']
+0.9333333333333333,793,da placidae mihi sedis iter meque hostia vestris,793,"Da placidae mihi sedis iter, meque hostia uestris","['CM', 'CM', 'DI', 'CF', 'CM', 'SY', 'DI', None]",1,['Aeson']
+1.0,794,"conciliet praemissa locis. tu, nuntia sontum",794,"Conciliet praemissa locis. tu, nuntia sontum","['CM', 'CF', 'CM', 'DI', 'DI', None]",0,['Aeson']
+0.9302325581395349,795,"virgo Iovi, terras oculis quae prospicis aequis,",795,"Virgo Ioui, terras oculis quae prospicis aequis,","['CF', 'CM', 'CM', 'CM', 'DI', 'DI', None]",0,['Aeson']
+0.9024390243902439,796,ultricesque deae Fasque et grandaeva Furorum,796,Vltricesque deae Fasque et grandaeua Furorum,"['CF', 'CM', 'SY', 'CM', 'CF', None]",1,['Aeson']
+1.0,797,"poena parens, meritis regis succedite tectis",797,"Poena parens, meritis regis succedite tectis","['CF', 'CM', 'CM', 'CM', 'DI', None]",0,['Aeson']
+0.925,798,et saevas inferte faces. sacer effera raptet,798,Et saeuas inferte faces. sacer effera raptet,"['CM', 'CM', 'CF', 'CM', 'DI', 'DI', None]",0,['Aeson']
+0.7,799,corda pavor; nee sola mei gravia adfore nati,799,"Corda pauor, nec sola mei grauia affore nati","['CF', 'CM', 'DI', 'CF', 'CM', 'SY', 'DI', None]",1,['Aeson']
+1.0,800,arma ratemque putet: classes et Pontica signa,800,Arma ratemque putet; classes et Pontica signa,"['CF', 'CF', 'CM', 'CM', 'DI', 'DI', None]",0,['Aeson']
+1.0,801,atque indignatos temerato litore reges,801,Atque indignatos temerato litore reges,"['SY', 'CM', 'DI', 'DI', None]",1,['Aeson']
+1.0,802,mente agitet semperque metu decurrat ad undas,802,Mente agitet semperque metu decurrat ad undas,"['SY', 'CM', 'CF', 'CM', 'CF', 'DI', None]",1,['Aeson']
+0.8372093023255814,803,arena ciens; mors sera viam temptataque claudat,803,Arma ciens: mors sera uiam temptataque claudat,"['CF', 'CM', 'DI', 'CF', 'CM', 'DI', None]",0,['Aeson']
+1.0,804,"effugia et nostras nequeat praecurrere diras,",804,"Effugia et nostras nequeat praecurrere diras,","['SY', 'CM', 'CM', 'CM', 'DI', None]",1,['Aeson']
+0.9285714285714286,805,sed reduces iam iamque viros auroque coruscum,805,Sed reduces iam iamque uiros auroque coruscum,"['CM', 'CM', 'DI', 'CF', 'CM', 'CF', None]",0,['Aeson']
+0.9285714285714286,806,cernat iter. stabo insultans et ovantia contra,806,Cernat iter. stabo insultans et ouantia contra,"['CF', 'CM', 'SY', 'CM', 'CF', 'DI', None]",1,['Aeson']
+0.925,807,"ora manusque feram. tum, vobis siquod inausum",807,Ora manusque feram. tum uobis siquod inausum,"['CF', 'CF', 'CM', 'DI', 'DI', 'CF', None]",0,['Aeson']
+0.8918918918918919,808,arcanumque nefas et adhuc incondita leti,808,Arcanumque nefas et adhuc incognita leti,"['CF', 'CM', 'CF', 'CM', 'DI', None]",0,['Aeson']
+1.0,809,"sors superest, date fallaci pudibunda senectae",809,"Sors superest, date fallaci pudibunda senectae","['CM', 'CM', 'DI', 'CM', 'CF', None]",0,['Aeson']
+1.0,810,exitia indecoresque obitus. non Marte nec armis,810,Exitia indecoresque obitus. non Marte nec armis,"['SY', 'SY', 'CM', 'DI', 'CF', 'DI', None]",2,['Aeson']
+0.95,811,"aut nati, precor, ille mei dignatus ut umquam",811,Aut precor ille mei nati dignatus ut umquam,"['CM', 'DI', 'CF', 'CM', 'CM', 'CF', 'DI', None]",0,['Aeson']
+1.0,812,"ense cadat; quae fida manus, quae cara suorum",812,"Ense cadat; quae fida, manus, quae cara, suorum","['CF', 'CM', 'DI', 'CF', 'CM', 'DI', 'CF', None]",0,['Aeson']
+1.0,813,diripiat laceretque senem nec membra sepulchro,813,Diripiat laceretque senem nec membra sepulchro,"['CM', 'CF', 'CM', 'DI', 'CF', None]",0,['Aeson']
+1.0,814,contegat. haec noster de rege piacula sanguis,814,Contegat. haec noster de rege piacula sanguis,"['DI', 'CM', 'CM', 'DI', 'CF', 'DI', None]",0,['Aeson']
+1.0,815,sumat et heu cunctae quas misit in aequora gentes.'—,815,"Sumat et, heu, cunctae, quas misit in aequora, gentes.""","['CF', 'DI', 'CM', 'CM', 'DI', 'CF', 'DI', 'DI', None]",0,['Aeson']
+0.9428571428571428,816,adstitit et nigro fumantia pocula tabo,816,Astitit et nigro fumantia pocula tabo,"['DI', 'CM', 'CM', 'DI', 'DI', None]",0,['Aeson']
+0.9230769230769231,817,contigit ipsa gravi Furiarum maxima dextra;,817,Contigit ipsa graui Furiarum maxima dextra;,"['DI', 'CF', 'CM', 'DI', 'DI', None]",0,['Aeson']
+0.925,818,illi avide exceptum pateris hausere cruorem.,818,Illi auide exceptum pateris hausere cruorem.,"['SY', 'SY', 'CM', 'CM', 'CF', None]",2,['Aeson']
+0.8636363636363636,819,Fit fragor; inrumpunt foribus qui saeva ferebant,819,Fit fragor; irrumpunt foribus qui saeua ferebant,"['CM', 'DI', 'CM', 'CM', 'DI', 'CF', None]",0,['Aeson']
+1.0,820,imperia et strictos iussis regalibus enses.,820,Imperia et strictos iussis regalibus enses.,"['SY', 'CM', 'CM', 'CM', 'DI', None]",1,['Aeson']
+1.0,821,in media iam morte senes suffectaque leto,821,In media iam morte senes suffectaque leto,"['CM', 'CM', 'DI', 'CF', 'CM', 'DI', None]",0,['Aeson']
+0.8461538461538461,822,lumina et undanti revomentes veste cruorem,822,Lumina et undanti reuomentes ueste cruorem,"['SY', 'DI', 'CM', 'DI', 'CF', None]",1,['Aeson']
+1.0,823,conspiciunt; primoque rudem sub limine rerum,823,Conspiciunt; primoque rudem sub limine rerum,"['CM', 'CF', 'CM', 'DI', 'DI', None]",0,
+0.918918918918919,824,"te, puer, et visa pallentem morte parentum",824,"Te, puer, et uisa pallentem morte parentum","['CM', 'DI', 'CM', 'CM', 'DI', 'CF', None]",0,
+1.0,825,diripiunt adduntque tuis. procul horruit Aeson,825,Diripiunt adduntque tuis. procul horruit Aeson,"['CM', 'CF', 'CM', 'DI', 'DI', None]",0,
+1.0,826,excedens memoremque tulit sub nubibus umbram.,826,Excedens memoremque tulit sub nubibus umbram.,"['CM', 'CF', 'CM', 'DI', 'DI', None]",0,
+0.9523809523809523,827,Cardine sub nostro rebusque abscissa supernis,827,Cardine sub nostro rebusque abscisa supernis,"['DI', 'CM', 'CM', 'SY', 'CF', None]",1,
+1.0,828,"Tartarei sedet aula patris, non illa ruenti",828,"Tartarei sedet aula patris, non illa ruenti","['CM', 'DI', 'CF', 'CM', 'DI', 'CF', None]",0,
+0.7428571428571429,829,"accessura polo, victam si volvere molem",829,"Accessura polo, uictam si uoluere molem","['CF', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.9,830,"ingenti †iacet ore Chaos, quod pondere fessam",830,"Ingenti iuuet ore Chaos, quod pondere fessam","['CM', 'DI', 'CF', 'CM', 'DI', 'DI', None]",0,
+1.0,831,materiem lapsumque queat consumere mundum.,831,Materiem lapsumque queat consumere mundum.,"['CM', 'CF', 'CM', 'DI', None]",0,
+1.0,832,"hic geminae aeternum portae, quarum altera dura",832,"Hic geminae aeternum portae, quarum altera dura","['CM', 'SY', 'CM', 'CM', 'SY', 'DI', None]",2,
+1.0,833,semper lege patens populos regesque receptat;,833,"Semper lege patens populos regesque receptat,","['DI', 'CF', 'CM', 'CM', 'CF', None]",0,
+1.0,834,ast aliam temptare nefas et tendere contra:,834,Ast aliam temptare nefas et tendere contra;,"['CM', 'CM', 'CF', 'CM', 'DI', 'DI', None]",0,
+1.0,835,"rara et sponte patet, siquando pectore ductor",835,"Rara et sponte patet, siquando pectore ductor","['SY', 'DI', 'CF', 'CM', 'DI', 'DI', None]",1,
+1.0,836,"vulnera nota gerens, galeis praefixa rotisque",836,"Vulnera nota gerens, galeis praefixa rotisque","['DI', 'CF', 'CM', 'CM', 'CF', None]",0,
+1.0,837,"cui domus aut studium mortales pellere curas,",837,"Cui domus, aut studium mortales pellere curas,","['CM', 'DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,838,"culta fides, longe metus atque ignota cupido,",838,"Culta fides, longe metus atque ignota cupido,","['CF', 'CM', 'CM', 'DI', 'SY', 'CF', None]",1,
+0.7906976744186046,839,seu venit in vittis castaque in veste sacerdos.,839,Seu uenit in uittis castaque in ueste sacerdos,"['CM', 'DI', 'CM', 'CM', 'SY', 'DI', 'CF', None]",1,
+0.8604651162790697,840,quos omnes lenis plantis et lampada quassans,840,Quos omnes leuibus plantis et lampada quassans,"['CM', 'CM', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.9142857142857143,841,progenies Atlantis agit. lucet via late,841,Progenies Atlantis agit. lucet uia late,"['CM', 'CF', 'CM', 'CM', 'DI', None]",0,
+0.8285714285714286,842,"igne dei, donee silvas et amoena piorum",842,"Igne dei, donec siluas et amoena piorum","['CF', 'CM', 'CM', 'CM', 'CF', 'CF', None]",0,
+0.9302325581395349,843,"deveniant camposque, ubi sol totumque per annum",843,"Deueniant camposque, ubi sol totumque per annum","['CM', 'SY', 'DI', 'CM', 'CF', 'DI', None]",1,
+0.926829268292683,844,durat aprica dies thiasique chorique virorum,844,Durat aprica dies thiasique chorique uirorum,"['CF', 'CF', 'CM', 'CF', 'CF', None]",0,
+1.0,845,carminaque et quorum populis iam nulla cupido.,845,Carminaque et quorum populis iam nulla cupido.,"['SY', 'CM', 'CM', 'CM', 'DI', 'CF', None]",1,
+1.0,846,has pater in sedes aeternaque moenia natum,846,Has pater in sedes aeternaque moenia natum,"['CM', 'DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,847,inducitque nurum. tum porta quanta sinistra,847,Inducitque nurum. tum porta quanta sinistra,"['CF', 'CM', 'DI', 'DI', 'CF', None]",0,
+0.9285714285714286,848,"poena docet maneat Pelian, quo limine monstrat.",848,"Poena docet maneat Pelian, quot limine monstra.","['CF', 'CM', 'CM', 'CM', 'DI', 'DI', None]",0,
+1.0,849,mirantur tantos strepitus turbamque ruentem,849,Mirantur tantos strepitus turbamque ruentem,"['CM', 'CM', 'CM', 'CF', None]",0,
+0.9230769230769231,850,et loca et infernos almae virtutis honores.,850,Et loca et infernos almae uirtutis honores.,"['CM', 'SY', 'DI', 'CM', 'CM', 'CF', None]",1,
+0.8536585365853658,303,Chaoniique vides famulam Iovis. aequora tecum,308,Chaoniique uides famulam Iouis. aequora tecum,"['CF', 'CM', 'CM', 'DI', 'DI', None]",0,['Argo']
+0.8611111111111112,304,"ingredior, nec fatidicis avellere silvis",303,"Ingredior, nec fatidicis auellere siluis","['CM', 'DI', 'CM', 'DI', None]",0,['Argo']
+1.0,305,me nisi promisso potuit Saturnia caelo.,304,Me nisi promisso potuit Saturnia caelo.,"['CM', 'DI', 'CM', 'CM', 'DI', None]",0,['Argo']
+1.0,306,tempus adest; age rumpe moras; dumque aequore toto,305,"Tempus adest; age rumpe moras, dumque aequore toto","['CF', 'CM', 'DI', 'CF', 'CM', 'SY', 'DI', None]",1,['Argo']
+1.0,307,"currimus, incertus si nubila duxerit aether,",306,"Currimus incertus si nubila duxerit aether,","['DI', 'CM', 'DI', 'DI', 'DI', None]",0,['Argo']
+1.0,308,iam nunc mitte metus fidens superisque mihique.',307,"Iam nunc mitte metus fidens superisque mihique.""","['CM', 'DI', 'CF', 'CM', 'CM', 'CF', None]",0,

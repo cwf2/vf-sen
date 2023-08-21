@@ -1,0 +1,665 @@
+cts_ln,speaker,perseus,comp,anceps_n,anceps,elision
+['1'],['#oedipus antigona'],Caeci parentis regimen et fessi unicum,1.0,0, c[ae]ci_ pa^re_nti*s re^gi^me^n e_t fe*ss(i) u_ni^cu*m,1
+['2'],['#oedipus antigona'],"lateris levamen, gnata, quam tanti est mihi",0.7368421052631579,1, pa*tri_s le^va_me*n na_ta^ qva_m ta*nt(i) e_st mi^hi*,1
+['3'],['#oedipus antigona'],"genuisse vel sic, desere infaustum patrem,",1.0,2, ge^nu^i_sse^ ve_l si*c de_se^r(e) i_nf[au]stu_m pa^tre*m,1
+['4'],['#oedipus antigona'],in recta quid deflectis errantem gradum?,0.9166666666666666,3, i*n re_cta^ qvi_d de*fle_cti^s e_rra*nte_m gra^du*m,0
+['5'],['#oedipus antigona'],"permitte labi; melius inveniam viam,",1.0,4, pe*rmi_tte^ la_bi* me^li^u^s i_nve^ni^a_m vi^a*m,0
+['6'],['#oedipus antigona'],"quam quaero solus, quae me ab hac vita extrahat",0.813953488372093,5, qva*m qv[ae]ro^ so_lu*s qv[ae] m(e) a^b ha_c vi*t(a) e_xtra^ha*t,2
+['7'],['#oedipus antigona'],et hoc nefandi capitis aspectu levet,1.0,6, e*t ho_c ne^fa_ndi* ca^pi^ti^s a_spe*ctu_ le^ve*t,0
+['8'],['#oedipus antigona'],"caelum atque terras, quantulum hac egi manu?",0.8461538461538461,7, c[ae]l(u)m a_tqve^ te_rra*s qva_ntu^l(u)m ha_c e*gi_ ma^nu*,2
+['9'],['#oedipus antigona'],"non video noxae conscium nostrae diem,",0.9117647058823529,8,no*n ui^de^o^ no_x[ae] co_nsci^u_m no*str[ae] di^e*m,0
+['10'],['#oedipus antigona'],"sed videor, hinc iam solve inhaerentem manum",0.925,9, se*d vi^de^o^r hi_nc ja*m so_lv(e) i^nh[ae]re*nte_m ma^nu*m,1
+['11'],['#oedipus antigona'],"et patere caecum qua volet ferri pedem,",0.9142857142857143,10, e*t pa^te^re^ c[ae]cu*m qva_ vo^le_t fe*rri_ pe^de*m,0
+['12'],['#oedipus antigona'],"ibo, ibo qua praerupta protendit iuga",0.8181818181818182,11, i*b(o) i_bo^ qva_ pr[ae]ru_pta^ pro_te*ndi_t ju^ga*,1
+['13'],['#oedipus antigona'],"meus Cithaeron, qua peragrato celer",1.0,12,me*u_s ci^th[ae]ro*n qua_ pe^ra_gra*to_ ce^le*r,0
+['14'],['#oedipus antigona'],per saxa monte iacuit Actaeon suis,0.9032258064516129,13, pe*r sa_xa^ mo_nte* ja^cu^i^t a_ct[ae]o_n su^i*s,0
+['15'],['#oedipus antigona'],"nova praeda canibus, qua per obscurum nemus",0.9230769230769231,14, no^va^ pr[ae]da^ ca^ni^bu*s qva_ pe^r o_bscu*ru_m ne^mu*s,0
+['16'],['#oedipus antigona'],silvamque opacae vallis instinctas deo,0.9142857142857143,15, si*lva_mqv(e) o^pa_c[ae] va_lli^s i_nsti*ncta_s de^o*,1
+['17'],['#oedipus antigona'],egit sorores mater et gaudens malo,1.0,16, e*gi_t so^ro_re*s ma_te^r e_t g[au]de_ns ma^lo*,0
+['18'],['#oedipus antigona'],vibrante fixum praetulit thyrso caput;,1.0,17, vi*bra_nte^ fi_xu*m pr[ae]tu^li_t thy*rso_ ca^pu*t,0
+['19'],['#oedipus antigona'],"vel qua cucurrit, corpus inrisum trahens,",0.8333333333333334,18, ve*l qva_ cu^cu_rri*t co_rpu^s i_nvi*su_m tra^he*ns,0
+['20'],['#oedipus antigona'],"Zethi iuvencus, qua per horrentes rubos",0.8285714285714286,19, ze*thi_ ju^ve_ncu*s qva_ pe^r ho_rre*nte_s ru^bo*s,0
+['21'],['#oedipus antigona'],tauri ferocis sanguis ostentat fugas;,0.9090909090909091,20, t[au]ri_ fe^ro_ci*s sa_ngvi^s o_ste*nta_t fu^ga*s,0
+['22'],['#oedipus antigona'],vel qua alta maria vertice inmenso premit,0.9210526315789473,21, ve*l qv(a) a_lta^ ma^ri^a* ve_rti^c(e) i_nme*nso_ pre^mi*t,2
+['23'],['#oedipus antigona'],"Inoa rupes, qua scelus fugiens novum",0.90625,22, i*no_a^ ru_pe*s qva_ sce^lu_s fu^gi^e_ns no^vu*m,0
+['24'],['#oedipus antigona'],novumque faciens mater insiluit freto,0.9117647058823529,23, no*vu_mqve^ fa^ci^e*ns ma_te^r i_nsi^lu^i_t fre^to*,0
+['25'],['#oedipus antigona'],mersura natum seque— felices quibus,1.0,24,me*rsu_ra^ na_tu*m se_que^ fe_li*ce_s qui^bu*s,0
+['26'],['#oedipus antigona'],fortuna melior tam bonas matres dedit.,1.0,25, fo*rtu_na^ me^li^o*r ta_m bo^na_s ma*tre_s de^di*t,0
+['27'],['#oedipus antigona'],"est alius istis noster in silvis locus,",1.0,26, e*st a^li^u^s i_sti*s no_ste^r i_n si*lvi_s lo^cu*s,0
+['28'],['#oedipus antigona'],"qui me reposcit, hunc petam cursu incito;",0.9444444444444444,27, qvi* me_ re^po_sci*t hu_nc pe^ta_m cu*rs(u) i_nci^to*,1
+['29'],['#oedipus antigona'],"non haesitabit gressus, huc omni duce",1.0,28, no*n h[ae]si^ta_bi*t gre_ssu^s hu_c o*mni_ du^ce*,0
+['30'],['#oedipus antigona'],spoliatus ibo. quid moror sedes meas?,0.90625,29, spo^li^a_tu^s i_bo* qvi_d mo^ro_r se*de_s me^a*s,0
+['31'],['#oedipus antigona'],"mortem, Cithaeron, redde et hospitium mihi",1.0,30, mo*rte_m ci^th[ae]ro*n re_dd(e) e^t ho_spi^ti^u_m mi^hi*,1
+['32'],['#oedipus antigona'],"illud meum restitue, ut expirem senex",1.0,31, i*llu_d me^u_m re*sti^tu^(e) u^t e_xpi*re_m se^ne*x,1
+['33'],['#oedipus antigona'],"ubi debui infans, recipe supplicium vetus.",0.8918918918918919,32,v^bi^ de_bu^(i) i_nfa*ns re^ci^pe^ su_ppli^ci^u_m ue^tu*s,1
+['34'],['#oedipus antigona'],"semper cruente saeve crudelis ferox,",1.0,33, se*mpe_r cru^e_nte* s[ae]ve^ cru_de*li_s fe^ro*x,0
+['35'],['#oedipus antigona'],"cum occidis et cum parcis, olim iam tuum",1.0,34,c(u)m o*cci_di^s e_t cu*m pa_rci^s o_li*m ia_m tu^u*m,1
+['36'],['#oedipus antigona'],"est hoc cadaver: perage mandatum patris,",1.0,35, e*st ho_c ca^da_ve*r pe^ra^ge^ ma_nda*tu_m pa^tri*s,0
+['37'],['#oedipus antigona'],"iam et matris, animus gestit antiqua exsequi",0.875,36, j(a)m e*t ma_tri^s a^ni^mu*s ge_sti^t a_nti*qv(a) e_xse^qvi*,2
+['38'],['#oedipus antigona'],"supplicia, quid me, nata, pestifero tenes",0.9142857142857143,37, su*ppli^ci^a^ qvi_d me* na_ta^ pe_sti^fe^ro_ te^ne*s,0
+['39'],['#oedipus antigona'],amore vinctum? quid tenes? genitor vocat.,0.9142857142857143,38, a*mo_re^ vi_nctu*m qvi_d te^ne_s ge^ni^to_r vo^ca*t,0
+['40'],['#oedipus antigona'],"sequor, sequor, iam parce, sanguineum gerens",0.6842105263157895,39, se*qvo_r se^qvo_r ja*m pa_rce^ sa_ngvi^ne^u_m ge^re*ns,0
+['41'],['#oedipus antigona'],insigne regni Laius rapti furit;,1.0,40, i*nsi_gne^ re_gni* la_i^u_s ra*pti_ fu^ri*t,0
+['42'],['#oedipus antigona'],"en ecce, inanes manibus infestis petit",1.0,41, e*n e_cc(e) i^na_ne*s ma^ni^bu^s i_nfe*sti_s pe^ti*t,1
+['43'],['#oedipus antigona'],"foditque vultus, nata, genitorem vides?",0.9090909090909091,42, fo*di_tqve^ vu_ltu*s na_ta^ ge^ni^to*re_m vi^de*s,0
+['44'],['#oedipus antigona'],"ego video, tandem spiritum inimicum expue,",0.918918918918919,43,e^go^ ui^de^o^ ta_nde*m spi_ri^t(u)m i^ni^mi*c(u)m e_xpu^e*,2
+['45'],['#oedipus antigona'],"desertor anime, fortis in partem tui.",1.0,44, de*se_rto^r a^ni^me* fo_rti^s i_n pa*rte_m tu^i*,0
+['46'],['#oedipus antigona'],omitte poenae languidas longae moras,0.8787878787878788,45, o*mi_tte^ p[oe]na*s la_ngvi^da_s lo*ng[ae] mo^r[ae],0
+['47'],['#oedipus antigona'],mortemque totam admitte; quid segnis traho,0.631578947368421,46, mo*rte_mqve^ to_ta*m re^ci^pe^ qvi_d se*gni_s tra^ho*,0
+['48'],['#oedipus antigona'],quod vivo? nullum facere iam possum scelus?,0.868421052631579,47,quo*d ui_uo^ nu_llu*m fa^ce^re^ ia_m po*ssu_m sce^lu*s,0
+['49'],['#oedipus antigona'],"possum miser, praedico— discedo a patre,",0.9117647058823529,48,po*ssu_m mi^se_r pr[ae]di_co^ di_sce*d(e) a_ pa^tre*,1
+['50'],['#oedipus antigona'],"discedo, virgo. timeo post matrem omnia.",0.8529411764705882,49,di*sce_de^ ui_rgo* ti^me^o^ po_st ma*tr(e)m o_mni^a*,1
+['51'],['#antigona'],"Vis nulla, genitor, a tuo nostram manum",1.0,50, vi*s nu_lla^ ge^ni^to*r a_ tu^o_ no*stra_m ma^nu*m,0
+['52'],['#antigona'],"corpore resolvet, nemo me comitem tibi",1.0,51, co*rpo^re^ re^so_lve*t ne_mo^ me_ co^mi^te_m ti^bi*,0
+['53'],['#antigona'],"eripiet umquam. Labdaci claram domum,",0.90625,52, e*ri^pi^e^t u_mqva*m la_bda^ci_ cla*ra_m do^mu*m,0
+['54'],['#antigona'],opulenta ferro regna germani petant—,1.0,53, o^pu^le_nta^ fe_rro* re_gna^ ge_rma*ni_ pe^ta*nt,0
+['55'],['#antigona'],"pars summa magno patris e regno mea est,",1.0,54, pa*rs su_mma^ ma_gno* pa_tri^s e_ re*gno_ me^(a) e*st,1
+['56'],['#antigona'],pater ipse. non hunc auferet frater mihi,1.0,55, pa^te^r i_pse^ no_n hu*nc [au]fe^re_t fra*te_r mi^hi*,0
+['57'],['#antigona'],"Thebana rapto sceptra qui regno tenet,",0.9117647058823529,56, the*ba_na^ ra_pto* sce_ptra^ qvi_ re*gno_ te^ne*t,0
+['58'],['#antigona'],non hunc catervas alter Argolicas agens;,1.0,57, no*n hu_nc ca^te_rva*s a_lte^r a_rgo^li^ca_s a^ge*ns,0
+['59'],['#antigona'],non si revulso Iuppiter mundo tonet,0.90625,58, no*n si_ re^vu_lso* ju_ppi^te_r mu*ndo_ to^ne*t,0
+['60'],['#antigona'],"mediumque nostros fulmen in nexus cadat,",0.9166666666666666,59, me^di^u_mqve^ no_stro*s fu_lme^n i_n ne*xu_s ca^da*t,0
+['61'],['#antigona'],"manum hanc remittam. prohibeas, genitor, licet:",1.0,60, ma*n(u)m ha_nc re^mi_tta*m pro^hi^be^a_s ge^ni^to_r li^ce*t,1
+['62'],['#antigona'],"regam abnuentem, dirigam inviti gradum.",0.9117647058823529,61, re*g(a)m a_bnu^e_nte*m de_ri^g(a)m i_nvi*ti_ gra^du*m,2
+['63'],['#antigona'],iu plana tendis? vado; praerupta appetis?,0.8571428571428571,62,i*n pla_na^ te_ndi*s ua_do^ pr[ae]ru*pt(a) a_ppe^ti*s,1
+['64'],['#antigona'],"non obsto, sed praecedo; quo vis utere",0.9090909090909091,63,no*n o_bsto^ se_d pr[ae]ce_do^ quo_ ui*s u_te^re*,0
+['65'],['#antigona'],"duce me, duobus omnis eligitur via:",1.0,64, du^ce^ me_ du^o_bu*s o_mni^s e_li^gi^tu_r vi^a*,0
+['66'],['#antigona'],"perire sine me non potes, mecum potes.",1.0,65, pe*ri_re^ si^ne^ me* no_n po^te_s me*cu_m po^te*s,0
+['67'],['#antigona'],hic alta rupes arduo surgit iugo,0.896551724137931,66, hi*c a_lta^ ru_pe*s a_rdu^o_ su*rgi_t ju^go*,0
+['68'],['#antigona'],spectatque longe spatia subiecti maris:,0.8285714285714286,67, spe*cta_tqve^ lo_nge* spa^ti^a^ su_bje*cti_ ma^ri*s,0
+['69'],['#antigona'],"vis hanc petamus? nudus hic pendet silex,",1.0,68, vi*s ha_nc pe^ta_mu*s nu_du^s hi_c pe*nde_t si^le*x,0
+['70'],['#antigona'],hic scissa tellus faucibus ruptis hiat:,1.0,69, hi*c sci_ssa^ te_llu*s f[au]ci^bu_s ru*pti_s hi^a*t,0
+['71'],['#antigona'],vis hanc petamus? hic rapax torrens cadit,1.0,70, vi*s ha_nc pe^ta_mu*s hi_c ra^pa_x to*rre_ns ca^di*t,0
+['72'],['#antigona'],partesque lapsi montis exesas rotat:,0.90625,71, pa*rte_sqve^ la_psi* mo_nti^s e_xe*sa_s ro^ta*t,0
+['73'],['#antigona'],"in hunc ruamus? dum prior, quo vis eo.",0.90625,72, i*n hu_nc ru^a_mu*s du_m pri^o_r qvo* vi_s e^o*,0
+['74'],['#antigona'],"non deprecor, non hortor, extingui cupis",0.9142857142857143,73, no*n de_pre^co_r no*n ho_rto^r e_xti*ngvi_ cu^pi*s,0
+['75'],['#antigona'],"votumque, genitor, maximum mors est tibi?",0.9142857142857143,74, vo*tu_mqve^ ge^ni^to*r ma_xi^mu_m mo*rs e_st ti^bi*,0
+['76'],['#antigona'],"si moreris, antecedo: si vivis, sequor.",0.84375,75,si* mo^re^ri^s a_nte*ce_do^ si_ ui*ui_s se^quo*r,0
+['77'],['#antigona'],sed flecte mentem pectus antiquum ad voca,0.8421052631578947,76, se*d fle_cte^ me_nte*m pe_ctu^s a_nti*qv(u)m a_dvo^ca*,1
+['78'],['#antigona'],victasque magno robore aerumnas doma;,0.9090909090909091,77, vi*cta_sqve^ ma_gno* ro_bo^r(e) [ae]ru*mna_s do^ma*,1
+['79'],['#antigona'],resiste: tantus in malis vinci mori est.,0.9142857142857143,78, re*si_ste^ ta_nti*s i_n ma^li_s vi*nci_ mo^r(i) e*st,1
+['80'],['#oedipus'],Vnde in nefanda specimen egregium domo?,0.9714285714285714,79, u*nd(e) i_n ne^fa_nda* spe^ci^me^n e_gre^gi^u_m do^mo*,1
+['81'],['#oedipus'],Unde ista generi virgo dissimilis suo?,1.0,80, u*nd(e) i_sta^ ge^ne^ri* vi_rgo^ di_ssi^mi^li_s su^o*,1
+['82'],['#oedipus'],"Fortuna, credis? aliquis est ex me pius?",0.8235294117647058,81, fo*rtu_na^ ce_di*s a^li^qvi^s e_st e*x me_ pi^u*s,0
+['83'],['#oedipus'],"non esset umquam, fata bene novi mea,",0.90625,82, no*n e_sse^t u_mqva*m fa_ta^ be^ne^ no*vi_ me^a*,0
+['84'],['#oedipus'],"nisi ut noceret, ipsa se in leges novas",1.0,83, ni*s(i) u_t no^ce_re*t i_psa^ s(e) i_n le*ge_s no^va*s,2
+['85'],['#oedipus'],natura vertit: regeret in fontem citas,0.9117647058823529,84,na*tu_ra^ ve_rte*t re^ge^re^t i_n fo*nte_m ci^ta*s,0
+['86'],['#oedipus'],revolutus undas amnis et noctem afferet,1.0,85, re^vo^lu_tu^s u_nda*s a_mni^s e_t no*ct(e)m a_ffe^re*t,1
+['87'],['#oedipus'],"Phoebea lampas, Hesperus faciet diem;",1.0,86, ph[oe]be_a^ la_mpa*s he_spe^ru_s fa^ci^e_t di^e*m,0
+['88'],['#oedipus'],"ut ad miserias aliquid accedat meas,",0.90625,87,u*t a_d mi^se^ri^a*s a^li^qvi^d a_cce*da_t me^a*s,0
+['89'],['#oedipus'],"pii quoque erimus, unica Oedipodae est salus,",1.0,88,pi*i_ quo^qu(e) e^ri^mu*s u_ni^c(a) [oe]di^po^d(ae) e_st sa^lu*s,3
+['90'],['#oedipus'],"non esse salvum, liceat ulcisci patrem",1.0,89, no*n e_sse^ sa_lvu*m li^ce^a^t u_lci*sci_ pa^tre*m,0
+['91'],['#oedipus'],"adhuc inultum, dextra quid cessas iners",0.9142857142857143,90, a*dhu_c i^nu_ltu*m de_xtra^ qvi_d ce*ssa_s i^ne*rs,0
+['92'],['#oedipus'],"exigere poenas? quicquid exactum est adhuc,",0.8157894736842105,91, e*xi^ge^re^ p[oe]na*s qvi_dqvi^d e_xa*ct(u)m e_st a^dhu*c,1
+['93'],['#oedipus'],"matri dedisti, mitte genitoris manum,",1.0,92, ma*tri_ de^di_sti* mi_tte^ ge^ni^to*ri_s ma^nu*m,0
+['94'],['#oedipus'],animosa virgo:'funus extendi» meum,0.9310344827586207,93, a^ni^mo_sa^ vi_rgo* fu_nu^s e_xte*ndi_s me^u*m,0
+['95'],['#oedipus'],longaeque vivi ducis exequias patris.,0.7575757575757576,94, lo*nga_sqve^ vi_vi* du_ci^s e_xe^qvi^a_s pa^tri*s,0
+['96'],['#oedipus'],aliquando terra corpus invisum tege;,0.90625,95,a^li^qua_ndo^ te_rra* co_rpu^s i_nui*su_m te^ge*,0
+['97'],['#oedipus'],"peccas honesta mente, pietatem vocas",1.0,96, pe*cca_s ho^ne_sta* me_nte^ pi^e^ta*te_m vo^ca*s,0
+['98'],['#oedipus'],"patrem insepultum trahere, qui cogit mori",0.918918918918919,97, pa*tr(e)m i_nse^pu_ltu*m tra^he^re^ qvi_ co*gi_t mo^ri*,1
+['99'],['#oedipus'],nolentem in aequo est quique properantem impedit;,0.8,98, no*le_nt(e)m i^n [ae]qv(o) e*st qvi_qve^ pro^pe^ra*nt(e)m i_mpe^di*t,3
+['101'],['#oedipus'],nec tamen in aequo est: alterum gravius reor:,0.925,100, ne*c ta^me^n i^n [ae]qv(o) e*st a_lte^ru_m gra^vi^u_s re^o*r,1
+['100'],['#oedipus'],occidere est vetare cupientem mori,0.0,,,0
+['102'],['#oedipus'],malo imperari quam eripi mortem mihi.,0.9090909090909091,101, ma*l(o) i_mpe^ra_ri* qv(a)m e_ri^pi_ mo*rte_m mi^hi*,2
+['103'],['#oedipus'],"desiste coepto, virgo: ius vitae ac necis",0.9166666666666666,102, de*si_ste^ c[oe]pto* vi_rgo^ ju_s vi*t(ae) a_c ne^ci*s,1
+['104'],['#oedipus'],"meae penes me est. regna deserui libens,",1.0,103,me*[ae] pe^ne_s m(e) e*st re_gna^ de_se^ru^i_ li^be*ns,1
+['105'],['#oedipus'],"regnum mei retineo. si fida es comes,",1.0,104,re*gnu_m me^i_ re*ti^ne^o^ si_ fi*d(a) e_s co^me*s,1
+['106'],['#oedipus'],"ensem parenti trade, sed notum nece",1.0,105, e*nse_m pa^re_nti* tra_de^ se_d no*tu_m ne^ce*,0
+['107'],['#oedipus'],"ensem paterna, tradis? an gnati tenent",1.0,106, e*nse_m pa^te_rna* tra_di^s a_n gna*ti_ te^ne*nt,0
+['108'],['#oedipus'],"cum regno et illum? facinore ubicumque est opus,",0.7906976744186046,107, cu*m re_gn(o) e^t i_llu*m fa^ci^e^t u^bi^cu*mqv(e) e_st o^pu*s,2
+['109'],['#oedipus'],"ibi sit; relinquo, natus hunc habeat meus,",0.9166666666666666,108,i^bi^ si_t re^li_nqvo* na_tu^s hu_nc ha^be^a_t me^u*s,0
+['110'],['#oedipus'],"sed uterque, flammas potius et vastum aggerem",0.926829268292683,109, se^d u^te_rqve^ fla_mma*s po^ti^u^s e_t va*st(u)m a_gge^re*m,1
+['111'],['#oedipus'],"compone; in altos ipse me immittam rogos,",1.0,110, co*mpo_n(e) i^n a_lto*s i_pse^ m(e) i_mmi*tta_m ro^go*s,2
+['112'],['#oedipus'],"haerebo ad ignes, funebrem escendam struem",1.0,111, h[ae]re_b(o) a^d i_gne*s fu_ne^br(e)m e_sce*nda_m stru^e*m,2
+['113'],['#oedipus'],pectusque solvam durum et in cinerem dabo,0.9210526315789473,112, pe*ctu_sqve^ so_lva*m du_r(u)m e^t i_n ci^ne^re_m da^bo*,1
+['114'],['#oedipus'],"hoc quicquid in me vivit, ubi saevum est mare?",0.8292682926829268,113, ho*c qvi_dqvi^d i_n me* vi_vi^t u^bi^ s[ae]v(u)m e_st ma^re*,1
+['115'],['#oedipus'],"duc ubi sit altis prorutum saxis iugum,",0.9142857142857143,114, du*c u^bi^ si^t a_lti*s pro_ru^tu_m sa*xi_s ju^gu*m,0
+['116'],['#oedipus'],"ubi torva rapidus ducat Ismenos vada,",1.0,115, u^bi^ to_rva^ ra^pi^du*s du_ca^t i_sme*no_s va^da*,0
+['117'],['#oedipus'],"duc ubi ferae sunt, ubi fretum, ubi praeceps locus",1.0,116, du*c u^bi^ fe^r[ae] su*nt u^bi^ fre^t(u)m u^bi^ pr[ae]ce_ps lo^cu*s,1
+['118'],['#oedipus'],"si dux es: illuc ire morituro placet,",1.0,117, si* du_x e^s i_llu*c i_re^ mo^ri^tu*ro_ pla^ce*t,0
+['119'],['#oedipus'],ubi sedit alta rupe semifero dolos,1.0,118, u^bi^ se_di^t a_lta* ru_pe^ se_mi^fe^ro_ do^lo*s,0
+['120'],['#oedipus'],"Sphinx ore nectens. dirige huc gressus pedum,",0.925,119, sphi*nx o_re^ ne_cte*ns de_ri^g(e) hu_c gre*ssu_s pe^du*m,1
+['121'],['#oedipus'],"hic siste patrem, dira ne sedes vacet,",1.0,120, hi*c si_ste^ pa_tre*m di_ra^ ne_ se*de_s va^ce*t,0
+['122'],['#oedipus'],"monstrum repone maius, hoc saxum insidens",0.918918918918919,121, mo*nstru_m re^po_ne* ma_ju^s ho_c sa*x(u)m i_nsi^de*ns,1
+['123'],['#oedipus'],"obscura nostrae verba fortunae loquar,",0.9411764705882353,122, o*bscu_ra^ no_str[ae] ve_rba^ fo_rtu*n[ae] lo^qva*r,0
+['124'],['#oedipus'],quae nemo solvat: quisquis Assyrio loca,0.7714285714285715,123, qv[ae] ne_mo^ so_lva*t qvi_sqvi^s a_ssy^ri^o_ lo^ca*,0
+['125'],['#oedipus'],possessa regi scindis et Cadmi nemus,1.0,124, po*sse_ssa^ re_gi* sci_ndi^s e_t ca*dmi_ ne^mu*s,0
+['126'],['#oedipus'],"serpente notum, sacra quo Dirce latet,",0.9090909090909091,125, se*rpe_nte^ no_tu*m sa_cra^ qvo_ di*rce_ la^te*t,0
+['127'],['#oedipus'],"supplex adoras, quisquis Eurotan bibis",0.8235294117647058,126,su*pple_x a^do_ra*s qvi_sqvi^s [eu]ro*ta_n bi^bi*s,0
+['128'],['#oedipus'],"Spartamque fratre nobilem gemino colis,",0.8285714285714286,127, spa*rte_nqve^ fra_tre* no_bi^le_m ge^mi^no_ co^li*s,0
+['129'],['#oedipus'],quique Elin et Parnason et Boeotios,0.84375,128, qvi*qv(e) e_li^n e_t pa*rna_so^n e_t b[oe]o_ti^o*s,1
+['130'],['#oedipus'],"colonus agros uberis tondes soli: ,",1.0,129, co*lo_nu^s a_gro*s u_be^ri_s to*nde_s so^li*,0
+['131'],['#oedipus'],"adverte mentem, saeva Thebarum lues",1.0,130, a*dve_rte^ me_nte*m s[ae]va^ the_ba*ru_m lu^e*s,0
+['132'],['#oedipus'],luctifica caecis verba committens modis,1.0,131, lu*cti^fi^ca^ c[ae]ci*s ve_rba^ co_mmi*tte_ns mo^di*s,0
+['133'],['#oedipus'],quid simile posuit? quid tam inextricabile?,0.868421052631579,132, qvi*d si^mi^le^ po^su^i*t qvi_d t(a)m i^ne_xtri*ca_bi^le*,1
+['134'],['#oedipus'],"avi gener patrisque rivalis sui,",0.8928571428571429,133, a*vi_ ge^ne_r pa*tri_sqve^ ri_va*li_s su^i*,0
+['135'],['#oedipus'],frater suorum liberum et fratrum parens;,1.0,134, fra*te_r su^o_ru*m li_be^r(u)m e_t fra*tru_m pa^re*ns,1
+['136'],['#oedipus'],"uno avia partu liberos peperit viro,",0.78125,135,v*n(o) a^ui^a^ pa_rtu* li_be^ro_s pe^pe^ri_t ui^ro*,1
+['137'],['#oedipus'],"sibi et nepotes, monstra quis tanta explicat?",0.9,136, si*b(i) e_t ne^po_te*s mo_nstra^ qvi_s ta*nt(a) e_xpli^ce*t,2
+['138'],['#oedipus'],"ego ipse, victae spolia qui Sphingis tuli,",0.918918918918919,137, e*g(o) i_pse^ vi_ct[ae] spo^li^a^ qvi_ sphi*ngi_s tu^li*,1
+['139'],['#oedipus'],haerebo fati tardus interpres mei.,1.0,138,h[ae]re_bo^ fa_ti* ta_rdu^s i_nte*rpre_s me^i*,0
+['140'],['#oedipus'],quid perdis ultra verba? quid pectus ferum,0.868421052631579,139, qvi*d pe_rdi^s u_ltra* ve_rba^ qvi_d pe*ctu_s fe^ru*m,0
+['141'],['#oedipus'],mollire temptas precibus? hoc animo sedet,1.0,140, mo*lli_re^ te_mpta*s pre^ci^bu^s ho_c a^ni^mo_ se^de*t,0
+['142'],['#oedipus'],effundere hanc cum morte luctantem diu,1.0,141, e*ffu_nde^r(e) ha_nc cu*m mo_rte^ lu_cta*nte_m di^u*,1
+['143'],['#oedipus'],animam et tenebras petere: nam sceleri haec meo,1.0,142,a^ni^m(a)m e_t te^ne_bra*s pe^te^re^ na_m sce^le^r(i) h[ae]c me^o*,2
+['144'],['#oedipus'],"parum alta nox est: Tartaro condi iuvat,",0.9142857142857143,143, pa*r(u)m a_lta^ no_x e*st ta_rta^ro_ co*ndi_ ju^va*t,1
+['145'],['#oedipus'],et si quid ultra Tartarum est; tandem libet,0.9230769230769231,144, e*t si_ qvi^d u_ltra* ta_rta^r(u)m e_st ta*nde_m li^be*t,1
+['146'],['#oedipus'],"quod olim oportet, morte prohiberi haud queo.",0.9,145, qvo*d o_l(i)m o^po_rte*t mo_rte^ pro^hi^be*r(i) h[au]d qve^o*,2
+['147'],['#oedipus'],ferrum negabis? noxias lapsu vias,1.0,146, fe*rru_m ne^ga_bi*s no_xi^a_s la*psu_ vi^a*s,0
+['148'],['#oedipus'],eludes et artis colla laqueis inseri,0.8787878787878788,147, clu*de_s e^t a_rti*s co_lla^ la^qve^i*s i_nse^ri*,0
+['149'],['#oedipus'],prohibebis? herbas quae ferunt letum auferes?,0.925,148,pro^hi^be_bi^s he_rba*s qv[ae] fe^ru_nt le*t(u)m [au]fe^re*s,1
+['150'],['#oedipus'],quid ista tandem cura proficiet tua?,0.9375,149, qvi*d i_sta^ ta_nde*m cu_ra^ pro_fi^ci^e_t tu^a*,0
+['151'],['#oedipus'],ubique mors est. optume hoc cavit deus:,0.9117647058823529,150, u*bi_qve^ mo_rs e*st o_ptu^m(e) ho_c ca*vi_t de^u*s,1
+['152'],['#oedipus'],"eripere vitam nemo non homini, potest,",1.0,151, e*ri^pe^re^ vi_ta*m ne_mo^ no_n ho^mi^ni_ po^te*st,0
+['153'],['#oedipus'],at nemo mortem; mille ad hanc aditus patent.,1.0,152, a*t ne_mo^ mo_rte*m mi_ll(e) a^d ha_nc a^di^tu_s pa^te*nt,1
+['154'],['#oedipus'],nil quaero: dextra noster et nuda solet,0.9142857142857143,153, ni*l qv[ae]ro^ de_xtra* no_ste^r e_t nu*da_ so^le*t,0
+['155'],['#oedipus'],"bene animus uti— dextra, nunc toto impetu,",1.0,154, be*n(e) a^ni^mu^s u_ti* de_xtra^ nu_nc to*t(o) i_mpe^tu*,2
+['156'],['#oedipus'],"toto dolore, viribus totis veni.",1.0,155, to*to_ do^lo_re* vi_ri^bu_s to*ti_s ve^ni*,0
+['157'],['#oedipus'],non destino unum vulneri nostro locum:,1.0,156, no*n de_sti^n(o) u_nu*m vu_lne^ri_ no*stro_ lo^cu*m,1
+['158'],['#oedipus'],totus nocens sum: qua Voles mortem exige.,0.9166666666666666,157, to*tu_s no^ce_ns su*m qva_ vo^le_s mo*rt(e)m e_xi^ge*,1
+['159'],['#oedipus'],effringe pectus corque tot scelerum capax,0.9210526315789473,158, e*ffri_nge^ pe_ctu*s co_rqve^ to_t sce^le^ru_m ca^pa*x,0
+['160'],['#oedipus'],"evelle, totos viscerum nuda sinus.",1.0,159, e*ve_lle^ to_to*s vi_sce^ru_m nu*da_ si^nu*s,0
+['161'],['#oedipus'],fractum incitatis ictibus guttur sonet,1.0,160, fra*ct(u)m i_nci^ta_ti*s i_cti^bu_s gu*ttu_r so^ne*t,1
+['162'],['#oedipus'],laceraeque fixis unguibus venae fluant.,0.8285714285714286,161, la^ce^r[ae]qve^ fi_xi*s u_ngvi^bu_s ve*n[ae] flu^a*nt,0
+['163'],['#oedipus'],aut dirige iras quo soles: haec vulnera,0.8285714285714286,162, [au]t de_ri^g(e) i_ra*s qvo_ so^le_s h[ae]c vu_lne^ra*,1
+['164'],['#oedipus'],"rescissa multo sanguine ac tabe inriga,",0.9142857142857143,163, re*sci_ssa^ mu_lto* sa_ngvi^n(e) a_c ta*b(e) i_nri^ga*,2
+['165'],['#oedipus'],"hac extrahe animam duram, inexpugnabilem.",1.0,164, ha*c e_xtra^h(e) a^ni^ma*m du_r(a)m i^ne_xpu*gna_bi^le*m,2
+['166'],['#oedipus'],"et tu, parens, ubicumque poenarum arbiter",0.9166666666666666,165, e*t tu_ pa^re_ns u^bi^cu_mqve^ p[oe]na*r(u)m a_rbi^te*r,1
+['167'],['#oedipus'],adstas mearum; non ego hoc tantum scelus,1.0,166, a*dsta_s me^a_ru*m no_n e^g(o) ho_c ta*ntu_m sce^lu*s,1
+['168'],['#oedipus'],ulla expiari credidi poena satis,1.0,167, u*ll(a) e_xpi^a_ri* cre_di^di_ p[oe]na_ sa^ti*s,1
+['169'],['#oedipus'],"umquam, nec ista morte contentus fui,",0.90625,168, u*mqva_m ne^c i_sta* mo_rte^ co_nte*ntu_s fu^i*,0
+['170'],['#oedipus'],nec me redemi parte: membratim tibi,1.0,169, ne*c me_ re^de_mi* pa_rte^ me_mbra*ti_m ti^bi*,0
+['171'],['#oedipus'],perire volui— debitum tandem exige.,1.0,170,pe*ri_re^ vo^lu^i* de_bi^tu_m ta*nd(e)m e_xi^ge*,1
+['172'],['#oedipus'],"nunc solvo poenas, tunc tibi inferias dedi.",0.9210526315789473,171,nu*nc so_luo^ p[oe]na*s tu_nc ti^b(i) i_nfe^ri^a_s de^di*,1
+['173'],['#oedipus'],ades atque inertem dexteram introrsus preme,0.925,172, a^de^s a_tqv(e) i^ne_rte*m de_xte^r(a)m i_ntro*rsu_s pre^me*,2
+['174'],['#oedipus'],magisque merge: timida tunc parvo caput,0.9142857142857143,173, ma*gi_sqve^ me_rge* ti^mi^da^ tu_nc pa*rvo_ ca^pu*t,0
+['175'],['#oedipus'],libavit haustu vixque cupientes sequi,0.8823529411764706,174, li*ba_vi^t h[au]stu* vi_xqve^ cu^pi^e*nte_s se^qvi*,0
+['176'],['#oedipus'],"eduxit oculos, haeret etiam nunc mihi",0.9090909090909091,175, e*du_xi^t o^cu^lo*s h[ae]re^t e^ti^a*mnu_nc mi^hi*,0
+['177'],['#oedipus'],"ille animus, haeret, cum recusantem manum",1.0,176, i*ll(e) a^ni^mu^s h[ae]re*t cu_m re^cu_sa*nte_m ma^nu*m,1
+['178'],['#oedipus'],"pressere vultus, audies verum, Oedipus:",0.9696969696969697,177, pre*sse_re^ vu_ltu*s [au]di^e_s ve*r(u)m [oe]di^pu*,1
+['179'],['#oedipus'],minus eruisti lumina audacter tua.,1.0,178, mi^nu^s e_ru^i_sti* lu_mi^n(a) [au]da*cte_r tu^a*,1
+['180'],['#oedipus'],"quam praestitisti, nunc manum cerebro indue:",0.9487179487179487,179, qva*m pr[ae]sti^ti_sti* nu_nc ma^nu_m ce^re^br(o) i_ndu^e*,1
+['181'],['#oedipus'],hac parte mortem perage qua coepi mori.,0.9142857142857143,180, ha*c pa_rte^ mo_rte*m pe^ra^ge^ qva_ c[oe]pi_ mo^ri*,0
+['182'],['#antigona'],"Pauca, o parens magnanime, miserandae precor",1.0,181, p[au]c(a) o_ pa^re_ns ma*gna^ni^me^ mi^se^ra*nd[ae] pre^co*r,1
+['183'],['#antigona'],ut verba natae mente placata audias.,1.0,182, u*t ve_rba^ na_t[ae] me_nte^ pla_ca*t(a) [au]di^a*s,1
+['184'],['#antigona'],non te ut reducam veteris ad speciem domus,1.0,183, no*n t(e) u_t re^du_ca*m ve^te^ri^s a_d spe^ci^e_m do^mu*s,1
+['185'],['#antigona'],habitumque regni flore pollentem inclito,0.918918918918919,184, ha^bi^tu_mqve^ re_gni* flo_re^ po_lle*nt(e)m i_ncli^to*,1
+['186'],['#antigona'],"peto aut ut iras, temporum haut ipsa mora",1.0,185, pe*t(o) [au]t u^t i_ra*s te_mpo^r(u)m h[au]t i*psa_ mo^ra*,2
+['187'],['#antigona'],"fractas, remisso pectore ac placido feras:",1.0,186, fra*cta_s re^mi_sso* pe_cto^r(e) a_c pla^ci^do_ fe^ra*s,1
+['188'],['#antigona'],"at hoc decebat roboris tanti virum,",1.0,187, a*t ho_c de^ce_ba*t ro_bo^ri_s ta*nti_ vi^ru*m,0
+['189'],['#antigona'],non esse sub dolore nec victum malis,1.0,188, no*n e_sse^ su_b do*lo_re^ ne_c vi*ctu_m ma^li*s,0
+['190'],['#antigona'],"dare terga; non est, ut putas, virtus, pater,",1.0,189, da^re^ te_rga^ no_n e*st u_t pu^ta_s vi*rtu_s pa^te*r,0
+['191'],['#antigona'],"timere vitam, sed malis ingentibus",1.0,190, ti*me_re^ vi_ta*m se_d ma^li_s i*nge_nti^bu*s,0
+['192'],['#antigona'],obstare nec se vertere ac retro dare.,1.0,191, o*bsta_re^ ne_c se* ve_rte^r(e) a_c re*tro_ da^re*,1
+['193'],['#antigona'],qui fata proculcavit ac vitae bona,0.9354838709677419,192, qvi* fa_ta^ pro_cu*lca_vi^t a_c vi*t[ae] bo^na*,0
+['194'],['#antigona'],proiecit atque abscidit et casus suos,0.8235294117647058,193, pro*je_ci^t a_tqv(e) a*bsci_di^t e_t ca*su_s su^o*s,1
+['195'],['#antigona'],"oneravit ipse, cui deo nullo est opus,",1.0,194,o^ne^ra_vi^t i_pse* c[ui] de^o_ nu*ll(o) e_st o^pu*s,1
+['196'],['#antigona'],quare ille mortem cupiat aut quare petat?,0.8648648648648649,195, qva*r(e) i_lle^ mo_rte*m cu^pi^a^t [au]t qva*re_ pe^ta*t,1
+['197'],['#antigona'],utrumque timidi est: nemo contempsit mori,0.918918918918919,196, u*tru_mqve^ ti^mi^d(i) e*st ne_mo^ co_nte*mpsi_t mo^ri*,1
+['198'],['#antigona'],"qui concupivit, cuius haut ultra mala",0.8484848484848485,197, qvi* co_ncu^pi_vi*t cu_ju^s h[au]t u*ltra_ ma^la*,0
+['199'],['#antigona'],"exire possunt, in loco tuto est situs.",1.0,198, e*xi_re^ po_ssu*nt i_n lo^co_ tu*t(o) e_st si^tu*s,1
+['200'],['#antigona'],"quis iam deorum, velle fac, quicquam potest",0.7105263157894737,199, qvi*s ja_m de^o_ru*m ve_lle^ fa_c qvi*cqva_m po^te*st,0
+['201'],['#antigona'],malis tuis adicere? iam nec tu potes,0.90625,200,ma*li_s tu^i_s a*di^ce^re^ ja_m ne*c tu_ po^te*s,0
+['202'],['#antigona'],"nisi hoc, ut esse te putes dignum nece—",1.0,201, ni*s(i) ho_c u^t e_sse* te_ pu^te_s di*gnu_m ne^ce*,1
+['203'],['#antigona'],non es nec ulla pectus hoc culpa attigit.,1.0,202, no*n e_s ne^c u_lla* pe_ctu^s ho_c cu*lp(a) a_tti^gi*t,1
+['204'],['#antigona'],"et hoc magis te, genitor, insontem voca.",1.0,203, e*t ho_c ma^gi_s te* ge^ni^to^r i_nso*nte_m vo^ca*,0
+['205'],['#antigona'],"quod innocens es dis quoque invitis, quid est",0.7317073170731707,204, qvo*d i_nno^ce_ns e*s di_s qvo^qv(e) i_nvi*ti_s qvi^d e*st,1
+['206'],['#antigona'],"quod te efferant, quod novos suffixerit",0.75,205, qvo*d t(e) e_ffe^ra_ri*t qvo_d no^vo_s su*ffi_xe^ri*t,1
+['207'],['#antigona'],stimulos dolori? quid te in infernas agit,0.918918918918919,206, sti^mu^lo_s do^lo_ri* qvi_d t(e) i^n i_nfe*rna_s a^gi*t,1
+['208'],['#antigona'],"sedes, quid ex his pellit? ut careas die?",0.9142857142857143,207, se*de_s qvi^d e_x hi*s pe_lli^t u_t ca^re^a_s di^e*,0
+['209'],['#antigona'],cares; ut altis nobilem muris domum,1.0,208, ca*re_s u^t a_lti*s no_bi^le_m mu*ri_s do^mu*m,0
+['210'],['#antigona'],patriamque fugias? patria tibi vivo perit;,0.918918918918919,209, pa^tri^a_mqve^ fu^gi^a*s pa^tri^a^ ti^bi^ vi*vo_ pe^ri*t,0
+['211'],['#antigona'],natos fugis matremque? ab* aspectu omnium,0.9166666666666666,210, na*to_s fu^gi_s ma*tre_mqv(e) a^b a_spe*ct(u) o_mni^u*m,2
+['212'],['#antigona'],"fortuna te summovit, et quicquid potest",0.8,211, fo*rtu_na^ te_ su*mmo_vi^t e_t qvi*dqvi_d po^te*st,0
+['213'],['#antigona'],"auferre cuiquam mors, tibi hoc vita abstulit;",0.875,212, [au]fe_rre^ cu_jqva*m mo_rs ti^b(i) ho_c vi*t(a) a_bstu^li*t,2
+['214'],['#antigona'],regni tumultus? turba fortunae prior,1.0,213, re*gni_ tu^mu_ltu*s tu_rba^ fo_rtu*n[ae] pri^o*r,0
+['215'],['#antigona'],"abscessit a te iussa, quem, genitor, fugis?",0.8333333333333334,214, a*bsce_ssi^t a_ te* ju_ssa^ qve_m ge^ni^to_r fu^gi*s,0
+['216'],['#oedipus'],"Me fugio, fugio conscium scelerum omnium",1.0,215,me* fu^gi^o^ fu^gi^o* co_nsci^u_m sce^le^r(u)m o_mni^u*m,1
+['217'],['#oedipus'],"pectus, manumque hanc fugio et hoc ""caelum et deos.",0.9333333333333333,216, pe*ctu_s ma^nu_mqv(e) ha*nc fu^gi^(o) e^t ho_c c[ae]l(u)m e_t de^o*s,3
+['218'],['#oedipus'],et dira fugio scelera quae feci innocens .,0.918918918918919,217, e*t di_ra^ fu^gi^o* sce^le^ra^ qv[ae] fe*c(i) i_nno^ce*ns,1
+['219'],['#oedipus'],"ego hoc solum, frugifera quo surgit Ceres,",0.918918918918919,218,e*g(o) ho_c so^lu_m fru*gi^fe^ra^ qvo_ su*rgi_t ce^re*s,1
+['220'],['#oedipus'],premo? has ego auras ore pestifero traho?,1.0,219, pre*m(o) ha_s e^g(o) [au]ra*s o_re^ pe_sti^fe^ro_ tra^ho*,2
+['221'],['#oedipus'],ego laticis haustu satior aut ullo fruor,1.0,220, e^go^ la^ti^ci^s h[au]stu* sa^ti^o^r [au]t u*llo_ fru^o*r,0
+['222'],['#oedipus'],almae parentis munere? ego castam manum,1.0,221, a*lm[ae] pa^re_nti*s mu_ne^r(e) e^go^ ca*sta_m ma^nu*m,1
+['223'],['#oedipus'],nefandus incestificus exsecrabilis,1.0,222,ne*fa_ndu^s i_nce*sti^fi^cu^s e_xse*cra_bi^li*s,0
+['224'],['#oedipus'],"attrecto? ego ullos aure concipio sonos,",1.0,223,a*ttre_ct(o) e^g(o) u_llo*s [au]re^ co_nci^pi^o_ so^no*s,2
+['225'],['#oedipus'],per quos parentis nomen aut nati audiam?,0.9166666666666666,224, pe*r qvo_s pa^re_nti*s no_me^n [au]t na*t(i) [au]di^a*m,1
+['226'],['#oedipus'],utinam quidem rescindere has quirem vias,0.8378378378378378,225, u^ti^na_m qvi^de_m re*sci_nde^r(e) ha_s qvi*re_m vi^a*s,1
+['227'],['#oedipus'],manibusque adactis omne qua voces meant,0.8333333333333334,226, ma^ni^bu_sqv(e) a^da_cti*s o_mne^ qva_ vo*ce_s me^a*nt,1
+['228'],['#oedipus'],aditusque verbis tramite angusto patet,0.9142857142857143,227, a^di^tu_sqve^ ve_rbi*s tra_mi^t(e) a_ngu*sto_ pa^te*t,1
+['229'],['#oedipus'],"eruere possem: nata, iam sensum tui,",0.9,228, e*ru^e^re^ po_sse*m na_ta^ ja_m se*nsu_m tu^i*,0
+['230'],['#oedipus'],"quae pars meorum es criminum, infelix pater",0.9487179487179487,229, qv[ae] pa_rs me^o_r(u)m e*s cri_mi^n(u)m i_nfe*li_x pa^te*r,2
+['231'],['#oedipus'],fugissem. inhaeret ac recrudescit nefas,1.0,230, fu*gi_ss(e)m i^nh[ae]re*t a_c re^cru_de*sci_t ne^fa*s,1
+['232'],['#oedipus'],"subinde, et aures ingerunt quicquid mihi",0.8055555555555556,231, su*bi_nd(e) e^t [au]re*s i_nge^ru_nt qvi*dqvi_d mi^hi*,1
+['233'],['#oedipus'],"donastis, oculi, cur caput tenebris grave",1.0,232, do*na_sti^s o^cu^li* cu_r ca^pu_t te^ne^bri_s gra^ve*,0
+['234'],['#oedipus'],non mitto ad umbras Ditis aeternas? quid hic,0.925,233, no*n mi_tt(o) a^d u_mbra*s di_ti^s [ae]te*rna_s qvi^d hi*c,1
+['235'],['#oedipus'],manes meos detineo? quid terram gravo,0.9696969696969697,234,ma*ne_s me^o_s de*ti^ne^o^ qui_d te*rra_m gra^uo*,0
+['236'],['#oedipus'],mixtusque superis erro? quid restat mali?,1.0,235,mi*xtu_sque^ su^pe^ri*s e_rro^ qui_d re*sta_t ma^li*,0
+['237'],['#oedipus'],"regnum parentes liberi, virtus quoque",0.9090909090909091,236,re*gnu_m pa^re_nte*s li_be^ri_ ui*rtu_s quo^que*,0
+['238'],['#oedipus'],et ingeni sollertis eximium decus,1.0,237, e*t i_nge^ni_ so*lle_rti^s e_xi^mi^u_m de^cu*s,0
+['239'],['#oedipus'],"periere, cuncta sors mihi infesta abstulit:",1.0,238, pe^ri^e_re^ cu_ncta* so_rs mi^h(i) i_nfe*st(a) a_bstu^li*t,2
+['240'],['#oedipus'],lacrimae supererant: has quoque eripui mihi.,0.8461538461538461,239, la^cri^m[ae] su^pe^re^ra*nt ha_s qvo^qv(e) e_ri^pu^i_ mi^hi*,1
+['241'],['#oedipus'],"absiste, nullas animus admittit preces",1.0,240, a*bsi_ste^ nu_lla*s a^ni^mu^s a_dmi*tti_t pre^ce*s,0
+['242'],['#oedipus'],novamque poenam sceleribus quaerit parem.,0.8378378378378378,241, no*va_mqve^ p[oe]na*m sce^le^ri^bu_s qv[ae]ri_t pa^re*m,0
+['243'],['#oedipus'],et esse par quae poterit? infanti quoque,0.8055555555555556,242, e*t e_sse^ pa_r qv[ae] po^te^ri^t i_nfa*nti_ qvo^qve*,0
+['244'],['#oedipus'],decreta mors est.— fata quis tam tristia,0.9142857142857143,243, de*cre_ta^ mo_rs e*st fa_ta^ qvi_s ta*m tri_sti^a*,0
+['245'],['#oedipus'],sortitus umquam? videram nondum diem,0.90625,244, so*rti_tu^s u_mqva*m vi_de^ra_m no*ndu_m di^e*m,0
+['246'],['#oedipus'],"uterique nondum solveram clausi moras,",0.9117647058823529,245, u^te^ri_qve^ no_ndu*m so_lve^ra_m cl[au]si_ mo^ra*s,0
+['247'],['#oedipus'],et iam timebar. protinus quosdam editos,0.8285714285714286,246, e*t ja_m ti^me_ba*r pro_ti^nu_s qvo*sd(a)m e_di^to*s,1
+['248'],['#oedipus'],nox occupavit et novae luci abstulit:,1.0,247, no*x o_ccu^pa_vi*t e_t no^v[ae] lu*c(i) a_bstu^li*t,1
+['249'],['#oedipus'],mors me antecessit; aliquis intra viscera,0.918918918918919,248, mo*rs m(e) a_nte^ce_ssi*t a^li^qvi^s i_ntra* vi_sce^ra*,1
+['250'],['#oedipus'],materna letum praecoquis fati tulit:,0.90625,249, ma*te_rna^ le_tu*m pr[ae]co^qvi_s fa*ti_ tu^li*t,0
+['251'],['#oedipus'],"sed numquid et peccavit? abstrusum, abditum",0.9210526315789473,250, se*d nu_mqvi^d e_t pe*cca_vi^t a_bstru*s(u)m a_bdi^tu*m,1
+['252'],['#oedipus'],dubiumque an essem sceleris infandi reum,0.918918918918919,251, du^bi^u_mqv(e) a^n e_sse*m sce^le^ri^s i_nfa*ndi_ re^u*m,1
+['253'],['#oedipus'],deus egit; illo teste damnavit parens,1.0,252, de^u^s e_gi^t i_llo* te_ste^ da_mna*vi_t pa^re*ns,0
+['254'],['#oedipus'],calidoque teneros transilit ferro pedes,0.8888888888888888,253,ca^li^do_que^ te^ne^ro*s tra_nsu^i_t fe*rro_ pe^de*s,0
+['255'],['#oedipus'],et in alta nemora pabulum misit feris,1.0,254, e^t i^n a_lta^ ne^mo^ra* pa_bu^lu_m mi*si_t fe^ri*s,0
+['256'],['#oedipus'],avibusque saevis quas Cithaeron noxius,0.8285714285714286,255, a^vi^bu_sqve^ s[ae]vi*s qva_s ci^th[ae]ro*n no_xi^u*s,0
+['257'],['#oedipus'],"cruore saepe regio tinctas alit. ,",1.0,256,cru*o_re^ s[ae]pe* re_gi^o_ ti*ncta_s a^li*t,0
+['258'],['#oedipus'],"sed quem deus damnavit, abiecit pater,",0.8181818181818182,257, se*d qve_m de^u_s da*mna_vi^t a_bje*ci_t pa^te*r,0
+['259'],['#oedipus'],"mors quoque refugit, praestiti Delphis fidem:",0.85,258,mo*rs qvo^qve^ re^fu_gi*t pr[ae]sti^ti_ de*lphi_s fi^de*m,0
+['260'],['#oedipus'],genitorem adortus impia stravi nece.,1.0,259, ge^ni^to_r(e)m a^do_rtu*s i_mpi^a_ stra*vi_ ne^ce*,1
+['261'],['#oedipus'],"hoc alia pietas redimet: occidi patrem,",1.0,260, ho*c a^li^a^ pi^e^ta*s re^di^me^t o_cci*di_ pa^tre*m,0
+['262'],['#oedipus'],"sed matrem amavi, proloqui hymenaeum pudet",0.9210526315789473,261, se*d ma_tr(e)m a^ma_vi* pro_lo^qv(i) hy^me^n[ae]u_m pu^de*t,2
+['263'],['#oedipus'],"taedasque nostras, has quoque invitum pati",0.7631578947368421,262, t[ae]da_sqve^ no_stra*s ha_s qvo^qv(e) i_nvi*tu_m pa^ti*,1
+['264'],['#oedipus'],te coge poenas: facinus ignotum efferum,1.0,263, te* co_ge^ p[oe]na*s fa^ci^nu^s i_gno*t(u)m e_ffe^ru*m,1
+['265'],['#oedipus'],"inusitatum effare quod populi horreant,",0.8,264, i*nu_si^ta_tu*m fa_re^ qvo_d po^pu^l(i) ho_rre^a*nt,1
+['266'],['#oedipus'],"quod esse factum nulla non aetas neget,",0.9428571428571428,265, qvo*d e_sse^ fa_ctu*m nu_lla^ no_n [ae]ta_s ne^ge*t,0
+['267'],['#oedipus'],quod parricidam pudeat: in patrios toros,0.9444444444444444,266, qvo*d pa_rri^ci_da*m pu^de^a^t i_n pa^tri^o_s to^ro*s,0
+['268'],['#oedipus'],tuli paterno sanguine aspersas manus,0.9090909090909091,267, tu*li_ pa^te_rno* sa_ngvi^n(e) a_spe*rsa_s ma^nu*s,1
+['269'],['#oedipus'],scelerisque pretium maius accepi scelus.,0.8333333333333334,268, sce^le^ri_sqve^ pre^ti^u*m ma_ju^s a_cce*pi_ sce^lu*s,0
+['270'],['#oedipus'],leve est paternum facinus: in thalamos meos,1.0,269, le*v(e) e_st pa^te_rnu*m fa^ci^nu^s i_n tha^la^mo_s me^o*s,1
+['271'],['#oedipus'],"deducta mater, ne parum sceleris foret,",1.0,270, de*du_cta^ ma_te*r ne_ pa^ru_m sce^le^ri_s fo^re*t,0
+['272'],['#oedipus'],fecunda: nullum crimen hoc maius potest,0.9142857142857143,271, fe*cu_nda^ nu_llu*m cri_me^n ho_c ma*ju_s po^te*st,0
+['273'],['#oedipus'],"natura ferre, si quod etiamnum est tamen,",0.9166666666666666,272, na*tu_ra^ fe_rre* si_ qvo^d e^ti^a*mn(u)m e_st ta^me*n,1
+['274'],['#oedipus'],"qui facere possent dedimus, abieci necis '",0.8611111111111112,273, qvi* fa^ce^re^ po_sse*nt de^di^mu^s a_bje*ci_ ne^ci*s,0
+['275'],['#oedipus'],pretium paternae sceptrum et hoc iterum manus,1.0,274, pre^ti^u_m pa^te_rn[ae] sce_ptr(u)m e^t ho_c i^te^ru_m ma^nu*s,1
+['276'],['#oedipus'],armavit alias; optime regni mei,0.8888888888888888,275,a*rma_ui^t a^li^a*s o_pti^me_ re*gni_ me^i*,0
+['277'],['#oedipus'],fatum ipse novi: nemo sine sacro feret,1.0,276, fa*t(u)m i_pse^ no_vi* ne_mo^ si^ne^ sa*cro_ fe^re*t,1
+['278'],['#oedipus'],"illud cruore, magna praesagit mala",1.0,277, i*llu_d cru^o_re* ma_gna^ pr[ae]sa*gi_t ma^la*,0
+['279'],['#oedipus'],"paternus animus, iacta iam sunt semina",0.8235294117647058,278, pa*te_rnu^s a^ni^mu*s ja_cta^ ja_m su*nt se_mi^na*,0
+['280'],['#oedipus'],cladis futurae: spernitur pacti fides;,1.0,279, cla*di_s fu^tu_r[ae] spe_rni^tu_r pa*cti_ fi^de*s,0
+['281'],['#oedipus'],"hic occupato cedere imperio negat,",1.0,280, hi*c o_ccu^pa_to* ce_de^r(e) i_mpe^ri^o_ ne^ga*t,1
+['282'],['#oedipus'],ius ille et icti foederis testes deos,0.9705882352941176,281, ju*s i_ll(e) e^t i_cti* f[oe]de^ri_s te*ste_s de^o*s,1
+['283'],['#oedipus'],invocat et Argos exul atque urbes movet,0.9166666666666666,282, i*nvo^ca^t e^t a_rgo*s e_xu^l a_tqv(e) u*rbe_s mo^ve*t,1
+['284'],['#oedipus'],Graias in arma: non levis fessis venit,0.9117647058823529,283, gra*ja_s i^n a_rma* no_n le^vi_s fe*ssi_s ve^ni*t,0
+['285'],['#oedipus'],ruina Thebis; tela flammae vulnera,1.0,284, ru*i_na^ the_bi*s te_la^ fla_mm[ae] vu_lne^ra*,0
+['286'],['#oedipus'],"instant et istis si quod est maius malum,",0.8378378378378378,285, i*nsta_nt e^t i_sti*s si_ qvo^d e_st ma*ju_s ma^lu*m,0
+['287'],['#oedipus'],ut esse genitos nemo non ex me sciat.,1.0,286, u*t e_sse^ ge^ni^to*s ne_mo^ no_n e*x me_ sci^a*t,0
+['288'],['#antigona'],"Si nulla, genitor, causa vivendi tibi est,",1.0,287, si* nu_lla^ ge^ni^to*r c[au]sa^ vi_ve*ndi_ ti^b(i) e*st,1
+['289'],['#antigona'],"haec una abunde est, ut pater natos regas",1.0,288, h[ae]c u_n(a) a^bu_nd(e) e*st u_t pa^te_r na*to_s re^ga*s,2
+['290'],['#antigona'],"graviter furentes, tu impii belli minas",1.0,289, gra^vi^te_r fu^re_nte*s t(u) i_mpi^i_ be*lli_ mi^na*s,1
+['291'],['#antigona'],avertere unus tuque vaecordes potes,0.8125,290, a*ve_rte^r(e) u_nu*s tu_qve^ ve_co*rde_s po^te*s,1
+['292'],['#antigona'],"inhibere iuvenes, civibus pacem dare,",0.90625,291, i^nhi^be_re^ ju^ve^ne*s ci_vi^bu_s pa*ce_m da^re*,0
+['293'],['#antigona'],"patriae quietem, foederi laeso fidem.",0.90625,292, pa^tri^[ae] qvi^e_te*m f[oe]de^ri_ l[ae]so_ fi^de*m,0
+['294'],['#antigona'],"vitam tibi ipse si negas, multis negas.",1.0,293, vi*ta_m ti^b(i) i_pse* si_ ne^ga_s mu*lti_s ne^ga*s,1
+['295'],['#oedipus'],"Illis parentis ullus aut aequi est amor,",0.9166666666666666,294, i*lli_s pa^re_nti*s u_llu^s [au]t [ae]qv(i) e_st a^mo*r,1
+['296'],['#oedipus'],"avidis cruoris imperi armorum doli,",1.0,295, a^vi^di_s cru^o_ri*s i_mpe^r(i) a_rmo*ru_m do^li*,1
+['297'],['#oedipus'],"diris, scelestis, breviter ut dicam meis?",1.0,296, di*ri_s sce^le_sti*s bre^vi^te^r u_t di*ca_m me^i*s,0
+['298'],['#oedipus'],certant in omne facinus et pensi nihil,1.0,297, ce*rta_nt i^n o_mne* fa^ci^nu^s e_t pe*nsi_ ni^hi*l,0
+['299'],['#oedipus'],"ducunt, ubi illos ira praecipites agit,",1.0,298, du*cu_nt u^b(i) i_llo*s i_ra^ pr[ae]ci^pi^te_s a^gi*t,1
+['300'],['#oedipus'],nefasque nullum per nefas nati putant.,0.9117647058823529,299, ne*fa_sqve^ nu_llu*m pe_r ne^fa_s na*ti_ pu^ta*nt,0
+['301'],['#oedipus'],"non patris illos tangit afflicti pudor,",1.0,300, no*n pa_tri^s i_llo*s ta_ngi^t a_ffli*cti_ pu^do*r,0
+['302'],['#oedipus'],non patria: regno pectus attonitum furit.,1.0,301, no*n pa^tri^a^ re_gno* pe_ctu^s a_tto^ni^tu_m fu^ri*t,0
+['303'],['#oedipus'],"scio quo ferantur, quanta moliri parent,",0.8285714285714286,302,sci^o^ qvo_ fe^ra_ntu*r qva_nta^ mo_li*ri_ pa^re*nt,0
+['304'],['#oedipus'],ideoque leti quaero maturi viam,0.7857142857142857,303, i^de^o_qve^ le_ti* qv[ae]ro^ ma_tu*ri_ vi^a*m,0
+['305'],['#oedipus'],"morique propero, dum in domo nemo est mea",0.918918918918919,304, mo*ri_qve^ pro^pe^ro* d(u)m i_n do^mo_ ne*m(o) e_st me^a*,2
+['306'],['#oedipus'],"nocentior me. nata, quid genibus meis",0.90625,305, no*ce_nti^o_r me* na_ta^ qvi_d ge^ni^bu_s me^i*s,0
+['307'],['#oedipus'],fles advoluta? quid prece indomitum domas?,0.918918918918919,306, fle*s a_dvo^lu_ta* qvi_d pre^c(e) i_ndo^mi^tu_m do^ma*s,1
+['308'],['#oedipus'],"unum hoc habet fortuna quo possim capi,",0.9142857142857143,307, u*n(u)m ho_c ha^be_t fo*rtu_na^ qvo_ po*ssi_m ca^pi*,1
+['309'],['#oedipus'],invictus aliis: sola tu affectus potes,1.0,308, i*nvi_ctu^s a^li^i*s so_la^ t(u) a_ffe*ctu_s po^te*s,1
+['310'],['#oedipus'],"mollire duros, sola pietatem in domo",1.0,309,mo*lli_re^ du_ro*s so_la^ pi^e^ta*t(e)m i_n do^mo*,1
+['311'],['#oedipus'],"docere nostra, nil grave aut miserum est mihi",1.0,310, do*ce_re^ no_stra* ni_l gra^v(e) [au]t mi^se^r(u)m e_st mi^hi*,2
+['312'],['#oedipus'],quod te sciam voluisse; tu tantum impera:,0.9444444444444444,311,qvo*d te_ sci^a_m vo^lu^i_sse^ tu_ ta*nt(u)m i_mpe^ra*,1
+['313'],['#oedipus'],hic Oedipus Aegaea transnabit freta,1.0,312, hi*c [oe]di^pu_s [ae]g[ae]a^ tra_nsna*bi_t fre^ta*,0
+['314'],['#oedipus'],"iubente te, flammasque quas Siculo vomit",0.8055555555555556,313, ju*be_nte^ te_ fla*mma_sqve^ qva_s si^cu^lo_ vo^mi*t,0
+['315'],['#oedipus'],"de monte tellus igneos volvens globos,",1.0,314, de* mo_nte^ te_llu*s i_gne^o_s vo*lve_ns glo^bo*s,0
+['316'],['#oedipus'],"excipiet ore seque serpenti offeret,",1.0,315,e*xci^pi^e^t o_re* se_que^ se_rpe*nt(i) o_ffe^re*t,1
+['317'],['#oedipus'],quae saeva furto nemoris Herculeo furit;,0.9444444444444444,316, qv[ae] s[ae]va^ fu_rto* ne^mo^ri^s he_rcu^le^o_ fu^ri*t,0
+['318'],['#oedipus'],iubente te praebebit! alitibus iecur—,0.875,317, ju*be_nte^ te_ pr[ae]be_bi^t a_li^ti^bu_s je^cu*r,0
+['319'],['#oedipus'],iubente te vel vivet.,0.0,,,0
+['320'],['#nuntius'],Exemplum in ingens regia stirpe editum,1.0,318, e*xe_mpl(u)m i^n i_nge*ns re_gi^a_ sti*rp(e) e_di^tu*m,2
+['321'],['#nuntius'],Thebae paventes arma fraterna invocant,1.0,319, the*b[ae] pa^ve_nte*s a_rma^ fra_te*rn(a) i_nvo^ca*nt,1
+['322'],['#nuntius'],"rogantque tectis arceas patriis faces,",0.9117647058823529,320, ro*ga_ntqve^ te_cti*s a_rce^a_s pa^tri^i_s fa^ce*s,0
+['323'],['#nuntius'],"non sunt minae, iam propius accessit malum,",0.9210526315789473,321, no*n su_nt mi^n[ae] ja*m pro^pi^u^s a_cce*ssi_t ma^lu*m,0
+['324'],['#nuntius'],nam regna repetens frater et pactas vices,1.0,322, na*m re_gna^ re^pe^te*ns fra_te^r e_t pa*cta_s vi^ce*s,0
+['325'],['#nuntius'],in bella cunctos Graeciae populos agit;,1.0,323, i*n be_lla^ cu_ncto*s gr[ae]ci^[ae] po^pu^lo_s a^gi*t,0
+['326'],['#nuntius'],"septena muros castra Thebanos premunt,",1.0,324, se*pte_na^ mu_ro*s ca_stra^ the_ba*no_s pre^mu*nt,0
+['327'],['#nuntius'],"succurre, prohibe pariter et bellum et scelus.",1.0,325, su*ccu_rre^ pro^hi^be* pa^ri^te^r e_t be*ll(u)m e_t sce^lu*s,1
+['328'],['#oedipus'],Ego ille sum qui scelera committi vetem,0.9166666666666666,326, e*g(o) i_lle^ su_m qvi* sce^le^ra^ co_mmi*tti_ ve^te*m,1
+['329'],['#oedipus'],et abstineri sanguine e caro manus,0.8064516129032258,327, e*t a_bsti^ne_ri* sa_ngvi^n(e) a_ ca*ro_ ma^nu*s,1
+['330'],['#oedipus'],doceam? magister iuris et amoris pii,0.90625,328, do^ce^a_m ma^gi_ste*r ju_ri^s e^t a^mo*ri_s pi^i*,0
+['331'],['#oedipus'],"ego sum? meorum facinorum exempla appetunt,",1.0,329, e^go^ su_m me^o_ru*m fa^ci^no^r(u)m e_xe*mpl(a) a_ppe^tu*nt,2
+['332'],['#oedipus'],"me nunc secuntur; laudo et agnosco libens,",0.918918918918919,330, me* nu_nc se^cu_ntu*r la_vd(o) e^t a_gno*sco_ li^be*ns,1
+['333'],['#oedipus'],"exhortor, aliquid ut patre hoc dignum gerant.",0.925,331, e*xho_rto^r a^li^qvi*d u_t pa^tr(e) ho_c di*gnu_m ge^ra*nt,1
+['334'],['#oedipus'],"agite, o propago cara, generosam indolem",0.9428571428571428,332, a^gi^t(e) o_ pro^pa_go* cla_ra^ ge^ne^ro*s(a)m i_ndo^le*m,2
+['335'],['#oedipus'],"probate factis, gloriam ac laudes meas",1.0,333, pro*ba_te^ fa_cti*s glo_ri^(a)m a_c l[au]de_s me^a*s,1
+['336'],['#oedipus'],superate et aliquid facite propter quod patrem,0.8604651162790697,334, su^pe^ra_t(e) e^t a^li^qvi*d fa^ci^te^ pro_pte*r qvo_d pa^tre*m,1
+['337'],['#oedipus'],"adhuc iuvet vixisse, facietis, scio:",0.9,335, a*dhu_c ju^ve_t vi*xi_sse^ fa^ci^e*ti_s sci^o*,0
+['338'],['#oedipus'],"sic estis orti. scelere defungi haut levi,",1.0,336, si*c e_sti^s o_rti* sce^le^re^ de_fu*ng(i) h[au]t le^vi*,1
+['339'],['#oedipus'],haut usitato tanta nobilitas potest.,1.0,337, h[au]t u_si^ta_to* ta_nta^ no_bi^li^ta_s po^te*st,0
+['340'],['#oedipus'],"ferte arma, facibus petite penetrales deos",1.0,338, fe*rt(e) a_rma^ fa^ci^bu*s pe^ti^te^ pe^ne^tra*le_s de^o*s,1
+['341'],['#oedipus'],"frugemque flamma metite natalis soli,",0.9090909090909091,339, fru*ge_mqve^ fla_mma* me^ti^te^ na_ta*li_s so^li*,0
+['342'],['#oedipus'],"miscete cuncta, rapite in exitium omnia,",1.0,340, mi*sce_te^ cu_ncta* ra^pi^t(e) i^n e_xi^ti^(u)m o_mni^a*,2
+['343'],['#oedipus'],"disicite passim moenia, in planum date,",1.0,341,di*si^ci^te^ pa_ssi*m m[oe]ni^(a) i_n pla*nu_m da^te*,1
+['344'],['#oedipus'],"templis deos obruite, maculatos lares",1.0,342,te*mpli_s de^o_s o*bru^i^te^ ma^cu^la*to_s la^re*s,0
+['345'],['#oedipus'],"conflate, ab imo tota considat domus;",1.0,343, co*nfla_t(e) a^b i_mo* to_ta^ co_nsi*da_t do^mu*s,1
+['346'],['#oedipus'],urbs concremetur— primus a thalamis meis,1.0,344, u*rbs co_ncre^me_tu*r pri_mu^s a_ tha^la^mi_s me^i*s,0
+"['347', '347b']","['#oedipus', '#nuntius']",incipiat ignis. Mitte violentum impetum,1.0,345, i*nci^pi^a^t i_gni*s mi_tte^ vi^o^le*nt(u)m i_mpe^tu*m,1
+['348'],['#nuntius'],doloris ac te publica exorent mala,1.0,346, do*lo_ri^s a_c te* pu_bli^c(a) e_xo*re_nt ma^la*,1
+['3349'],['#nuntius'],auctorque placidae liberis pacis veni.,0.9117647058823529,347, [au]cto_rqve^ pla^ci^d[ae] li_be^ri_s pa*ci_s ve^ni*,0
+['350'],['#oedipus'],Vides modestae deditum menti senem,1.0,348, vi*de_s mo^de_st[ae] de_di^tu_m me*nti_ se^ne*m,0
+['351'],['#oedipus'],placidaeque amantem pacis ad partes vocas?,0.9210526315789473,349, pla^ci^d[ae]qv(e) a^ma_nte*m pa_ci^s a_d pa*rte_s vo^ca*s,1
+['352'],['#oedipus'],"tumet animus ira, fervet immensus dolor,",0.9428571428571428,350, tu^me^t a^ni^mu^s i_ra* fe_rve^t i_mme*nsu_m do^lo*r,0
+['353'],['#oedipus'],maiusque quam quod casus et iuvenum furor,0.6052631578947368,351, ma*ju_sqve^ qva_m qvo*d ca_su^s e_t ju^ve^nu_m fu^ro*r,0
+['354'],['#oedipus'],"conatur aliquid cupio, non satis est adhuc",1.0,352,co*na_tu^r a^li^qui*d cu^pi^o^ no_n sa^ti^s e_st a^dhu*c,0
+['355'],['#oedipus'],civile bellum: frater in fratrem ruat;,1.0,353, ci*vi_le^ be_llu*m fra_te^r i_n fra*tre_m ru^a*t,0
+['356'],['#oedipus'],"nec hoc sat est: quod debet, ut fiat nefas",0.918918918918919,354, ne*c ho_c sa^t e_st qvo*d de_be^t u_t fi*a_t ne^fa*s,0
+['357'],['#oedipus'],"de more nostro, quod meos deceat toros:",0.9117647058823529,355, de* mo_re^ no_stro* qvo_d me^o_s de^ce^a_t to^ro*s,0
+['358'],['#oedipus'],"date arma matri, nemo me ex his eruat",1.0,356, da*t(e) a_rma^ ma_tri* ne_mo^ m(e) e_x hi*s e_ru^a*t,2
+['359'],['#oedipus'],silvis: latebo rupis exesae cavo,1.0,357, si*lvi_s la^te_bo* ru_pi^s e_xe*s[ae] ca^vo*,0
+['360'],['#oedipus'],aut sepe densa corpus abstrusum tegam.,0.9142857142857143,358, [au]t s[ae]pe^ de_nsa* co_rpu^s a_bstru*su_m te^ga*m,0
+['361'],['#oedipus'],hinc aucupabor verba rumoris vagi,1.0,359, hi*nc [au]cu^pa_bo*r ve_rba^ ru_mo*ri_s va^gi*,0
+['362'],['#oedipus'],"et saeva fratrum, bella, quod possum, audiam.",0.9210526315789473,360, e*t s[ae]va^ fra_tru*m be_lla^ qvo_d po*ss(u)m [au]di^a*m,1
+['363'],['#iocasta satelles'],"Felix Agaue: facinus horrendum manu,",0.9032258064516129,361, fe*li_x a^ga_ve* fa^ci^nu^s ho_rre*ndu_m ma^nu*,0
+['364'],['#iocasta satelles'],"qua fecerat, gestavit et spolium tulit",0.9411764705882353,362, qva* fe_ce^ra_t ge*sta_vi^t e_t spo^li^u_m tu^li*t,0
+['365'],['#iocasta satelles'],cruenta nati maenas in partes dati;,1.0,363, cru*e_nta^ na_ti* m[ae]na^s i_n pa*rte_s da^ti*,0
+['366'],['#iocasta satelles'],"fecit scelus, sed misera non ultro suo",0.9117647058823529,364, fe*ci_t sce^lu_s se*d mi^se^ra^ no_n u*ltra_ su^o*,0
+['367'],['#iocasta satelles'],sceleri occucurrit. hoc leve est quod sum nocens:,0.9318181818181818,365, sce^le^r(i) o_ccu^cu_rri*t ho_c le^v(e) e_st qvo*d su_m no^ce*ns,2
+['368'],['#iocasta satelles'],"feci nocentes, hoc quoque etiamnunc leve est:",0.85,366, fe*ci_ no^ce_nte*s ho_c qvo^qv(e) e^ti^a*mnu_nc le^v(e) e*st,2
+['369'],['#iocasta satelles'],"peperi nocentes, derat aerumnis meis,",1.0,367, pe^pe^ri_ no^ce_nte*s de_ra^t [ae]ru*mni_s me^i*s,0
+['370'],['#iocasta satelles'],"ut et hostem amarem, bruma ter posuit nives",1.0,368, u^t e^t ho_st(e)m a^ma_re*m bru_ma^ te_r po^su^i_t ni^ve*s,1
+['371'],['#iocasta satelles'],"et tertia iam falce decubuit Ceres,",0.9032258064516129,369,e*t te_rti^a_ ja*m fa_lce^ de_cu^bu^i_t ce^re*s,0
+['372'],['#iocasta satelles'],ut exul errat natus et patria caret,1.0,370,u*t e_xu^l e_rra*t na_tu^s e_t pa^tri^a_ ca^re*t,0
+['373'],['#iocasta satelles'],"profugusque regum auxilia Graiorum rogat,",1.0,371,pro^fu^gu_sque^ re_g(u)m [au]xi^li^a^ gra_io*ru_m ro^ga*t,1
+['374'],['#iocasta satelles'],"gener est Adrasti, cuius imperio mare",0.9090909090909091,372, ge^ne^r e_st a^dra_sti* cu_ju^s i_mpe^ri^o_ ma^re*,0
+['375'],['#iocasta satelles'],quod scindit Isthmos regitur; hic gentes suas,0.9512195121951219,373, qvo*d sci_ndi^t i_sthmo*s re^gi^tu^r hi_c ge*nte_s su^a*s,0
+['376'],['#iocasta satelles'],septemque secum regna ad auxilium trahit,0.918918918918919,374, se*pte_mqve^ se_cu*m re_gn(a) a^d [au]xi^li^u_m tra^hi*t,1
+['377'],['#iocasta satelles'],"genero, quid optem quidve decernam haut scio.",0.7,375, ge^ne^ri_ qvi^d o_pte*m qvi_due^ de_ce*rn(a)m h[au]t sci^o*,1
+['378'],['#iocasta satelles'],"regnum reposcit: causa repetentis bona est,",1.0,376, re*gnu_m re^po_sci*t c[au]sa^ re^pe^te*nti_s bo^n(a) e*st,1
+['379'],['#iocasta satelles'],mala sic petentis. vota quae faciam parens?,0.9210526315789473,377, ma^la^ si_c pe^te_nti*s vo_ta^ qv[ae] fa^ci^a_m pa^re*ns,0
+['380'],['#iocasta satelles'],utrimque natum video: nil possum pie,0.875,378,v*tri_mque^ na_tu*m ui^de^o^ ni_l po*ssu_m pi^e*,0
+['381'],['#iocasta satelles'],pietate salva facere: quodcumque alteri,0.8285714285714286,379, pi^e^ta_te^ sa_lva* fa^ce^re^ qvo_dcu*mqv(e) a_lte^ri*,1
+['382'],['#iocasta satelles'],optabo nato fiet alterius malo.,1.0,380,o*pta_bo^ na_to* fi_e^t a_lte^ri^u_s ma^lo*,0
+['383'],['#iocasta satelles'],"sed utrumque quamvis diligam affectu pari,",0.8421052631578947,381, se^d u^tru_mqve^ qva_mvi*s di_li^g(a)m a_ffe*ctu_ pa^ri*,1
+['384'],['#iocasta satelles'],quo causa melior sorsque deterior trahit,0.8648648648648649,382, qvo* c[au]sa^ me^li^o*r so_rsqve^ de_te^ri^o_r tra^hi*t,0
+['385'],['#iocasta satelles'],inclinat animus semper infirmo favens:,1.0,383, i*ncli_na^t a^ni^mu*s se_mpe^r i_nfi*rmo_ fa^ve*ns,0
+['386'],['#iocasta satelles'],miseros magis fortuna conciliat suis.,1.0,384, mi^se^ro_s ma^gi_s fo*rtu_na^ co_nci^li^a_t su^i*s,0
+['387'],['#satelles'],"Regina, dum tu flebiles questus cies",0.90625,385, re*gi_na^ du_m tu* fle_bi^le_s qve*stu_s ci^e*s,0
+['388'],['#satelles'],"terisque tempus, saeva nudatis adest",0.7878787878787878,386, te*ri_sqve^ te_mpu*s s[ae]va^ nu_da*ti_s ste^ti*t,0
+['389'],['#satelles'],acies in armis; aera iam bellum cient,0.9090909090909091,387, a^ci^e_s i^n a_rmi*s [ae]ra^ ja_m be*llu_m ci^e*nt,0
+['390'],['#satelles'],aquilaque pugnam signifer mota vocat.,0.8181818181818182,388,a^qvi^la_qve^ pu_gna*m si_gni^fe_r mo*ta_ vo^ca*t,0
+['391'],['#satelles'],"septena reges bella dispositi parant,",1.0,389,se*pte_na^ re_ge*s be_lla^ di_spo^si^ti_ pa^ra*nt,0
+['392'],['#satelles'],"animo pari Cadmea progenies subit,",1.0,390, a^ni^mo_ pa^ri_ ca*dme_a^ pro_ge^ni^e_s su^bi*t,0
+['393'],['#satelles'],cursu citato miles hinc atque hinc ruit.,0.9166666666666666,391, cu*rsu_ ci^ta_to* mi_le^s hi_nc a*tqv(e) hi_nc ru^i*t,1
+['394'],['#satelles'],vide ut atra nubes pulvere abscondat diem,1.0,392, vi^d(e) u^t a_tra^ nu_be*s pu_lve^r(e) a_bsco*nda_t di^e*m,2
+['395'],['#satelles'],fumoque similes campus in caelum erigat,0.9166666666666666,393, fu*mo_qve^ si^mi^le*s ca_mpu^s i_n c[ae]l(u)m e_ri^ga*t,1
+['396'],['#satelles'],"nebulas, equestri fracta quas tellus pede",0.8378378378378378,394, ne^bu^la_s e^qve_stri* fra_cta^ qva_s te*llu_s pe^de*,0
+['397'],['#satelles'],"summittit et, si vera metuentes vident,",1.0,395, su*mmi_tti^t e_t si* ve_ra^ me^tu^e*nte_s vi^de*nt,0
+['398'],['#satelles'],"infesta fulgent signa, subrectis adest",1.0,396, i*nfe_sta^ fu_lge*nt si_gna^ su_bre*cti_s a^de*st,0
+['399'],['#satelles'],"frons prima telis, aurea clarum nota",1.0,397, fro*ns pri_ma^ te_li*s [au]re^a_ cla*ru_m no^ta*,0
+['400'],['#satelles'],nomen ducum vexilla praescriptum ferunt.,1.0,398, no*me_n du^cu_m ve*xi_lla^ pr[ae]scri*ptu_m fe^ru*nt,0
+['401'],['#satelles'],"i, redde amorem fratribus, pacem omnibus,",1.0,399, i* re_dd(e) a^mo_re*m fra_tri^bu_s pa*c(e)m o_mni^bu*s,2
+['402'],['#satelles'],et impia arma matris oppositu impedi.,1.0,400, e*t i_mpi^(a) a_rma* ma_tri^s o_ppo^si^t(u) i_mpe^di*,2
+['403'],['#antigona iocasta nuntius'],"Perge, o parens, et concita celerem gradum,",1.0,401,pe*rg(e) o_ pa^re_ns e*t co_nci^ta_ ce^le^re_m gra^du*m,1
+['404'],['#antigona iocasta nuntius'],"compesce tela, fratribus ferrum excute,",1.0,402, co*mpe_sce^ te_la* fra_tri^bu_s fe*rr(u)m e_xcu^te*,1
+['405'],['#antigona iocasta nuntius'],nudum inter enses pectus infestos tene:,1.0,403, nu*d(u)m i_nte^r e_nse*s pe_ctu^s i_nfe*sto_s te^ne*,1
+['406'],['#antigona iocasta nuntius'],"aut solve bellum, mater, aut prima excipe,",1.0,404, [au]t so_lve^ be_llu*m ma_te^r [au]t pri*m(a) e_xci^pe*,1
+['407'],['#iocasta'],"Ibo ibo et armis obvium opponam caput,",1.0,405, i*b(o) i_b(o) e^t a_rmi*s o_bvi^(u)m o_ppo*na_m ca^pu*t,3
+['408'],['#iocasta'],"stabo inter arma; petere qui fratrem volet,",0.9210526315789473,406, sta*b(o) i_nte^r a_rma* pe^te^re^ qvi_ fra*tre_m vo^le*t,1
+['409'],['#iocasta'],"petat ante matrem, tela, qui fuerit pius,",0.9142857142857143,407, pe^ta^t a_nte^ ma_tre*m te_la^ qvi_ fu^e^ri_t pi^u*s,0
+['410'],['#iocasta'],rogante ponat matre; qui non est pius,0.9090909090909091,408, ro*ga_nte^ po_na*t ma_tre^ qvi_ no*n e_st pi^u*s,0
+['411'],['#iocasta'],incipiat a me. fervidos iuvenes anus,0.90625,409, i*nci^pi^a^t a_ me* fe_rvi^do_s ju^ve^ne_s a^nu*s,0
+['412'],['#iocasta'],"tenebo, nullum teste me fiet nefas;",1.0,410,te*ne_bo^ nu_llu*m te_ste^ me_ fi*e_t ne^fa*s,0
+['413'],['#iocasta'],"aut si aliquod et me teste committi potest,",0.9230769230769231,411, [au]t s(i) a^li^qvo^d e_t me* te_ste^ co_mmi*tti_ po^te*st,1
+"['414', '414b']","['#iocasta', '#antigona']",non fiet unum. Signa collatis micant,1.0,412, no*n fi_e^t u_nu*m si_gna^ co_lla*ti_s mi^ca*nt,0
+['415'],['#antigona'],"vicina signis, clamor hostilis fremit;",1.0,413, vi*ci_na^ si_gni*s cla_mo^r ho_sti*li_s fre^mi*t,0
+['416'],['#antigona'],"scelus in propinquo est: occupa, mater, preces.",0.925,414, sce^lu^s i_n pro^pi_nqv(o) e*st o_ccu^pa_ ma*te_r pre^ce*s,1
+['417'],['#antigona'],"et ecce motos fletibus credas meis,",1.0,415, e*t e_cce^ mo_to*s fle_ti^bu_s cre*da_s me^i*s,0
+['418'],['#antigona'],sic agmen armis segne compositis venit.,1.0,416,si*c a_gme^n a_rmi*s se_gne^ co_mpo^si^ti_s ve^ni*t,0
+['419'],['#satelles'],"Procedit acies tarda, sed properant duces.",1.0,417, pro*ce_di^t a^ci^e*s ta_rda^ se_d pro^pe^ra_nt du^ce*s,0
+['420'],['#iocasta'],Quis me procellae turbine insano vehens,0.8648648648648649,418, qvi*s me_ pro^ce_ll[ae] tu_rbi^n(e) i_nsa*n[ae] ve^he*ns,1
+['421'],['#iocasta'],volucer per auras ventus aetherias aget?,1.0,419, vo^lu^ce_r pe^r [au]ra*s ve_ntu^s [ae]the^ri^a_s a^ge*t,0
+['422'],['#iocasta'],quae Sphinx vel atra nube subtexens diem,0.9459459459459459,420, qv[ae] sphi_nx ve^l a_tra* nu_be^ su_bte*xe_ns di^e*m,0
+['423'],['#iocasta'],Stymphalis avidis praepetem pinnis feret?,0.918918918918919,421,sty*mpha_li^s a^ui^di*s pr[ae]pe^te_m pi*nni_s fe^re*t,0
+['424'],['#iocasta'],aut quae per altas aeris rapiet vias,0.9090909090909091,422, [au]t qv[ae] pe^r a_lta*s a_e^ri_s ra^pi^e_t vi^a*s,0
+['425'],['#iocasta'],Harpyia saevi regis observans famem,0.90625,423, ha*rpy_ja^ s[ae]vi* re_gi^s o_bse*rva_ns fa^me*m,0
+['426'],['#iocasta'],et inter acies proiciet raptam duas?,1.0,424, e*t i_nte^r a^ci^e*s pro_i^ci^e^t ra*pta_m du^a*s,0
+['427'],['#satelles'],Vadit furenti similis aut etiam furit.,1.0,425, va*di_t fu^re_nti* si^mi^li^s [au]t e^ti^a_m fu^ri*t,0
+['428'],['#satelles'],sagitta qualis Parthica velox manu,0.9032258064516129,426, sa*gi_tta^ qva_li*s pa_rthi^ca_ ve*lo_x ma^nu*,0
+['429'],['#satelles'],"excussa fertur, qualis insano ratis",0.9032258064516129,427, e*xcu_ssa^ fe_rtu*r qva_li^s i_nsa*no_ ra^ti*s,0
+['430'],['#satelles'],premente vento rapitur aut qualis cadit,0.9166666666666666,428, pre*me_nte^ ve_nto* ra^pi^tu^r [au]t qva*li_s ca^di*t,0
+['431'],['#satelles'],"delapsa caelo stella, cum stringens polum",1.0,429, de*la_psa^ c[ae]lo* ste_lla^ cu_m stri*nge_ns po^lu*m,0
+['432'],['#satelles'],"rectam citatis ignibus rumpit viam,",1.0,430, re*cta_m ci^ta_ti*s i_gni^bu_s ru*mpi_t vi^a*m,0
+['433'],['#satelles'],attonita cursu fugit et binas statim,1.0,431, a*tto^ni^ta^ cu_rsu* fu_gi^t e_t bi*na_s sta^ti*m,0
+['434'],['#satelles'],"diduxit acies, victa materna prece",1.0,432, di*du_xi^t a^ci^e*s vi_cta^ ma_te*rna_ pre^ce*,0
+['435'],['#satelles'],"haesere bella, iamque in alternam necem",0.8285714285714286,433, h[ae]se_re^ be_lla* ja_mqv(e) i^n a_lte*rna_m ne^ce*m,1
+['436'],['#satelles'],illinc et hinc miscere cupientes manus,1.0,434, i*lli_nc e^t hi_nc mi*sce_re^ cu^pi^e*nte_s ma^nu*s,0
+['437'],['#satelles'],librata dextra tela suspensa tenent.,1.0,435, li*bra_ta^ de_xtra* te_la^ su_spe*nsa_ te^ne*nt,0
+['438'],['#satelles'],"paci favetur, omnium ferrum iacet",0.8620689655172413,436, pa*ci_ fa^ve_tu*r o_mni^u_m fe*rru_m la^te*t,0
+['439'],['#satelles'],cessatve tectum; vibrat in fratrum manu.,0.9428571428571428,437, ce*ssa_tqve^ te_ctu*m vi_bra^t i_n fra*tru_m ma^nu*,0
+['440'],['#satelles'],"laniata canas mater ostendit comas,",1.0,438,la^ni^a_ta^ ca_na*s ma_te^r o_ste*ndi_t co^ma*s,0
+['441'],['#satelles'],"rogat abnuentes, irrigat fletu genas.",0.90625,439, ro^ga^t a_bnu^e_nti*s i_rri^ga_t fle*tu_ ge^na*s,0
+['442'],['#satelles'],"negare matri qui diu dubitat, potest.",0.90625,440, ne*ga_re^ ma_tri* qvi_ di^u_ du^bi^ta_t po^te*st,0
+['443'],['#satelles'],"In me arma et ignes vertite, in me omnis ruat",1.0,441, i*n m(e) a_rm(a) e^t i_gne*s ve_rti^t(e) i_n m(e) o*mni_s ru^a*t,4
+['444'],['#satelles'],unam iuventus quaeque ab Inachio venit,0.7428571428571429,442, u*na_m ju^ve_ntu*s qv[ae]qv(e) a^b i_na^chi^o_ ve^ni*t,1
+['445'],['#satelles'],animosa muro quaeque Thebana ferox,0.8064516129032258,443, a^ni^mo_sa^ mu_ro* qv[ae]qve^ the_ba*na_ fe^ro*x,0
+['446'],['#satelles'],descendit arce; civis atque hostis simul,0.9166666666666666,444, de*sce_ndi^t a_rce* ci_vi^s a_tqv(e) ho*sti_s si^mu*l,1
+['447'],['#satelles'],"hunc petite ventrem, qui dedit fratres viro.",0.9230769230769231,445, hu*nc pe^ti^te^ ve_ntre*m qvi_ de^di_t fra*tre_s vi^ro*,0
+['448'],['#satelles'],haec membra passim spargite ac divellite:,1.0,446, h[ae]c me_mbra^ pa_ssi*m spa_rgi^t(e) a_c di*ve_lli^te*,1
+['449'],['#satelles'],ego utrumque peperi— ponitis ferrum ocius?,0.918918918918919,447, e^g(o) u^tru_mqve^ pe^pe^ri* po_ni^ti_s fe*rr(u)m o_ci^u*s,2
+['450'],['#satelles'],"an dico et ex quo? dexteras matri date,",1.0,448,a*n di_c(o) e^t e_x quo* de_xte^ra_s ma*tri_ da^te*,1
+['451'],['#satelles'],date dum piae sunt. error invitos adhuc,1.0,449, da^te^ du_m pi^[ae] su*nt e_rro^r i_nvi*to_s a^dhu*c,0
+['452'],['#satelles'],"fecit nocentes, omne Fortunae fuit",1.0,450, fe*ci_t no^ce_nte*s o_mne^ fo_rtu*n[ae] fu^i*t,0
+['453'],['#satelles'],peccantis in nos crimen: hoc primum nefas,1.0,451, pe*cca_nti^s i_n no*s cri_me^n ho_c pri*mu_m ne^fa*s,0
+['454'],['#satelles'],"inter scientes geritur, in vestra manu est,",1.0,452, i*nte_r sci^e_nte*s ge^ri^tu^r i_n ve*stra_ ma^n(u) e*st,1
+['455'],['#satelles'],"utrum velitis: sancta si pietas placet,",1.0,453, u*tru_m ve^li_ti*s sa_ncta^ si_ pi^e^ta_s pla^ce*t,0
+['456'],['#satelles'],"t donate matri pacem, si placuit scelus,",0.7714285714285715,454, do*na_te^ ma_tri* be_lla^ si_ pla^cu^i_t sce^lu*s,0
+['457'],['#satelles'],"maius paratum est: media se opponit parens,",0.9210526315789473,455, ma*ju_s pa^ra_t(u)m e*st me^di^a^ s(e) o_ppo*ni_t pa^re*ns,2
+['458'],['#satelles'],"proinde bellum tollite aut belli moram,",1.0,456,pro*i_nde^ be_llu*m to_lli^t(e) au_t be*lli_ mo^ra*m,1
+['459'],['#satelles'],sollicita cui nunc mater alterna prece,1.0,457,so*lli^ci^ta^ c[ui] nu*nc ma_te^r a_lte*rna_ pre^ce*,0
+['460'],['#satelles'],verba admovebo? misera quem amplectar prius?,0.9230769230769231,458, ve*rb(a) a_dmo^ve_bo* mi^se^ra^ qv(e)m a_mple*cta_r pri^u*s,2
+['461'],['#satelles'],in utramque partem ducor affectu pari.,0.9117647058823529,459, i^n u^tra_mqve^ pa_rte*m du_co^r a_ffe*ctu_ pa^ri*,0
+['462'],['#satelles'],"hic afuit; sed pacta si fratrum valent,",1.0,460, hi*c a_fu^i_t se*d pa_cta^ si_ fra*tru_m va^le*nt,0
+['463'],['#satelles'],nunc alter aberit. ergo iam numquam duos,0.8333333333333334,461,nu*nc a_lte^r a^be^ri*t e_rgo^ ja_m nu*mqva_m du^o*s,0
+['464'],['#satelles'],"nisi sic videbo? iunge complexus prior,",0.9117647058823529,462, ni^si^ si_c vi^de_bo* ju_nge^ co_mple*xu_s pri^o*r,0
+['465'],['#satelles'],qui tot labores totque perpessus mala,0.8529411764705882,463, qvi* to_t la^bo_re*s to_tqve^ pe_rpe*ssu_s ma^la*,0
+['466'],['#satelles'],"longo parentem fessus exilio vides,",1.0,464, lo*ngo_ pa^re_nte*m fe_ssu^s e_xi^li^o_ vi^de*s,0
+['467'],['#satelles'],"accede propius, elude vagina impium",0.9032258064516129,465, a*cce_de^ pro^pi^u*s clu_de^ va_gi*n(a) i_mpi^u*m,1
+['468'],['#satelles'],ensem et trementem iamque cupientem excuti,0.8461538461538461,466, e*ns(e)m e_t tre^me_nte*m ja_mqve^ cu^pi^e*nt(e)m e_xcu^ti*,2
+['469'],['#satelles'],hastam solo defige; maternum tuo,1.0,467, ha*sta_m so^lo_ de*fi_ge^ ma_te*rnu_m tu^o*,0
+['470'],['#satelles'],coire pectus pectori clipeus vetat:,1.0,468,co*i_re^ pe_ctu*s pe_cto^ri_ cli^pe^u_s ve^ta*t,0
+['471'],['#satelles'],"hunc quoque repone, vinculo frontem exue",0.8333333333333334,469, hu*nc qvo^qve^ re^po_ne* vi_ncu^lo_ fro*nt(e)m e_xu^e*,1
+['472'],['#satelles'],tegumenque capitis triste belligeri leva,0.918918918918919,470, te^gu^me_nqve^ ca^pi^ti*s tri_ste^ be_lli^ge^ri_ le^va*,0
+['473'],['#satelles'],"et ora matri redde, quo vultus refers",0.9090909090909091,471, e*t o_ra^ ma_tri* re_dde^ qvo_ vu*ltu_s re^fe*rs,0
+['474'],['#satelles'],acieque pavida fratris observas manum?,0.9117647058823529,472, a^ci^e_qve^ pa^vi^da* fra_tri^s o_bse*rva_s ma^nu*m,0
+['475'],['#satelles'],"affusa totum corpus amplexu tegam,",1.0,473, a*ffu_sa^ to_tu*m co_rpu^s a_mple*xu_ te^ga*m,0
+['476'],['#satelles'],tuo emori per meum fiet via.,0.8,474, tu*o_ cru^o_ri* pe_r me^u_m fi*e_t vi^a*,0
+['477'],['#satelles'],quid dubius haeres? an times matris fidem?,0.9459459459459459,475, qvi*d du^bi^u^s h[ae]re*s a_n ti^me_s ma*tri_s fi^de*m,0
+['478'],['#polynices'],Timeo; nihil iam iura naturae valent.,0.8125,476, ti^me^o_ ni^hi_l ja*m ju_ra^ na_tu*r[ae] va^le*nt,0
+['479'],['#polynices'],post ista fratrum exempla ne matri quidem,0.9210526315789473,477, po*st i_sta^ fra_tr(u)m e*xe_mpla^ ne_ ma*tri_ qvi^de*m,1
+"['480', '480b']","['#polynices', '#iocasta']","fides habenda est. Redde iam capulo manum,",0.918918918918919,478, fi*de_s ha^be_nd(a) e*st re_dde^ ja_m ca^pu^lo_ ma^nu*m,1
+['481'],['#iocasta'],"astringe galeam, laeva se clipeo inserat;",1.0,479, a*stri_nge^ ga^le^a*m l[ae]va^ se_ cli^pe^(o) i_nse^ra*t,1
+['482'],['#iocasta'],"dum frater exarmatur, armatus mane.",1.0,480, du*m fra_te^r e_xa*rma_tu^r a_rma*tu_s ma^ne*,0
+['483'],['#iocasta'],"tu pone ferrum, causa qui ferri es prior.",0.9166666666666666,481, tu* po_ne^ fe_rru*m c[au]sa^ qvi_ fe*rr(i) e_s pri^o*r,1
+['484'],['#iocasta'],"si pacis odium est, furere si bello placet:",1.0,482, si* pa_ci^s o^di^(u)m e*st fu^re^re^ si_ be*llo_ pla^ce*t,1
+['485'],['#iocasta'],"indutias te mater exiguas rogat,",1.0,483, i*ndu_ti^a_s te* ma_te^r e_xi^gu^a_s ro^ga*t,0
+['486'],['#iocasta'],ferat ut reverso post fugam nato oscula,1.0,484,fe^ra^t u_t re^ve_rso* po_st fu^ga_m na*t(o) o_scu^la*,1
+['487'],['#iocasta'],"vel prima vel suprema, dum pacem peto,",1.0,485, ve*l pri_ma^ ve_l su*pre_ma^ du_m pa*ce_m pe^to*,0
+['488'],['#iocasta'],"audite inermes, ille te, tu illum times?",1.0,486, [au]di_t(e) i^ne_rme*s i_lle^ te_ t(u) i*llu_m ti^me*s,2
+['489'],['#iocasta'],"ego utrumque, sed pro utroque, quid strictum abnuis",0.8043478260869565,487, e^g(o) u^tru_mqve^ se_d pr(o) u*tro_qve^ qvi_d stri*ct(u)m a_bnu^i*s,3
+['490'],['#iocasta'],recondere ensem? qualibet gaude mora:,0.90625,488, re*co_nde^r(e) e_nse*m qva_li^be_t g[au]de_ mo^ra*,1
+['491'],['#iocasta'],"id gerere bellum cupitis, in quo est optimum",0.925,489, i*d ge^re^re^ be_llu*m cu^pi^ti^s i_n qv(o) e*st o_pti^mu*m,1
+['492'],['#iocasta'],"vinci, vereris fratris infesti dolos?",1.0,490, vi*nci_ ve^re_ri*s fra_tri^s i_nfe*sti_ do^lo*s,0
+['493'],['#iocasta'],"quotiens necesse est fallere aut falli a suis,",0.9523809523809523,491, qvo^ti^e_ns ne^ce_ss(e) e*st fa_lle^r(e) [au]t fa*ll(i) a_ su^i*s,3
+['494'],['#iocasta'],patiare potius ipse quam facias scelus.,0.9142857142857143,492, pa^ti^a_re^ po^ti^u*s i_pse^ qva_m fa^ci^a_s sce^lu*s,0
+['495'],['#iocasta'],sed ne verere: mater insidias et hinc,1.0,493, se*d ne_ ve^re_re* ma_te^r i_nsi^di^a_s e^t hi*nc,0
+['496'],['#iocasta'],et rursus illinc abiget. exoro? an patri,1.0,494, e*t ru_rsu^s i_lli*nc a^bi^ge^t e_xo*r(o) a_n pa^tri*,1
+['497'],['#iocasta'],invideo vestro? veni ut arcerem nefas,0.7272727272727273,495,i*nui^de^o^ ue_stro* ue_n(i) u^t a_rce*re_m ne^fa*s,1
+['498'],['#iocasta'],"an ut viderem propius? hic ferrum abdidit,",1.0,496, a*n u_t vi^de_re*m pro^pi^u^s hi_c fe*rr(u)m a_bdi^di*t,1
+['499'],['#iocasta'],"reclinis hasta est, arma defixa incubant.",0.7222222222222222,497, re*cli_ni^s ha_st[ae] pa_rma^ de_fi*x(ae) i_ncu^ba*t,1
+['500'],['#iocasta'],"ad te preces nunc, nate, maternas feram,",1.0,498, a*d te_ pre^ce_s nu*nc na_te^ ma_te*rna_s fe^ra*m,0
+['501'],['#iocasta'],"sed ante lacrimas, teneo longo tempore",1.0,499,se*d a_nte^ la^cri^ma*s te^ne^o^ lo_ngo* te_mpo^re*,0
+['502'],['#iocasta'],petita votis ora. te profugum solo,1.0,500, pe*ti_ta^ vo_ti*s o_ra^ te_ pro^fu^gu_m so^lo*,0
+['503'],['#iocasta'],patrio penates regis externi tegunt.,1.0,501, pa^tri^o_ pe^na_te*s re_gi^s e_xte*rni_ te^gu*nt,0
+['504'],['#iocasta'],"te maria tot diversa, tot casus vagum",1.0,502, te* ma^ri^a^ to_t di*ve_rsa^ to_t ca*su_s va^gu*m,0
+['505'],['#iocasta'],"egere, non te duxit in thalamos parens",1.0,503, e*ge_re^ no_n te* du_xi^t i_n tha^la^mo_s pa^re*ns,0
+['506'],['#iocasta'],comitata primos nec sua festas manu,1.0,504, co^mi^ta_ta^ pri_mo*s ne_c su^a_ fe*sta_s ma^nu*,0
+['507'],['#iocasta'],ornavit aedes nec sacra laetas faces,1.0,505, o*rna_vi^t [ae]de*s ne_c sa^cra_ l[ae]ta_s fa^ce*s,0
+['508'],['#iocasta'],vitta revinxit; dona non auro graves,1.0,506, vi*tta_ re^vi_nxi*t do_na^ no_n [au]ro_ gra^ve*s,0
+['509'],['#iocasta'],"gazas socer, non arva, non urbes dedit:",1.0,507, ga*za_s so^ce_r no*n a_rva^ no_n u*rbe_s de^di*t,0
+['510'],['#iocasta'],"dotale bellum est. hostium es factus gener,",1.0,508, do*ta_le^ be_ll(u)m e*st ho_sti^(u)m e_s fa*ctu_s ge^ne*r,2
+['511'],['#iocasta'],"patria remotus hospes alieni laris,",1.0,509,pa^tri^a_ re^mo_tu*s ho_spe^s a^li^e*ni_ la^ri*s,0
+['512'],['#iocasta'],"externa consecutus, expulsus tuis,",1.0,510, e*xte_rna^ co_nse*cu_tu^s e_xpu*lsu_s tu^i*s,0
+['513'],['#iocasta'],sine crimine exul. ne quid e fatis tibi,0.9142857142857143,511, si^ne^ cri_mi^n(e) e_xu*l ne_ qvi^d e_ fa*ti_s ti^bi*,1
+['514'],['#iocasta'],"desset paternis, hoc quoque ex illis habes,",0.8421052631578947,512, de*sse_t pa^te_rni*s ho_c qvo^qv(e) e_x i*lli_s ha^be*s,1
+['515'],['#iocasta'],"errasse thalamis, nate post multos mihi",1.0,513, e*rra_sse^ tha^la^mi*s na_te^ po_st mu*lto_s mi^hi*,0
+['516'],['#iocasta'],"remissa soles, nate suspensae metus",0.9032258064516129,514, re*mi_sse^ so_le*s na_te^ su_spe*ns[ae] me^tu*s,0
+['517'],['#iocasta'],"et spes parentis, cuius aspectum deos",0.9090909090909091,515, e*t spe_s pa^re_nti*s cu_ju^s a_spe*ctu_m de^o*s,0
+['518'],['#iocasta'],"semper rogavi, cum tuus reditus mihi",1.0,516, se*mpe_r ro^ga_vi* cu_m tu^u_s re^di^tu_s mi^hi*,0
+['519'],['#iocasta'],"tantum esset erepturus, adventu tuo",1.0,517, ta*nt(u)m e_sse^t e_re*ptu_ru^s a_dve*ntu_ tu^o*,1
+['520'],['#iocasta'],quantum daturus: 'quando pro te desinam',0.8529411764705882,518, qva*ntu_m da^tu_ru*s qva_ndo^ pro_ te* de_si^na*m,0
+['521'],['#iocasta'],dixi 'timere?' dixit inridens deus:,0.0,,,0
+['522'],['#iocasta'],"'ipsum timebis.' nempe nisi bellum foret,",1.0,519, i*psu_m ti^me_bi*s ne_mpe^ ni^si^ be*llu_m fo^re*t,0
+['523'],['#iocasta'],"ego te carerem; nempe si tu non fores,",1.0,520, e^go^ te_ ca^re_re*m ne_mpe^ si_ tu* no_n fo^re*s,0
+['524'],['#iocasta'],"bello carerem. a, triste conspectus datur",0.9166666666666666,521, be*llo_ ca^re_re*m tri_ste^ co_nspe*ctu_s da^tu*r,0
+['525'],['#iocasta'],"pretium tui durumque, sed matri placet.",0.9117647058823529,522, pre^ti^u_m tu^i_ du*ru_mqve^ se_d ma*tri_ pla^ce*t,0
+['526'],['#iocasta'],"hinc modo recedant arma, dum nullum nefas",1.0,523, hi*nc mo^do^ re^ce_da*nt a_rma^ du_m nu*llu_m ne^fa*s,0
+['527'],['#iocasta'],Mars saevus audet: hoc quoque est magnum nefas.,0.8571428571428571,524, ma*rs s[ae]vu^s [au]de*t ho_c qvo^qv(e) e_st ma*gnu_m ne^fa*s,1
+['528'],['#iocasta'],"tam prope fuisse, stupeo et exsanguis tremo,",0.8717948717948718,525, ta*m pro^pe^ fu^i_sse* stu^pe^(o) e^t e_xa*ngvi_s tre^mo*,1
+['529'],['#iocasta'],cum stare fratres hinc et hinc video duos,1.0,526, cu*m sta_re^ fra_tre*s hi_nc e^t hi_nc vi^de^o_ du^o*s,0
+['530'],['#iocasta'],sceleris sub ictu. membra quassantur metu:,0.918918918918919,527, sce^le^ri_s su^b i_ctu* me_mbra^ qva_ssa*ntu_r me^tu*,0
+['531'],['#iocasta'],quam paene mater maius aspexi nefas.,0.84375,528, qva*m p[ae]ne^ ma_te*r ma_ju^s a_spe*xi_ ne^fa*s,0
+['532'],['#iocasta'],quam quod miser videre non potuit pater.,0.8611111111111112,529, qva*m qvo_d mi^se_r vi*de_re^ no_n po^tu^i_t pa^te*r,0
+['533'],['#iocasta'],licet timore facinoris tanti vacem,1.0,530,li*ce_t ti^mo_re* fa^ci^no^ri_s ta*nti_ va^ce*m,0
+['534'],['#iocasta'],"videamque iam nil tale, sum infelix tamen",0.8378378378378378,531, vi^de^a_mqve^ ja_m ni*l ta_le^ s(u)m i_nfe*li_x ta^me*n,1
+['535'],['#iocasta'],quod paene vidi. per decem mensum graves,0.9444444444444444,532, qvo*d p[ae]ne^ vi_di* pe_r de^ce_m me*nsu_m gra^ve*s,0
+['536'],['#iocasta'],uteri labores perque pietatem inclitae,0.9142857142857143,533, u^te^ri_ la^bo_re*s pe_rqve^ pi^e^ta*t(e)m i_ncli^t[ae],1
+['537'],['#iocasta'],precor sororis et per irati sibi,1.0,534, pre*co_r so^ro_ri*s e_t pe^r i_ra*ti_ si^bi*,0
+['538'],['#iocasta'],"genas parentis, scelere quas nullo nocens,",0.918918918918919,535, ge*na_s pa^re_nti*s sce^le^re^ qva_s nu*llo_ no^ce*ns,0
+['539'],['#iocasta'],"erroris a se dira supplicia exigens,",0.90625,536, e*rro_ri^s a_ se* du_ra^ su_ppli^ci^(a) e_xi^ge*ns,1
+['540'],['#iocasta'],hausit: nefandas moenibus patriis faces,1.0,537, h[au]si_t ne^fa_nda*s m[oe]ni^bu_s pa^tri^i_s fa^ce*s,0
+['541'],['#iocasta'],"averte, signa bellici retro agminis",1.0,538, a*ve_rte^ si_gna* be_lli^ci_ re*tr(o) a_gmi^ni*s,1
+['542'],['#iocasta'],"flecte— ut recedas, magna pars sceleris tamen",1.0,539, fle*ct(e) u_t re^ce_da*s ma_gna^ pa_rs sce^le^ri_s ta^me*n,1
+['543'],['#iocasta'],vestri peracta est: vidit hostili grege,1.0,540, ve*stri_ pe^ra_ct(a) e*st vi_di^t ho_sti*li_ gre^ge*,1
+['544'],['#iocasta'],"campos repleri patria, fulgentes procul",1.0,541, ca*mpo_s re^ple_ri* pa^tri^a^ fu_lge*nte_s pro^cu*l,0
+['545'],['#iocasta'],"armis catervas vidit, equitatu levi",0.9032258064516129,542, a*rmi_s ca^te_rva*s vi_di^t e^qvi^ta*tu_ le^vi*,0
+['546'],['#iocasta'],Cadmea frangi prata et excelsos rotis,1.0,543, ca*dme_a^ fra_ngi* pra_t(a) e^t e_xce*lso_s ro^ti*s,1
+['547'],['#iocasta'],"volitare proceres, igne flagrantes trabes",1.0,544, vo^li^ta_re^ pro^ce^re*s i_gne^ fla_gra*nte_s tra^be*s,0
+['548'],['#iocasta'],"fumare, cineri quae petunt nostras domos,",0.9166666666666666,545, fu*ma_re^ ci^ne^ri* qv[ae] pe^tu_nt no*stra_s do^mo*s,0
+['549'],['#iocasta'],fratresque (facinus quod novum et Thebis fuit),0.8536585365853658,546, fra*tre_sqve^ fa^ci^nu*s qvo_d no^v(u)m e_t the*bi_s fu^i*t,1
+['550'],['#iocasta'],"in se ruentes: totus hoc exercitus,",1.0,547, i*n se_ ru^e_nte*s to_tu^s ho_c e*xe_rci^tu*s,0
+['551'],['#iocasta'],"hoc populus omnis, utraque hoc vidit soror",0.9210526315789473,548, ho*c po^pu^lu^s o_mni*s u_tra^qv(e) ho_c vi*di_t so^ro*r,1
+['552'],['#iocasta'],genetrixque vidi: nam pater debet sibi,0.9117647058823529,549, ge^ne^tri_xqve^ vi_di* na_m pa^te_r de*be_t si^bi*,0
+['553'],['#iocasta'],"quod ista non spectavit, occurrat tibi",0.9411764705882353,550, qvo*d i_sta^ no_n spe*cta_vi^t o_ccu*rra_t ti^bi*,0
+['554'],['#iocasta'],"nunc Oedipus, quo iudice erroris quoque",0.7142857142857143,551, nu*nc [oe]di^pu_s qvo* ju_di^c(e) e_rro*ri_s qvo^qve*,1
+['555'],['#iocasta'],"poenae petuntur. ne, precor, ferro erue",1.0,552,p[oe]n[ae] pe^tu_ntu*r ne_ pre^co_r fe*rr(o) e_ru^e*,1
+['556'],['#iocasta'],"patriam ac penates neve, quas regere expetis,",0.875,553, pa^tri^(a)m a_c pe^na_te*s ne_ve^ qv[ae] re^ge^r(e) e_xpe^ti*s,2
+['557'],['#iocasta'],everte Thebas. quis tenet mentem furor?,0.9117647058823529,554, e*ve_rte^ the_ba*s qvi_s te^ne_t me*nte_m fu^ro*r,0
+['558'],['#iocasta'],"petendo patriam perdis? ut fiat tua,.",1.0,555,pe*te_ndo^ pa^tri^a*m pe_rdi^s u_t fi*a_t tu^a*,0
+['559'],['#iocasta'],vis esse nullam? quin tuae causae nocet,0.9142857142857143,556, vi*s e_sse^ nu_lla*m qvi_n tu^[ae] c[au]s[ae] no^ce*t,0
+['560'],['#iocasta'],ipsum hoc quod armis uris infestis solum,0.918918918918919,557, i*ps(u)m ho_c qvo^d a_rmi*s u_ri^s i_nfe*sti_s so^lu*m,1
+['561'],['#iocasta'],segetesque adultas sternis et totos fugam,0.9210526315789473,558, se^ge^te_sqv(e) a^du_lta*s ste_rni^s e_t to*to_s fu^ga*m,1
+['562'],['#iocasta'],edis per agros: nemo sic vastat sua;,1.0,559, e*di_s pe^r a_gro*s ne_mo^ si_c va*sta_t su^a*,0
+['563'],['#iocasta'],quae corripi igne. quae meti gladio iubes,0.7837837837837838,560,qv[ae] co_rri^p(i) i_gne* qv[ae] me^ti_ gla^di^o_ ju^be*s,1
+['564'],['#iocasta'],"aliena credis, rex sit ex vobis uter,",1.0,561, a^li^e_na^ cre_di*s re_x si^t e_x vo*bi_s u^te*r,0
+['565'],['#iocasta'],"manente regno quaerite, haec telis petis",0.8888888888888888,562, ma*ne_nte^ re_gno* qv[ae]ri^t(e) h[ae]c te*li_s pe^te*s,1
+['566'],['#iocasta'],flammisque tecta? poteris has Amphionis,0.9142857142857143,563, fla*mmi_sqve^ te_cta* po^te^ri^s ha_s a*mphi_o^ni*s,0
+['567'],['#iocasta'],quassare moles? nulla quas struxit manus,0.8611111111111112,564, qva*ssa_re^ mo_le*s nu_lla^ qva_s stru*xi_t ma^nu*s,0
+['568'],['#iocasta'],"stridente tardum machina ducens onus,",1.0,565, stri*de_nte^ ta_rdu*m ma_chi^na_ du*ce_ns o^nu*s,0
+['569'],['#iocasta'],sed convocatus vocis et citharae sono,1.0,566, se*d co_nvo^ca_tu*s vo_ci^s e_t ci^tha^r[ae] so^no*,0
+['570'],['#iocasta'],per se ipse summas venit in turres lapis:,1.0,567, pe*r s(e) i_pse^ su_mma*s ve_ni^t i_n tu*rre_s la^pi*s,1
+['571'],['#iocasta'],haec saxa franges? victor hinc spolia auferes,1.0,568, h[ae]c sa_xa^ fra_nge*s vi_cto^r hi_nc spo^li^(a) [au]fe^re*s,1
+['572'],['#iocasta'],"vinctosque duces patris aequales tui,",1.0,569,vi*ncto_sque^ du_ce*s pa_tri^s [ae]qua*le_s tu^i*,0
+['573'],['#iocasta'],matresque ab ipso coniugum raptas sinu,0.8285714285714286,570, ma*tre_sqv(e) a^b i_pso* co_nju^gu_m ra*pta_s si^nu*,1
+['574'],['#iocasta'],saevus catena miles imposita trahet?,1.0,571,s[ae]vu_s ca^te_na* mi_le^s i_mpo^si^ta_ tra^he*t,0
+['575'],['#iocasta'],"adulta virgo, mixta captivo gregi,",1.0,572, a*du_lta^ vi_rgo* mi_xta^ ca_pti*vo_ gre^gi*,0
+['576'],['#iocasta'],Thebana nuribus munus Argolicis eat?,1.0,573, the*ba_na^ nu^ri^bu*s mu_nu^s a_rgo^li^ci_s e^a*t,0
+['577'],['#iocasta'],"an et ipsa, palmas vincta postergum datas,",1.0,574, a^n e^t i_psa^ pa_lma*s vi_ncta^ po_ste*rgu_m da^ta*s,0
+['578'],['#iocasta'],mater triumphi praeda fraterni vehar?,1.0,575, ma*te_r tri^u_mphi* pr[ae]da^ fra_te*rni_ ve^ha*r,0
+['579'],['#iocasta'],potesne cives leto et exilio datos,0.9032258064516129,576, po*te_sne^ ci_ve*s le_t(o) e^t e_xi^ti^o_ da^to*s,1
+['580'],['#iocasta'],videre passim? moenibus caris potes,1.0,577, vi*de_re^ pa_ssi*m m[oe]ni^bu_s ca*ri_s po^te*s,0
+['581'],['#iocasta'],"hostem admovere, sanguine et flamma potes",0.918918918918919,578,ho*st(e)m a_dmo^ue_re* sa_ngui^n(e) e_t fla*mma_ po^te*s,2
+['582'],['#iocasta'],implere Thebas? tam ferus durum geris,1.0,579, i*mple_re^ the_ba*s ta_m fe^ru_s du*ru_m ge^ri*s,0
+['583'],['#iocasta'],saevumque in iras pectus? et nondum imperas.,0.9230769230769231,580, s[ae]vu_mqv(e) i^n i_ra*s pe_ctu^s e_t no*nd(u)m i_mpe^ra*s,2
+['584'],['#iocasta'],"quid sceptra facient? pone vaesanos, precor,",0.868421052631579,581, qvi*d sce_ptra^ fa^ci^e*nt po_ne^ ve_sa*no_s pre^co*r,0
+['585'],['#iocasta'],animi tumores teque pietati refer.,0.9,582,a^ni^mi_ tu^mo_re*s te_qve^ pi^e^ta*ti_ re^fe*r,0
+['586'],['#polynices'],Vt profugus errem? semper ut patria arcear,0.9736842105263158,583, u*t pro^fu^gu^s e_rre*m se_mpe^r u_t pa^tri^(a) a_rce^a*r,1
+['587'],['#polynices'],opemque gentis hospes externae sequar?,0.8529411764705882,584, o*pe_mqve^ ge_nti*s ho_spe^s e_xte*rn[ae] se^qva*r,0
+['588'],['#polynices'],"quid paterer aliud, si fefellissem fidem?",0.9444444444444444,585, qvi*d pa^te^re^r a^li^u*d si_ fe^fe_lli*sse_m fi^de*m,0
+['589'],['#polynices'],si peierassem? fraudis alienae dabo,0.9032258064516129,586, si* pe_je^ra_sse*m fr[au]di^s a^li^e*n[ae] da^bo*,0
+['590'],['#polynices'],"poenas, at ille praemium scelerum feret?",1.0,587, p[oe]na_s a^t i_lle* pr[ae]mi^u_m sce^le^ru_m fe^re*t,0
+['591'],['#polynices'],iubes abire: matris imperio obsequor—,0.90625,588, ju*be_s a^bi_re* ma_tri^s i_mpe^ri^(o) o_bse^qvo*r,1
+['592'],['#polynices'],"da quo revertar, regia frater meus",0.9,589, da* qvo_ re^ve_rta*r re_gi^a_ fra*te_r me^u*s,0
+['593'],['#polynices'],habitat superba: parva me abscondat casa?,0.9444444444444444,590, ha^bi^te_t su^pe_rba* pa_rva^ m(e) a_bsco*nda_t ca^sa*,1
+['594'],['#polynices'],hanc date repulso; liceat exiguo lare,0.8787878787878788,591, ha*nc da_ re^pu_lso* li^ce^a^t e_xi^gu^o_ la^re*,0
+['595'],['#polynices'],pensare regnum? coniugi donum datus,0.9032258064516129,592, pe*nsa_re^ re_gnu*m co_nju^gi_ do*nu_m da^tu*s,0
+['596'],['#polynices'],arbitria thalami dura felicis feram,1.0,593, a*rbi^tri^a^ tha^la^mi* du_ra^ fe_li*ci_s fe^ra*m,0
+['597'],['#polynices'],humilisque socerum lixa dominantem sequar?,0.868421052631579,594, hu^mi^li_sqve^ so^ce^ru*m li_xa^ do^mi^na*nte_m se^qva*r,0
+['598'],['#polynices'],in servitutem cadere de regno grave est.,1.0,595, i*n se_rvi^tu_te*m ca^de^re^ de_ re*gno_ gra^v(e) e*st,1
+['599'],['#polynices'],ioc. Si regna quaeris nec potest sceptro manus,0.8333333333333334,596, si* re_gna^ qv[ae]ri*s ne_c po^te_st sce*ptro_ ma^nu*s,0
+['600'],['#polynices'],"vacare saevo, multa quae possunt peti",0.8181818181818182,597, va*ca_re^ s[ae]vo* mu_lta^ qv[ae] po*ssi_nt pe^ti*,0
+['601'],['#polynices'],in orbe toto quaelibet tellus dabit.,0.90625,598, i*n o_rbe^ to_to* qv[ae]li^be_t te*llu_s da^bi*t,0
+['602'],['#polynices'],"hinc nota Baccho Tmolus attollit iuga,",0.9117647058823529,599, hi*nc no_ta^ ba_ccho* tmo_lu^s a_tto*lli_t ju^ga*,0
+['603'],['#polynices'],qua lata terris spatia frugiferis iacent,0.8648648648648649,600, qva* la_ta^ te_rri*s spa^ti^a^ fru_gi^fe^ri_s ja^ce*nt,0
+['604'],['#polynices'],et qua trahens opulenta Pactolus vada,0.9117647058823529,601, e*t qva_ tra^he_ns o^pu^le_nta^ pa_cto*lu_s va^da*,0
+['605'],['#polynices'],inundat auro rura; nec laetis minus,1.0,602, i*nu_nda^t [au]ro* ru_ra^ ne_c l[ae]ti_s mi^nu*s,0
+['606'],['#polynices'],Maeandros arvis flectit errantis aquas,0.8571428571428571,603,m[ae]a_ndro^s a_rui*s fle_cti^t e_rra*nte_s a^qua*s,0
+['607'],['#polynices'],rapidusque campos fertiles Hermus secat;,0.9166666666666666,604, ra^pi^du_sqve^ ca_mpo*s fe_rti^le_s he*rmu_s se^ca*t,0
+['608'],['#polynices'],hinc grata Cereri Gargara et dives solum,1.0,605, hi*nc gra_ta^ ce^re^ri* ga_rga^r(a) e_t di*ve_s so^lu*m,1
+['609'],['#polynices'],quod Xanthus ambit nivibus Idaeis tumens;,0.9459459459459459,606, qvo*d xa_nthu^s a_mbi*t ni^vi^bu^s i_d[ae]i_s tu^me*ns,0
+['610'],['#polynices'],hinc qua relinquit nomen Ionii mare,0.71875,607,hi*nc qva_ re^li_nqvi*t no_me^n i_o*nji_ ma^re*,0
+['611'],['#polynices'],"faucesque Abydo Sestos opposita premit,",0.9142857142857143,608,f[au]ce_sqv(e) a^by_do* se_sto^s o_ppo*si^ta^ pre^mi*t,1
+['612'],['#polynices'],aut quae latus iam propior orienti dedit,0.6756756756756757,609, [au]t qva_ la^tu_s ja*m pro^pi^u^s o^ri^e*nti_ de^di*t,0
+['613'],['#polynices'],tutamque crebris portibus Lyciam videt:,0.9142857142857143,610, tu*ta_mqve^ cre_bri*s po_rti^bu_s ly^ci^a_m vi^de*t,0
+['614'],['#polynices'],"haec regna ferro quaere, in hos populos ferat",0.8536585365853658,611, ha*c re_gna^ fe_rro* qv[ae]r(e) i^n ho_s po^pu^lo_s fe^ra*t,1
+['615'],['#polynices'],"socer arma fortis, has tuo sceptro paret",1.0,612, so^ce^r a_rma^ fo_rti*s ha_s tu^o_ sce*ptro_ pa^re*t,0
+['616'],['#polynices'],"tradatque gentes, hoc adhuc regnum puta",0.9142857142857143,613, tra*da_tqve^ ge_nte*s ho_c a^dhu_c re*gnu_m pu^ta*,0
+['617'],['#polynices'],"tenere patrem, melius exilium est tibi",1.0,614,te*ne_re^ pa_tre*m me^li^u^s e_xi^li^(u)m e_st ti^bi*,1
+['618'],['#polynices'],"quam reditus iste: crimine alieno exulas,",1.0,615,qua*m re^di^tu^s i_ste* cri_mi^n(e) a^li^e*n(o) e_xu^la*s,2
+['619'],['#polynices'],tuo redibis. melius istis viribus,0.896551724137931,616,tu*o_ re^di_bi*s me^li^u^s i_sti*s ui_ri^bu*s,0
+['620'],['#polynices'],nova regna nullo scelere maculata appetes.,1.0,617, no^va^ re_gna^ nu_llo* sce^le^re^ ma^cu^la*t(a) a_ppe^te*s,1
+['621'],['#polynices'],quin ipse frater arma comitatus tua,0.9375,618, qvi*n i_pse^ fra_te*r a_rma^ co^mi^ta*tu_s tu^a*,0
+['622'],['#polynices'],tibi militabit. vade et id bellum gere,1.0,619, ti^bi^ mi_li^ta_bi*t va_d(e) e^t i_d be*llu_m ge^re*,1
+['623'],['#polynices'],in quo pater materque pugnanti tibi,0.8125,620, i*n qvo_ pa^te_r ma*te_rqve^ pu_gna*nti_ ti^bi*,0
+['624'],['#polynices'],"favere possint, regna cum scelere omnibus",1.0,621, fa*ve_re^ po_ssi*nt re_gna^ cu_m sce^le^r(e) o_mni^bu*s,1
+['625'],['#polynices'],"sunt exilis graviora, nunc belli mala",0.9090909090909091,622,su*nt e_xi^li_s gra^ui^o_ra^ nu_nc be*lli_ ma^la*,0
+['626'],['#polynices'],"propone, dubias Martis incerti vices:",1.0,623, pro*po_ne^ du^bi^a*s ma_rti^s i_nce*rti_ vi^ce*s,0
+['627'],['#polynices'],"licet omne tecum Graeciae robur trahas,",1.0,624, li^ce^t o_mne^ te_cu*m gr[ae]ci^[ae] ro*bu_r tra^ha*s,0
+['628'],['#polynices'],"licet arma longe miles ac late explicet,",1.0,625, li^ce^t a_rma^ lo_nge* mi_le^s a_c la*t(e) e_xpli^ce*t,1
+['629'],['#polynices'],fortuna belli semper ancipiti in loco est.,1.0,626, fo*rtu_na^ be_lli* se_mpe^r a_nci^pi^t(i) i_n lo^c(o) e*st,2
+['630'],['#polynices'],"quodcumque Mars decernit; exaequat duos,",0.7714285714285715,627, qvo*dcu_mqve^ ma_rs de*ce_rni^t e_x[ae]qva_t du^o*s,0
+['631'],['#polynices'],"licet impares sint, gladius; et spes et metus",1.0,628, li^ce^t i_mpa^re_s si*nt gla^di^u^s e_t spe*s e_t me^tu*s,0
+['632'],['#polynices'],"Fors caeca versat, praemium incertum petis,",1.0,629, fo*rs c[ae]ca^ ve_rsa*t pr[ae]mi^(u)m i_nce*rtu_m pe^ti*s,1
+['633'],['#polynices'],"certum scelus, favisse fac votis deos",1.0,630, ce*rtu_m sce^lu_s fa*vi_sse^ fa_c vo*ti_s de^o*s,0
+['634'],['#polynices'],omnes tuis: cessere et aversi fugam,1.0,631, o*mne_s tu^i_s ce*sse_r(e) e^t a_ve*rsi_ fu^ga*m,1
+['635'],['#polynices'],"petiere cives, clade funesta iacens",0.9032258064516129,632, pe^ti^e_re^ ci_ve*s cla_de^ fu_ne*sta_ ja^ce*ns,0
+['636'],['#polynices'],obtexit agros miles— exultes licet,1.0,633, o*bte_xi^t a_gro*s mi_le^s e_xu*lte_s li^ce*t,0
+['637'],['#polynices'],victorque fratris spolia deiecti geras:,0.8285714285714286,634, vi*cto_rqve^ fra_tri*s spo^li^a^ de_je*cti_ ge^ra*s,0
+['638'],['#polynices'],"frangenda palma est. quale tu hoc bellum putas,",0.9285714285714286,635, fra*nge_nda^ pa_lm(a) e*st qva_le^ t(u) ho_c be*llu_m pu^ta*s,2
+['639'],['#polynices'],"in quo execrandum victor admittit nefas,",0.9166666666666666,636, i*n qv(o) e_xe^cra_ndu*m vi_cto^r a_dmi*tti_t ne^fa*s,1
+['640'],['#polynices'],"si gaudet? hunc quem vincere infelix cupis,",0.9210526315789473,637, si* g[au]de^t hu_nc qve*m vi_nce^r(e) i_nfe*li_x cu^pi*s,1
+['641'],['#polynices'],"cum viceris, lugebis. infaustas age",1.0,638, cu*m vi_ce^ri_s lu*ge_bi^s i_nf[au]sta_s a^ge*,0
+['642'],['#polynices'],"dimitte pugnas, libera patriam metu,",1.0,639,di*mi_tte^ pu_gna*s li_be^ra_ pa^tri^a_m me^tu*,0
+"['643', '643b']","['#polynices', '#polynices']","luctu parentes, Sceleris et fraudis suae",1.0,640, lu*ctu_ pa^re_nte*s sce^le^ri^s e_t fr[au]di_s su^[ae],0
+['644'],['#polynices'],poenas nefandus frater ut nullas ferat?,1.0,641, p[oe]na_s ne^fa_ndu*s fra_te^r u_t nu*lla_s fe^ra*t,0
+['645'],['#iocasta'],Ne metue. poenas et quidem solvet graves:,0.9166666666666666,642, ne* me^tu^e^ p[oe]na*s e_t qvi^de_m so*lve_t gra^ve*s,0
+['646'],['#iocasta'],"regnabit, est haec poena, si dubitas, avo",1.0,643, re*gna_bi^t e_st h[ae]c p[oe]na^ si_ du^bi^ta_s a^vo*,0
+['647'],['#iocasta'],patrique crede: Cadmus hoc dicet tibi,0.9090909090909091,644, pa*tri_qve^ cre_de* ca_dmu^s ho_c di*ce_t ti^bi*,0
+['648'],['#iocasta'],"Cadmique proles, sceptra Thebano fuit",0.7647058823529411,645, ca*dmi_qve^ pro_le*s sce_ptra^ the_ba*ru_m fu^i*t,0
+['649'],['#iocasta'],"impune nulli gerere, nec quisquam fide",0.8235294117647058,646, i*mpu_ne^ nu_lli* ge^re^re^ ne_c qvi*sqva_m fi^de*,0
+['650'],['#iocasta'],rupta tenebit illa: iam numeres licet,0.8181818181818182,647, ru*pta_ te^ne_ba*t i_lla^ ja_m nu^me^re_s li^ce*t,0
+"['651', '651b']","['#iocasta', '#eteocles']","fratrem inter istos. Numeret, est tanti mihi",1.0,648, fra*tr(e)m i_nte^r i_sto*s nu^me^re^t e_st ta*nti_ mi^hi*,1
+['652'],['#eteocles'],"cum regibus iacere, te turbae exulum",0.90625,649, cu*m re_gi^bu_s ja*ce_re^ te_ tu*rb(ae) e_xu^lu*m,1
+"['653', '653b']","['#eteocles', '#polynices']","ascribo. Regna, dummodo invisus tuis.",1.0,650, a*scri_bo^ re_gna* du_mmo^d(o) i_nvi*su_s tu^i*s,1
+['654'],['#eteocles'],Regnare non vult esse qui invisus timet:,0.9166666666666666,651, re*gna_re^ no_n vu*lt e_sse^ qv(i) i_nvi*su_s ti^me*t,1
+['655'],['#eteocles'],"simul ista mundi conditor posuit deus,",1.0,652, si^mu^l i_sta^ mu_ndi* co_ndi^to_r po^su^i_t de^u*s,0
+['656'],['#eteocles'],"odium atque regnum: regis hoc magni reor,",0.9166666666666666,653, o^di^(u)m a_tqve^ re_gnu*m re_gi^s ho_c ma*gni_ re^o*r,1
+['657'],['#eteocles'],"odia ipsa premere, multa dominantem vetat",1.0,654, o^di^(a) i_psa^ pre^me^re* mu_lta^ do^mi^na*nte_m ve^ta*t,1
+['658'],['#eteocles'],"amor suorum; plus in iratos licet,",1.0,655, a*mo_r su^o_ru*m plu_s i^n i_ra*to_s li^ce*t,0
+['659'],['#eteocles'],"qui vult amari, languida regnat manu.",0.84375,656, qvi* vu_lt a^ma_ri* la_ngvi^da_ re*gna_t ma^nu*,0
+['660'],['#iocasta'],Invisa numquam imperia retinentur diu.,0.9117647058823529,657, i*nvi_sa^ nu_mqv(a)m i*mpe^ri^a^ re^ti^ne*ntu_r di^u*,1
+['661'],['#eteocles'],Praecepta melius imperi reges dabunt;,1.0,658, pr[ae]ce_pta^ me^li^u*s i_mpe^ri_ re*ge_s da^bu*nt,0
+['662'],['#eteocles'],"exilia tu dispone, pro regno velim—",0.8333333333333334,659, e*xi^li^a^ tu_ co*mpo_ne^ pro_ re*gno_ ve^li*m,0
+['663'],['#iocasta'],Patriam penates coniugem flammis dare?,0.9117647058823529,660, pa^tri^a_m pe^na_te*s co_nju^ge_m fla*mmi_s da^re*,0
+['664'],['#eteocles'],Imperia pretio quolibet constant bene.,0.9117647058823529,661, i*mpe^ri^a^ pre^ti^o* qvo_li^be_t co*nsta_nt be^ne*,0
