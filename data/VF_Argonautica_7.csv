@@ -199,6 +199,8 @@ comp,perseus_n,perseus_text,pc_n,pc_text,pc_bounds,elision,speaker
 0.9285714285714286,198,"'si tibi Thessalicis, nunc si tua forte venenis",198,"""Si tibi Thessalicis, nunc si tua forte uenenis","['CM', 'DI', 'CM', 'DI', 'CM', 'DI', 'CF', None]",0,['Medea']
 1.0,199,"mater et heu, siqua est, posset succurrere coniunx.",199,Mater et heu siqua est posset succurrere coniunx!,"['CF', 'DI', 'CM', 'CM', 'PE', 'CM', 'DI', None]",0,['Medea']
 0.85,200,quidve tuos virgo possim nisi flere labores?,200,Quidne tuos uirgo possim nisi flere labores?,"['CF', 'CM', 'CM', 'CM', 'DI', 'CF', None]",0,['Medea']
+0.0,201,hoc satis ipse ...........,,,,0,['Medea']
+0.5675675675675675,201a,"ei mihi, ne casus etiam spectare supremos",201,Hoc satis ipse *etiam spectare supremos,"[None, None, None, None, None, None]",0,['Medea']
 1.0,202,atque iterum durae cogar comes ire sorori.,202,Atque iterum durae cogar comes ire sorori!,"['SY', 'CM', 'CM', 'CM', 'DI', 'CF', None]",1,['Medea']
 0.9230769230769231,203,"et nunc ille sua non quemquam sorte moveri,",203,"Et nunc ille sua non quemquam sorte moueri,","['CM', 'DI', 'CF', 'CM', 'DI', 'DI', 'CF', None]",0,['Medea']
 1.0,204,"non ullum meminisse putat, cumque omnibus odit",204,"Non ullum meminisse putat, cumque omnibus odit","['CM', 'CM', 'CF', 'CM', 'SY', 'DI', None]",1,['Medea']
@@ -576,6 +578,8 @@ comp,perseus_n,perseus_text,pc_n,pc_text,pc_bounds,elision,speaker
 1.0,576,non tulit ipse moras seseque immisit Iason;,576,Non tulit ipse moras seseque immisit Iason;,"['CM', 'DI', 'CF', 'CM', 'SY', 'CF', None]",1,
 0.8604651162790697,577,"diversos postquam ire videt, galeamque minantem",577,Diuersos postquam ire uidet galeamque minantem,"['CM', 'SY', 'CF', 'CM', 'CF', None]",1,
 0.926829268292683,578,quassat et errantem dextra ciet obvius ignem.,578,Quassat <et> errantem dextra ciet obuius ignem.,"['CF', 'DI', 'CM', 'CM', 'DI', 'DI', None]",0,
+0.0,579,,,,,0,
+0.0,580,,,,,0,
 1.0,581,cunctatus paulum subito furit. aequora non sic,581,Cunctatus paulum subito furit. aequora non sic,"['CM', 'CM', 'CM', 'DI', 'DI', 'CM', None]",0,
 1.0,582,in scopulos irata ruunt eademque recedunt,582,In scopulos irata ruunt eademque recedunt,"['CM', 'CM', 'CF', 'CM', 'CF', None]",0,
 1.0,583,fracta retro. bis fulmineis se flatibus infert,583,Fracta retro. bis fulmineis se flatibus infert,"['CF', 'CM', 'DI', 'CM', 'DI', 'DI', None]",0,
@@ -628,6 +632,7 @@ comp,perseus_n,perseus_text,pc_n,pc_text,pc_bounds,elision,speaker
 0.8571428571428571,630,"iamque omnes videre virum, iamque omnia contra",630,Iamque omnes uidere uirum iamque omnia contra,"['SY', 'CM', 'CF', 'CM', 'SY', 'DI', None]",2,
 0.8,631,"tela micant. tum vero amens discrimine tanto,",631,Tela ibant. tum uero amens discrimine tanto,"['SY', 'CM', 'DI', 'SY', 'CM', 'DI', None]",2,
 0.8333333333333334,632,quam modo Tartareo galeamn Medea veneno,632,Quam modo Tartareo galeam Medea ueneno,"['CM', 'DI', 'CM', 'CM', 'CF', None]",0,
+0.0,633,,,,,0,
 0.9230769230769231,634,in medios torsit; conversae protinus hastae.,634,In medios torsit; conuersae protinus hastae.,"['CM', 'CM', 'CM', 'DI', 'DI', None]",0,
 1.0,635,qualis ubi attonitos maestae Phrygas annua Matris,635,Qualis ubi attonitos maestae Phrygas annua Matris,"['CF', 'SY', 'CM', 'CM', 'DI', 'DI', None]",1,
 0.918918918918919,636,"ira vel exsectos lacerat Bellona comatos,",636,"Ira uel exsectos lacerat Bellona comatos,","['CF', 'DI', 'CM', 'CM', 'CF', None]",0,
@@ -648,4 +653,3 @@ comp,perseus_n,perseus_text,pc_n,pc_text,pc_bounds,elision,speaker
 1.0,651,"dignatur; nec, si ipse sibi terga ingerat ultro",651,"Dignatur, nec, si ipse sibi terga ingerat ultro","['CM', 'DI', 'SY', 'CF', 'CM', 'SY', 'DI', None]",2,
 0.8571428571428571,652,"qui pepigit, velit in pacem dextramque reverti",652,"Qui pepigit, uelit in pacem dextramque reuerti","['CM', 'CM', 'DI', 'CM', 'CM', 'CF', None]",0,
 1.0,653,"amplius; ambo truces, ambo abscessere minantes.",653,"Amplius; ambo truces, ambo abscessere minantes.","['DI', 'CF', 'CM', 'SY', 'CF', None]",1,
-0.5675675675675675,201a,"ei mihi, ne casus etiam spectare supremos",201,Hoc satis ipse *etiam spectare supremos,"[None, None, None, None, None, None]",0,['Medea']

@@ -194,6 +194,7 @@ comp,perseus_n,perseus_text,pc_n,pc_text,pc_bounds,elision,speaker
 1.0,193,"omnibus idem animus forti decernere pugna,",193,Omnibus idem animus forti decernere pugna,"['DI', 'SY', 'CM', 'CM', 'DI', None]",1,
 0.9285714285714286,194,exoptantque virum contraque occurrere poscunt.,194,Exoptantque uirum contraque occurrere poscunt.,"['CF', 'CM', 'SY', 'DI', None]",1,
 1.0,195,qualiter ignotis spumantem funditus amnem,195,Qualiter ignotis spumantem funditus amnem,"['DI', 'CM', 'DI', 'DI', None]",0,
+0.0,196,,,,,0,
 1.0,197,"pandit iter, mox omne pecus formidine pulsa",197,"Pandit iter, mox omne pecus formidine pulsa","['CF', 'CM', 'DI', 'CF', 'CM', 'DI', None]",0,
 0.9069767441860465,198,pone subit iamque et mediis praecedit ab undis.,198,Pone subit iamque et mediis procedit ab undis.,"['CF', 'CM', 'SY', 'CM', 'CM', 'CF', 'DI', None]",1,
 0.925,199,At procul e silvis sese gregibusque ferebat,199,At procul e siluis sese gregibusque ferebat,"['CM', 'DI', 'CM', 'CM', 'CM', 'CF', None]",0,
@@ -206,6 +207,11 @@ comp,perseus_n,perseus_text,pc_n,pc_text,pc_bounds,elision,speaker
 0.9166666666666666,206,"'incipite, o iuvenes. etenim fiducia, credo,",206,"""Incipite, o iuuenes. etenim fiducia, credo,","['SY', 'CM', 'CM', 'CM', 'DI', None]",1,['Amycus']
 1.0,207,huc tulit auditas et sponte lacessitis oras.,207,Huc tulit auditas et sponte lacessitis oras;,"['CM', 'DI', 'CM', 'DI', 'CF', 'DI', None]",0,['Amycus']
 0.9210526315789473,208,"sin errore viae necdum mens gnara locorum,",208,"Sin errore uiae, necdum mens gnara locorum,","['CM', 'CF', 'CM', 'CM', 'DI', 'CF', None]",0,['Amycus']
+0.8205128205128205,209,"Neptuni domus haec, egomet Neptunia proles.",213,"Neptuni domus, atque egomet Neptunia proles.","['CM', 'DI', 'SY', 'CM', 'DI', None]",1,['Amycus']
+0.8604651162790697,210,hie mihi lex caestus adversaque tollere contra,209,Hic mihi lex caestus aduersaque tollere contra,"['CM', 'DI', 'CM', 'CM', 'DI', 'DI', None]",0,['Amycus']
+1.0,211,bracchia. sic ingens Asiae plaga quique per arcton,210,Bracchia; sic ingens Asiae plaga quique per Arcton,"['DI', 'CM', 'CM', 'CM', 'DI', 'CF', 'DI', None]",0,['Amycus']
+0.8636363636363636,212,dexter et in laevum pontus iacet haec mea visit,211,Dexter et in laeuum pontus iacet haec mea uisit,"['CF', 'DI', 'CM', 'CM', 'CM', 'DI', 'CM', 'DI', None]",0,['Amycus']
+0.925,213,hospitia; hoc cuncti remeant certamine reges.,212,"Hospitia, hoc functi remeant certamine reges.","['SY', 'CM', 'CM', 'CM', 'DI', None]",1,['Amycus']
 1.0,214,iam pridem caestus resides et frigida raris,214,Iam pridem caestus resides et frigida raris,"['CM', 'CM', 'CM', 'CM', 'DI', 'DI', None]",0,['Amycus']
 1.0,215,dentibus aret humus. quis mecum foedera iunget?,215,Dentibus aret humus. quis mecum foedera iunget?,"['DI', 'CF', 'CM', 'DI', 'DI', 'DI', None]",0,['Amycus']
 1.0,216,prima manu cui dona fero? mox omnibus idem,216,Prima manu cui dona fero? mox omnibus idem,"['CF', 'CM', 'DI', 'CF', 'CM', 'DI', 'DI', None]",0,['Amycus']
@@ -755,8 +761,3 @@ comp,perseus_n,perseus_text,pc_n,pc_text,pc_bounds,elision,speaker
 0.8717948717948718,760,festa dehinc mediis ineunt convivia tectis,760,Festa dehinc mediis ineunt conuiuia tectis,"['CF', 'CM', 'CM', 'CM', 'DI', None]",0,
 0.926829268292683,761,"communesque vocant superos, quorum eruta nutu",761,"Communesque uocant superos, quorum eruta nutu","['CF', 'CM', 'CM', 'SY', 'DI', None]",1,
 0.926829268292683,762,"Bebrycia, et votis pariter praedaque fruuntur.",762,"Bebrycia, et uotis pariter praedaque fruuntur.","['SY', 'CM', 'CM', 'CM', 'CF', None]",1,
-0.8205128205128205,209,"Neptuni domus haec, egomet Neptunia proles.",213,"Neptuni domus, atque egomet Neptunia proles.","['CM', 'DI', 'SY', 'CM', 'DI', None]",1,['Amycus']
-0.8604651162790697,210,hie mihi lex caestus adversaque tollere contra,209,Hic mihi lex caestus aduersaque tollere contra,"['CM', 'DI', 'CM', 'CM', 'DI', 'DI', None]",0,['Amycus']
-1.0,211,bracchia. sic ingens Asiae plaga quique per arcton,210,Bracchia; sic ingens Asiae plaga quique per Arcton,"['DI', 'CM', 'CM', 'CM', 'DI', 'CF', 'DI', None]",0,['Amycus']
-0.8636363636363636,212,dexter et in laevum pontus iacet haec mea visit,211,Dexter et in laeuum pontus iacet haec mea uisit,"['CF', 'DI', 'CM', 'CM', 'CM', 'DI', 'CM', 'DI', None]",0,['Amycus']
-0.925,213,hospitia; hoc cuncti remeant certamine reges.,212,"Hospitia, hoc functi remeant certamine reges.","['SY', 'CM', 'CM', 'CM', 'DI', None]",1,['Amycus']

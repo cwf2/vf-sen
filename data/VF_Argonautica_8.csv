@@ -285,6 +285,7 @@ comp,perseus_n,perseus_text,pc_n,pc_text,pc_bounds,elision,speaker
 1.0,284,"tot decuit coiisse rates, tot fulgere taedas.'",284,"Tot decuit coiisse rates, tot fulgere taedas.""","['CM', 'CM', 'CF', 'CM', 'DI', 'DI', None]",0,['Absyrtus']
 0.8571428571428571,285,Dixerat atque orans iterum ventosque virosque,285,Dixerat atque orans iterum uentosque uirosque,"['DI', 'SY', 'CM', 'CM', 'CF', None]",1,
 0.6304347826086957,286,perque ratis supplex et remigis,286,Perque ratis supplex et remigis *** uexilla magistris.,"[None, None, None, None, None, None, None, None]",0,
+0.0,286a,vexilla magistris.,,,,0,
 1.0,287,"illi autem intorquent truncis frondentibus undam,",287,Illi autem intorquent truncis frondentibus undam,"['SY', 'SY', 'CM', 'CM', 'DI', None]",2,
 1.0,288,quaeque die fuerat raptim formata sub uno,288,Quaeque die fuerat raptim formata sub uno,"['CF', 'CM', 'CM', 'CM', 'CF', 'DI', None]",0,
 1.0,289,et tantum deiecta suis a montibus arbor,289,Et tantum deiecta suis a montibus arbor,"['CM', 'CM', 'CF', 'CM', 'DI', 'DI', None]",0,
@@ -402,6 +403,8 @@ comp,perseus_n,perseus_text,pc_n,pc_text,pc_bounds,elision,speaker
 1.0,401,quamquam iura deum et sacri sibi conscia pacti,401,Quamquam iura deum et sacri sibi conscia pacti,"['DI', 'CF', 'SY', 'CM', 'CM', 'DI', 'DI', None]",1,
 0.9210526315789473,402,"religio dulcisque movent primordia taedae,",402,"Religio dulcisque mouent primordia taedae,","['CM', 'CF', 'CM', 'DI', None]",0,
 0.926829268292683,403,cunctatur mortemque cupit sociatmque pericli,403,Cunctatur mortemque cupit sociamque pericli,"['CM', 'CF', 'CM', 'CF', None]",0,
+0.0,404,cogitat,,,,0,
+0.717948717948718,404a,haut ultra sociis obsistere pergit.,404,Cogitat **** haud ultra sociis obsistere pergit.,"['DI', None, 'CM', 'CM', 'CM', 'DI', None]",0,
 0.9285714285714286,405,"haec ubi fixa viris, tempus fluctusque quietos",405,Haec ubi fixa uiris tempus fluctusque quietos,"['CM', 'DI', 'CF', 'CM', 'CM', 'CF', None]",0,
 1.0,406,"exspectant: ipsam interea, quid restet, amantem",406,Exspectant: ipsam interea quid restet amantem,"['CM', 'SY', 'CM', 'DI', 'CF', None]",1,
 0.9230769230769231,407,ignorare sinunt decretaque tristia servant.,407,Ignorare sinunt decretaque tristia seruant.,"['CF', 'CM', 'DI', 'DI', None]",0,
@@ -438,6 +441,7 @@ comp,perseus_n,perseus_text,pc_n,pc_text,pc_bounds,elision,speaker
 0.8536585365853658,438,posse? quis ad saevi venturum templa draconis?,438,"Posse, quis ad saeui uenturum templa draconis?","['CF', 'DI', 'CM', 'CM', 'DI', 'CF', None]",0,['Medea']
 1.0,439,o utinam ergo meus pro te non omnia posset,439,O utinam ergo meus pro te non omnia posset,"['CM', 'SY', 'CF', 'CM', 'DI', 'CM', 'DI', 'DI', None]",1,['Medea']
 1.0,440,atque aliquid dubitaret amor. quin nunc quoque quaero,440,Atque aliquid dubitaret amor. quin nunc quoque quaero,"['SY', 'CM', 'CF', 'CM', 'DI', 'CM', 'DI', None]",1,['Medea']
+1.0,459,"quid iubeas.— heu dure siles, magnumque minatur",460,"Quid iubeas. heu dure siles, magnumque minatur","['CM', 'CM', 'DI', 'CF', 'CM', 'CF', None]",0,['Medea']
 0.9545454545454546,441,"nescio quid tuus iste pudor? mene, optime quondam",441,"Nescioquid tuus iste pudor? mene, optime quondam","['CM', 'DI', 'CF', 'CM', 'SY', 'DI', None]",1,['Medea']
 1.0,442,"Aesonide, me ferre preces et supplicis ora",442,"Aesonide, me ferre preces et supplicis ora","['CM', 'DI', 'CF', 'CM', 'DI', 'DI', None]",0,['Medea']
 1.0,443,fas erat? haud hoc nunc genitor putat aut dare poenas,443,Fas erat? haud hoc nunc genitor putat aut dare poenas,"['CM', 'DI', 'CM', 'DI', 'CM', 'CM', 'DI', 'CM', 'DI', None]",0,['Medea']
@@ -456,6 +460,7 @@ comp,perseus_n,perseus_text,pc_n,pc_text,pc_bounds,elision,speaker
 1.0,456,plena lupis quaterentque truces ieiuna leones,456,Plena lupis quaterentque truces ieiuna leones,"['CF', 'CM', 'CF', 'CM', 'CF', None]",0,
 0.8421052631578947,457,ora vel orbatae traherent suspiria vaccae.,457,Ora uel orbatae traherent suspiria uaccae.,"['CF', 'DI', 'CM', 'CM', 'DI', None]",0,
 0.717948717948718,458,"procedit: non gentis honos, non restat imago",458,"Procedit; non gentis honos, non *****","[None, None, None, None, None, None]",0,
+0.8536585365853658,460,"Solis avi, non barbaricae decor ille iuventae,",459,"Solis aui, non barbaricae decor ille iuuentae,","['CF', 'CM', 'DI', 'CM', 'DI', 'CF', None]",0,
 1.0,461,"qualis erat, cum Chaonio radiantia trunco",461,Qualis erat cum Chaonio radiantia trunco,"['CF', 'CM', 'DI', 'CM', 'DI', None]",0,
 0.8536585365853658,462,vellera vexit ovans interque ingentia Graium,462,Vellera uexit ouans interque ingentia Graium,"['DI', 'CF', 'CM', 'SY', 'DI', None]",1,
 0.9210526315789473,463,nomina Palladia virgo stetit altera prora.,463,Nomina Palladia uirgo stetit altera prora.,"['DI', 'CM', 'CM', 'DI', 'DI', None]",0,
@@ -463,6 +468,6 @@ comp,perseus_n,perseus_text,pc_n,pc_text,pc_bounds,elision,speaker
 1.0,465,dura premunt. utcumque tamen mulcere gementem,465,Dura premunt. utcumque tamen mulcere gementem,"['CF', 'CM', 'CF', 'CM', 'CF', None]",0,
 1.0,466,temptat et ipse gemens †et tempera dictis†:,466,Temptat et ipse gemens et *tempera* dictis.,"[None, None, None, None, None, None, None]",0,
 0.9230769230769231,467,'mene aliquid meruisse putas? me talia velle ...',467,"""Mene aliquid meruisse putas, me talia uelle?","['SY', 'CM', 'CF', 'CM', 'DI', 'DI', None]",1,['Jason']
-0.717948717948718,404a,haut ultra sociis obsistere pergit.,404,Cogitat **** haud ultra sociis obsistere pergit.,"['DI', None, 'CM', 'CM', 'CM', 'DI', None]",0,
-1.0,459,"quid iubeas.— heu dure siles, magnumque minatur",460,"Quid iubeas. heu dure siles, magnumque minatur","['CM', 'CM', 'DI', 'CF', 'CM', 'CF', None]",0,['Medea']
-0.8536585365853658,460,"Solis avi, non barbaricae decor ille iuventae,",459,"Solis aui, non barbaricae decor ille iuuentae,","['CF', 'CM', 'DI', 'CM', 'DI', 'CF', None]",0,
+0.0,,temptat et ipse gemens quaerens et tempora dictis:,,,,0,
+0.0,,'mene aliquid meruisse putas? me talia velle,,,,0,
+0.0,,"pro tantis, inquit, meritis tibi praemia reddi?'",,,,0,

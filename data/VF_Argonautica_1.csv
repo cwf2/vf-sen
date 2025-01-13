@@ -43,6 +43,7 @@ comp,perseus_n,perseus_text,pc_n,pc_text,pc_bounds,elision,speaker
 1.0,42,Cretheos ut patrias audis effugerit aras.,42,Cretheos ut patrias audis effugerit aras.,"['DI', 'CM', 'CM', 'CM', 'DI', None]",0,['Pelias']
 0.9285714285714286,43,"hunc ferus Aeetes, Scythiam Phasimque rigentem",43,"Hunc ferus Aeetes, Scythiam Phasinque rigentem","['CM', 'DI', 'CM', 'CM', 'CF', None]",0,['Pelias']
 0.926829268292683,44,"qui colit (heu magni Solis pudor), hospita vina",44,"Qui colit (heu magni Solis pudor), hospita uina","['CM', 'DI', 'CM', 'CM', 'CM', 'DI', 'DI', None]",0,['Pelias']
+0.0,45,,,,,0,['Pelias']
 0.925,46,nil nostri divumque memor. non nuntia tantum,46,Nil nostri diuumque memor. non nuntia tantum,"['CM', 'CM', 'CF', 'CM', 'DI', 'DI', None]",0,['Pelias']
 0.8536585365853658,47,"fama refert: ipsum iuvenem tam saeva gementem,",47,"Fama refert: ipsum iuuenem tam saeua gementem,","['CF', 'CM', 'CM', 'CM', 'DI', 'CF', None]",0,['Pelias']
 1.0,48,"ipsum ego, cum serus fessos sopor alligat artus,",48,"Ipsum ego, cum serus fessos sopor alligat artus,","['SY', 'DI', 'CM', 'CM', 'CM', 'DI', 'DI', None]",1,['Pelias']
@@ -300,6 +301,12 @@ comp,perseus_n,perseus_text,pc_n,pc_text,pc_bounds,elision,speaker
 0.85,300,"mox, ubi victa gravi ceciderunt lumina somno,",300,Mox ubi uicta graui ceciderunt lumina somno,"['CM', 'DI', 'CF', 'CM', 'DI', 'DI', None]",0,
 1.0,301,visa coronatae fulgens tutela carinae,301,Visa coronatae fulgens tutela carinae,"['CF', 'CM', 'CM', 'CF', None]",0,
 1.0,302,vocibus his instare duci: 'Dodonida quercum,302,"Vocibus his instare duci: ""Dodonida quercum","['DI', 'CM', 'CF', 'CM', 'DI', None]",0,['Argo']
+0.8536585365853658,303,Chaoniique vides famulam Iovis. aequora tecum,308,Chaoniique uides famulam Iouis. aequora tecum,"['CF', 'CM', 'CM', 'DI', 'DI', None]",0,['Argo']
+0.8611111111111112,304,"ingredior, nec fatidicis avellere silvis",303,"Ingredior, nec fatidicis auellere siluis","['CM', 'DI', 'CM', 'DI', None]",0,['Argo']
+1.0,305,me nisi promisso potuit Saturnia caelo.,304,Me nisi promisso potuit Saturnia caelo.,"['CM', 'DI', 'CM', 'CM', 'DI', None]",0,['Argo']
+1.0,306,tempus adest; age rumpe moras; dumque aequore toto,305,"Tempus adest; age rumpe moras, dumque aequore toto","['CF', 'CM', 'DI', 'CF', 'CM', 'SY', 'DI', None]",1,['Argo']
+1.0,307,"currimus, incertus si nubila duxerit aether,",306,"Currimus incertus si nubila duxerit aether,","['DI', 'CM', 'DI', 'DI', 'DI', None]",0,['Argo']
+1.0,308,iam nunc mitte metus fidens superisque mihique.',307,"Iam nunc mitte metus fidens superisque mihique.""","['CM', 'DI', 'CF', 'CM', 'CM', 'CF', None]",0,
 0.8837209302325582,309,"dixerat. ille pavens, laeto quamquam omine divum,",309,"Dixerat. ille pauens, laeto quamquam omine diuum,","['DI', 'CF', 'CM', 'CM', 'SY', 'DI', None]",1,
 0.9024390243902439,310,prosiluit stratis. Minyas simul optulit omnis,310,Prosiluit stratis. Minyas simul obtulit omnes,"['CM', 'CM', 'CM', 'DI', 'DI', None]",0,
 0.9230769230769231,311,alma novo crispans pelagus Tithonia Phoebo.,311,Alma nouo crispans pelagus Tithonia Phoebo.,"['CF', 'CM', 'CM', 'CM', 'DI', None]",0,
@@ -842,9 +849,3 @@ comp,perseus_n,perseus_text,pc_n,pc_text,pc_bounds,elision,speaker
 0.9285714285714286,848,"poena docet maneat Pelian, quo limine monstrat.",848,"Poena docet maneat Pelian, quot limine monstra.","['CF', 'CM', 'CM', 'CM', 'DI', 'DI', None]",0,
 1.0,849,mirantur tantos strepitus turbamque ruentem,849,Mirantur tantos strepitus turbamque ruentem,"['CM', 'CM', 'CM', 'CF', None]",0,
 0.9230769230769231,850,et loca et infernos almae virtutis honores.,850,Et loca et infernos almae uirtutis honores.,"['CM', 'SY', 'DI', 'CM', 'CM', 'CF', None]",1,
-0.8536585365853658,303,Chaoniique vides famulam Iovis. aequora tecum,308,Chaoniique uides famulam Iouis. aequora tecum,"['CF', 'CM', 'CM', 'DI', 'DI', None]",0,['Argo']
-0.8611111111111112,304,"ingredior, nec fatidicis avellere silvis",303,"Ingredior, nec fatidicis auellere siluis","['CM', 'DI', 'CM', 'DI', None]",0,['Argo']
-1.0,305,me nisi promisso potuit Saturnia caelo.,304,Me nisi promisso potuit Saturnia caelo.,"['CM', 'DI', 'CM', 'CM', 'DI', None]",0,['Argo']
-1.0,306,tempus adest; age rumpe moras; dumque aequore toto,305,"Tempus adest; age rumpe moras, dumque aequore toto","['CF', 'CM', 'DI', 'CF', 'CM', 'SY', 'DI', None]",1,['Argo']
-1.0,307,"currimus, incertus si nubila duxerit aether,",306,"Currimus incertus si nubila duxerit aether,","['DI', 'CM', 'DI', 'DI', 'DI', None]",0,['Argo']
-1.0,308,iam nunc mitte metus fidens superisque mihique.',307,"Iam nunc mitte metus fidens superisque mihique.""","['CM', 'DI', 'CF', 'CM', 'CM', 'CF', None]",0,
